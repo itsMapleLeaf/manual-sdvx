@@ -1,0 +1,17 @@
+{
+	"name": "manual_sdvx_maple",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"start": ""
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"electron": "^36.2.0"
+	}
+}

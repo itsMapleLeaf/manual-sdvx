@@ -1,0 +1,1284 @@
+{
+	"data": [
+		{
+			"name": "#Namescapes - #Namescapes (Track Clear)",
+			"requires": "|#Namescapes - #Namescapes|",
+			"category": [
+				"Songs",
+				"Song: #Namescapes - #Namescapes",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "#Namescapes - #Namescapes (AA Rank)",
+			"requires": "|#Namescapes - #Namescapes|",
+			"category": [
+				"Songs",
+				"Song: #Namescapes - #Namescapes",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "#Namescapes - #Namescapes (AAA Rank)",
+			"requires": "|#Namescapes - #Namescapes|",
+			"category": [
+				"Songs",
+				"Song: #Namescapes - #Namescapes",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "#Namescapes - #Namescapes (S Rank)",
+			"requires": "|#Namescapes - #Namescapes|",
+			"category": [
+				"Songs",
+				"Song: #Namescapes - #Namescapes",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina (Track Clear)",
+			"requires": "|ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina|",
+			"category": [
+				"Songs",
+				"Song: ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina (AA Rank)",
+			"requires": "|ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina|",
+			"category": [
+				"Songs",
+				"Song: ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina (AAA Rank)",
+			"requires": "|ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina|",
+			"category": [
+				"Songs",
+				"Song: ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina (S Rank)",
+			"requires": "|ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina|",
+			"category": [
+				"Songs",
+				"Song: ABSOLUTE (EUROBEAT REMIX) - Tracy vs. Yu_Asahina",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "ASGORE - Toby Fox (Track Clear)",
+			"requires": "|ASGORE - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: ASGORE - Toby Fox",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "ASGORE - Toby Fox (AA Rank)",
+			"requires": "|ASGORE - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: ASGORE - Toby Fox",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "ASGORE - Toby Fox (AAA Rank)",
+			"requires": "|ASGORE - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: ASGORE - Toby Fox",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "ASGORE - Toby Fox (S Rank)",
+			"requires": "|ASGORE - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: ASGORE - Toby Fox",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Air - Shiki (Track Clear)",
+			"requires": "|Air - Shiki|",
+			"category": [
+				"Songs",
+				"Song: Air - Shiki",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Air - Shiki (AA Rank)",
+			"requires": "|Air - Shiki|",
+			"category": [
+				"Songs",
+				"Song: Air - Shiki",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Air - Shiki (AAA Rank)",
+			"requires": "|Air - Shiki|",
+			"category": [
+				"Songs",
+				"Song: Air - Shiki",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Air - Shiki (S Rank)",
+			"requires": "|Air - Shiki|",
+			"category": [
+				"Songs",
+				"Song: Air - Shiki",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "B.B.K.K.B.K.K. - nora2r (Track Clear)",
+			"requires": "|B.B.K.K.B.K.K. - nora2r|",
+			"category": [
+				"Songs",
+				"Song: B.B.K.K.B.K.K. - nora2r",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "B.B.K.K.B.K.K. - nora2r (AA Rank)",
+			"requires": "|B.B.K.K.B.K.K. - nora2r|",
+			"category": [
+				"Songs",
+				"Song: B.B.K.K.B.K.K. - nora2r",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "B.B.K.K.B.K.K. - nora2r (AAA Rank)",
+			"requires": "|B.B.K.K.B.K.K. - nora2r|",
+			"category": [
+				"Songs",
+				"Song: B.B.K.K.B.K.K. - nora2r",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "B.B.K.K.B.K.K. - nora2r (S Rank)",
+			"requires": "|B.B.K.K.B.K.K. - nora2r|",
+			"category": [
+				"Songs",
+				"Song: B.B.K.K.B.K.K. - nora2r",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Believe In Yourself - kors k (Track Clear)",
+			"requires": "|Believe In Yourself - kors k|",
+			"category": [
+				"Songs",
+				"Song: Believe In Yourself - kors k",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Believe In Yourself - kors k (AA Rank)",
+			"requires": "|Believe In Yourself - kors k|",
+			"category": [
+				"Songs",
+				"Song: Believe In Yourself - kors k",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Believe In Yourself - kors k (AAA Rank)",
+			"requires": "|Believe In Yourself - kors k|",
+			"category": [
+				"Songs",
+				"Song: Believe In Yourself - kors k",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Believe In Yourself - kors k (S Rank)",
+			"requires": "|Believe In Yourself - kors k|",
+			"category": [
+				"Songs",
+				"Song: Believe In Yourself - kors k",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Berry Go!! - Freezer (Track Clear)",
+			"requires": "|Berry Go!! - Freezer|",
+			"category": [
+				"Songs",
+				"Song: Berry Go!! - Freezer",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Berry Go!! - Freezer (AA Rank)",
+			"requires": "|Berry Go!! - Freezer|",
+			"category": [
+				"Songs",
+				"Song: Berry Go!! - Freezer",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Berry Go!! - Freezer (AAA Rank)",
+			"requires": "|Berry Go!! - Freezer|",
+			"category": [
+				"Songs",
+				"Song: Berry Go!! - Freezer",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Berry Go!! - Freezer (S Rank)",
+			"requires": "|Berry Go!! - Freezer|",
+			"category": [
+				"Songs",
+				"Song: Berry Go!! - Freezer",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Black Lotus - wa. (Track Clear)",
+			"requires": "|Black Lotus - wa.|",
+			"category": [
+				"Songs",
+				"Song: Black Lotus - wa.",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Black Lotus - wa. (AA Rank)",
+			"requires": "|Black Lotus - wa.|",
+			"category": [
+				"Songs",
+				"Song: Black Lotus - wa.",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Black Lotus - wa. (AAA Rank)",
+			"requires": "|Black Lotus - wa.|",
+			"category": [
+				"Songs",
+				"Song: Black Lotus - wa.",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Black Lotus - wa. (S Rank)",
+			"requires": "|Black Lotus - wa.|",
+			"category": [
+				"Songs",
+				"Song: Black Lotus - wa.",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Blizzard Beat - SOUND HOLIC feat. Nana Takahashi (Track Clear)",
+			"requires": "|Blizzard Beat - SOUND HOLIC feat. Nana Takahashi|",
+			"category": [
+				"Songs",
+				"Song: Blizzard Beat - SOUND HOLIC feat. Nana Takahashi",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Blizzard Beat - SOUND HOLIC feat. Nana Takahashi (AA Rank)",
+			"requires": "|Blizzard Beat - SOUND HOLIC feat. Nana Takahashi|",
+			"category": [
+				"Songs",
+				"Song: Blizzard Beat - SOUND HOLIC feat. Nana Takahashi",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Blizzard Beat - SOUND HOLIC feat. Nana Takahashi (AAA Rank)",
+			"requires": "|Blizzard Beat - SOUND HOLIC feat. Nana Takahashi|",
+			"category": [
+				"Songs",
+				"Song: Blizzard Beat - SOUND HOLIC feat. Nana Takahashi",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Blizzard Beat - SOUND HOLIC feat. Nana Takahashi (S Rank)",
+			"requires": "|Blizzard Beat - SOUND HOLIC feat. Nana Takahashi|",
+			"category": [
+				"Songs",
+				"Song: Blizzard Beat - SOUND HOLIC feat. Nana Takahashi",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Butterfly Twist - Yooh (Track Clear)",
+			"requires": "|Butterfly Twist - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Butterfly Twist - Yooh",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Butterfly Twist - Yooh (AA Rank)",
+			"requires": "|Butterfly Twist - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Butterfly Twist - Yooh",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Butterfly Twist - Yooh (AAA Rank)",
+			"requires": "|Butterfly Twist - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Butterfly Twist - Yooh",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Butterfly Twist - Yooh (S Rank)",
+			"requires": "|Butterfly Twist - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Butterfly Twist - Yooh",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Chronomia - Lime (Track Clear)",
+			"requires": "|Chronomia - Lime|",
+			"category": [
+				"Songs",
+				"Song: Chronomia - Lime",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Chronomia - Lime (AA Rank)",
+			"requires": "|Chronomia - Lime|",
+			"category": [
+				"Songs",
+				"Song: Chronomia - Lime",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Chronomia - Lime (AAA Rank)",
+			"requires": "|Chronomia - Lime|",
+			"category": [
+				"Songs",
+				"Song: Chronomia - Lime",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Chronomia - Lime (S Rank)",
+			"requires": "|Chronomia - Lime|",
+			"category": [
+				"Songs",
+				"Song: Chronomia - Lime",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "ENERGY SYNERGY MATRIX - Tanchiky (Track Clear)",
+			"requires": "|ENERGY SYNERGY MATRIX - Tanchiky|",
+			"category": [
+				"Songs",
+				"Song: ENERGY SYNERGY MATRIX - Tanchiky",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "ENERGY SYNERGY MATRIX - Tanchiky (AA Rank)",
+			"requires": "|ENERGY SYNERGY MATRIX - Tanchiky|",
+			"category": [
+				"Songs",
+				"Song: ENERGY SYNERGY MATRIX - Tanchiky",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "ENERGY SYNERGY MATRIX - Tanchiky (AAA Rank)",
+			"requires": "|ENERGY SYNERGY MATRIX - Tanchiky|",
+			"category": [
+				"Songs",
+				"Song: ENERGY SYNERGY MATRIX - Tanchiky",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "ENERGY SYNERGY MATRIX - Tanchiky (S Rank)",
+			"requires": "|ENERGY SYNERGY MATRIX - Tanchiky|",
+			"category": [
+				"Songs",
+				"Song: ENERGY SYNERGY MATRIX - Tanchiky",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Element of SPADA - Nekomata Master (Track Clear)",
+			"requires": "|Element of SPADA - Nekomata Master|",
+			"category": [
+				"Songs",
+				"Song: Element of SPADA - Nekomata Master",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Element of SPADA - Nekomata Master (AA Rank)",
+			"requires": "|Element of SPADA - Nekomata Master|",
+			"category": [
+				"Songs",
+				"Song: Element of SPADA - Nekomata Master",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Element of SPADA - Nekomata Master (AAA Rank)",
+			"requires": "|Element of SPADA - Nekomata Master|",
+			"category": [
+				"Songs",
+				"Song: Element of SPADA - Nekomata Master",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Element of SPADA - Nekomata Master (S Rank)",
+			"requires": "|Element of SPADA - Nekomata Master|",
+			"category": [
+				"Songs",
+				"Song: Element of SPADA - Nekomata Master",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Flip Flap - kors k (Track Clear)",
+			"requires": "|Flip Flap - kors k|",
+			"category": [
+				"Songs",
+				"Song: Flip Flap - kors k",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Flip Flap - kors k (AA Rank)",
+			"requires": "|Flip Flap - kors k|",
+			"category": [
+				"Songs",
+				"Song: Flip Flap - kors k",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Flip Flap - kors k (AAA Rank)",
+			"requires": "|Flip Flap - kors k|",
+			"category": [
+				"Songs",
+				"Song: Flip Flap - kors k",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Flip Flap - kors k (S Rank)",
+			"requires": "|Flip Flap - kors k|",
+			"category": [
+				"Songs",
+				"Song: Flip Flap - kors k",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "GOODTEK - EBIMAYO (Track Clear)",
+			"requires": "|GOODTEK - EBIMAYO|",
+			"category": [
+				"Songs",
+				"Song: GOODTEK - EBIMAYO",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "GOODTEK - EBIMAYO (AA Rank)",
+			"requires": "|GOODTEK - EBIMAYO|",
+			"category": [
+				"Songs",
+				"Song: GOODTEK - EBIMAYO",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "GOODTEK - EBIMAYO (AAA Rank)",
+			"requires": "|GOODTEK - EBIMAYO|",
+			"category": [
+				"Songs",
+				"Song: GOODTEK - EBIMAYO",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "GOODTEK - EBIMAYO (S Rank)",
+			"requires": "|GOODTEK - EBIMAYO|",
+			"category": [
+				"Songs",
+				"Song: GOODTEK - EBIMAYO",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "KAMAITACHI - DJ TECHNORCH fw. GUHROOVY (Track Clear)",
+			"requires": "|KAMAITACHI - DJ TECHNORCH fw. GUHROOVY|",
+			"category": [
+				"Songs",
+				"Song: KAMAITACHI - DJ TECHNORCH fw. GUHROOVY",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "KAMAITACHI - DJ TECHNORCH fw. GUHROOVY (AA Rank)",
+			"requires": "|KAMAITACHI - DJ TECHNORCH fw. GUHROOVY|",
+			"category": [
+				"Songs",
+				"Song: KAMAITACHI - DJ TECHNORCH fw. GUHROOVY",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "KAMAITACHI - DJ TECHNORCH fw. GUHROOVY (AAA Rank)",
+			"requires": "|KAMAITACHI - DJ TECHNORCH fw. GUHROOVY|",
+			"category": [
+				"Songs",
+				"Song: KAMAITACHI - DJ TECHNORCH fw. GUHROOVY",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "KAMAITACHI - DJ TECHNORCH fw. GUHROOVY (S Rank)",
+			"requires": "|KAMAITACHI - DJ TECHNORCH fw. GUHROOVY|",
+			"category": [
+				"Songs",
+				"Song: KAMAITACHI - DJ TECHNORCH fw. GUHROOVY",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "MEGALOVANIA - Toby Fox (Track Clear)",
+			"requires": "|MEGALOVANIA - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: MEGALOVANIA - Toby Fox",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "MEGALOVANIA - Toby Fox (AA Rank)",
+			"requires": "|MEGALOVANIA - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: MEGALOVANIA - Toby Fox",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "MEGALOVANIA - Toby Fox (AAA Rank)",
+			"requires": "|MEGALOVANIA - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: MEGALOVANIA - Toby Fox",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "MEGALOVANIA - Toby Fox (S Rank)",
+			"requires": "|MEGALOVANIA - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: MEGALOVANIA - Toby Fox",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "MilK - Morimori Atsushi (Track Clear)",
+			"requires": "|MilK - Morimori Atsushi|",
+			"category": [
+				"Songs",
+				"Song: MilK - Morimori Atsushi",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "MilK - Morimori Atsushi (AA Rank)",
+			"requires": "|MilK - Morimori Atsushi|",
+			"category": [
+				"Songs",
+				"Song: MilK - Morimori Atsushi",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "MilK - Morimori Atsushi (AAA Rank)",
+			"requires": "|MilK - Morimori Atsushi|",
+			"category": [
+				"Songs",
+				"Song: MilK - Morimori Atsushi",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "MilK - Morimori Atsushi (S Rank)",
+			"requires": "|MilK - Morimori Atsushi|",
+			"category": [
+				"Songs",
+				"Song: MilK - Morimori Atsushi",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Nhelv - Silentroom (Track Clear)",
+			"requires": "|Nhelv - Silentroom|",
+			"category": [
+				"Songs",
+				"Song: Nhelv - Silentroom",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Nhelv - Silentroom (AA Rank)",
+			"requires": "|Nhelv - Silentroom|",
+			"category": [
+				"Songs",
+				"Song: Nhelv - Silentroom",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Nhelv - Silentroom (AAA Rank)",
+			"requires": "|Nhelv - Silentroom|",
+			"category": [
+				"Songs",
+				"Song: Nhelv - Silentroom",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Nhelv - Silentroom (S Rank)",
+			"requires": "|Nhelv - Silentroom|",
+			"category": [
+				"Songs",
+				"Song: Nhelv - Silentroom",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "OZONE - Sota Fujimori (Track Clear)",
+			"requires": "|OZONE - Sota Fujimori|",
+			"category": [
+				"Songs",
+				"Song: OZONE - Sota Fujimori",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "OZONE - Sota Fujimori (AA Rank)",
+			"requires": "|OZONE - Sota Fujimori|",
+			"category": [
+				"Songs",
+				"Song: OZONE - Sota Fujimori",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "OZONE - Sota Fujimori (AAA Rank)",
+			"requires": "|OZONE - Sota Fujimori|",
+			"category": [
+				"Songs",
+				"Song: OZONE - Sota Fujimori",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "OZONE - Sota Fujimori (S Rank)",
+			"requires": "|OZONE - Sota Fujimori|",
+			"category": [
+				"Songs",
+				"Song: OZONE - Sota Fujimori",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "SHARK ATTACK - rhyki (Track Clear)",
+			"requires": "|SHARK ATTACK - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK ATTACK - rhyki",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "SHARK ATTACK - rhyki (AA Rank)",
+			"requires": "|SHARK ATTACK - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK ATTACK - rhyki",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "SHARK ATTACK - rhyki (AAA Rank)",
+			"requires": "|SHARK ATTACK - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK ATTACK - rhyki",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "SHARK ATTACK - rhyki (S Rank)",
+			"requires": "|SHARK ATTACK - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK ATTACK - rhyki",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "SHARK IMPACT - rhyki (Track Clear)",
+			"requires": "|SHARK IMPACT - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK IMPACT - rhyki",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "SHARK IMPACT - rhyki (AA Rank)",
+			"requires": "|SHARK IMPACT - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK IMPACT - rhyki",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "SHARK IMPACT - rhyki (AAA Rank)",
+			"requires": "|SHARK IMPACT - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK IMPACT - rhyki",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "SHARK IMPACT - rhyki (S Rank)",
+			"requires": "|SHARK IMPACT - rhyki|",
+			"category": [
+				"Songs",
+				"Song: SHARK IMPACT - rhyki",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Sakura Fubuki - Street (Track Clear)",
+			"requires": "|Sakura Fubuki - Street|",
+			"category": [
+				"Songs",
+				"Song: Sakura Fubuki - Street",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Sakura Fubuki - Street (AA Rank)",
+			"requires": "|Sakura Fubuki - Street|",
+			"category": [
+				"Songs",
+				"Song: Sakura Fubuki - Street",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Sakura Fubuki - Street (AAA Rank)",
+			"requires": "|Sakura Fubuki - Street|",
+			"category": [
+				"Songs",
+				"Song: Sakura Fubuki - Street",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Sakura Fubuki - Street (S Rank)",
+			"requires": "|Sakura Fubuki - Street|",
+			"category": [
+				"Songs",
+				"Song: Sakura Fubuki - Street",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Sakura Reflection - P*Light (Track Clear)",
+			"requires": "|Sakura Reflection - P*Light|",
+			"category": [
+				"Songs",
+				"Song: Sakura Reflection - P*Light",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Sakura Reflection - P*Light (AA Rank)",
+			"requires": "|Sakura Reflection - P*Light|",
+			"category": [
+				"Songs",
+				"Song: Sakura Reflection - P*Light",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Sakura Reflection - P*Light (AAA Rank)",
+			"requires": "|Sakura Reflection - P*Light|",
+			"category": [
+				"Songs",
+				"Song: Sakura Reflection - P*Light",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Sakura Reflection - P*Light (S Rank)",
+			"requires": "|Sakura Reflection - P*Light|",
+			"category": [
+				"Songs",
+				"Song: Sakura Reflection - P*Light",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Say! Fanfare! - Shirokami Fubuki (Track Clear)",
+			"requires": "|Say! Fanfare! - Shirokami Fubuki|",
+			"category": [
+				"Songs",
+				"Song: Say! Fanfare! - Shirokami Fubuki",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Say! Fanfare! - Shirokami Fubuki (AA Rank)",
+			"requires": "|Say! Fanfare! - Shirokami Fubuki|",
+			"category": [
+				"Songs",
+				"Song: Say! Fanfare! - Shirokami Fubuki",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Say! Fanfare! - Shirokami Fubuki (AAA Rank)",
+			"requires": "|Say! Fanfare! - Shirokami Fubuki|",
+			"category": [
+				"Songs",
+				"Song: Say! Fanfare! - Shirokami Fubuki",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Say! Fanfare! - Shirokami Fubuki (S Rank)",
+			"requires": "|Say! Fanfare! - Shirokami Fubuki|",
+			"category": [
+				"Songs",
+				"Song: Say! Fanfare! - Shirokami Fubuki",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Sharkbait - ryhki (Track Clear)",
+			"requires": "|Sharkbait - ryhki|",
+			"category": [
+				"Songs",
+				"Song: Sharkbait - ryhki",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Sharkbait - ryhki (AA Rank)",
+			"requires": "|Sharkbait - ryhki|",
+			"category": [
+				"Songs",
+				"Song: Sharkbait - ryhki",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Sharkbait - ryhki (AAA Rank)",
+			"requires": "|Sharkbait - ryhki|",
+			"category": [
+				"Songs",
+				"Song: Sharkbait - ryhki",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Sharkbait - ryhki (S Rank)",
+			"requires": "|Sharkbait - ryhki|",
+			"category": [
+				"Songs",
+				"Song: Sharkbait - ryhki",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Spider Dance - Toby Fox (Track Clear)",
+			"requires": "|Spider Dance - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: Spider Dance - Toby Fox",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Spider Dance - Toby Fox (AA Rank)",
+			"requires": "|Spider Dance - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: Spider Dance - Toby Fox",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Spider Dance - Toby Fox (AAA Rank)",
+			"requires": "|Spider Dance - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: Spider Dance - Toby Fox",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Spider Dance - Toby Fox (S Rank)",
+			"requires": "|Spider Dance - Toby Fox|",
+			"category": [
+				"Songs",
+				"Song: Spider Dance - Toby Fox",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Tribal Trial - Yooh (Track Clear)",
+			"requires": "|Tribal Trial - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Tribal Trial - Yooh",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Tribal Trial - Yooh (AA Rank)",
+			"requires": "|Tribal Trial - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Tribal Trial - Yooh",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Tribal Trial - Yooh (AAA Rank)",
+			"requires": "|Tribal Trial - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Tribal Trial - Yooh",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Tribal Trial - Yooh (S Rank)",
+			"requires": "|Tribal Trial - Yooh|",
+			"category": [
+				"Songs",
+				"Song: Tribal Trial - Yooh",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "Vividly Impromptu - BlackY (Track Clear)",
+			"requires": "|Vividly Impromptu - BlackY|",
+			"category": [
+				"Songs",
+				"Song: Vividly Impromptu - BlackY",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "Vividly Impromptu - BlackY (AA Rank)",
+			"requires": "|Vividly Impromptu - BlackY|",
+			"category": [
+				"Songs",
+				"Song: Vividly Impromptu - BlackY",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "Vividly Impromptu - BlackY (AAA Rank)",
+			"requires": "|Vividly Impromptu - BlackY|",
+			"category": [
+				"Songs",
+				"Song: Vividly Impromptu - BlackY",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "Vividly Impromptu - BlackY (S Rank)",
+			"requires": "|Vividly Impromptu - BlackY|",
+			"category": [
+				"Songs",
+				"Song: Vividly Impromptu - BlackY",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "blue forest (prog keys mix) - Toroumaru (Track Clear)",
+			"requires": "|blue forest (prog keys mix) - Toroumaru|",
+			"category": [
+				"Songs",
+				"Song: blue forest (prog keys mix) - Toroumaru",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "blue forest (prog keys mix) - Toroumaru (AA Rank)",
+			"requires": "|blue forest (prog keys mix) - Toroumaru|",
+			"category": [
+				"Songs",
+				"Song: blue forest (prog keys mix) - Toroumaru",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "blue forest (prog keys mix) - Toroumaru (AAA Rank)",
+			"requires": "|blue forest (prog keys mix) - Toroumaru|",
+			"category": [
+				"Songs",
+				"Song: blue forest (prog keys mix) - Toroumaru",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "blue forest (prog keys mix) - Toroumaru (S Rank)",
+			"requires": "|blue forest (prog keys mix) - Toroumaru|",
+			"category": [
+				"Songs",
+				"Song: blue forest (prog keys mix) - Toroumaru",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "quaver - Risk Junk (Track Clear)",
+			"requires": "|quaver - Risk Junk|",
+			"category": [
+				"Songs",
+				"Song: quaver - Risk Junk",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "quaver - Risk Junk (AA Rank)",
+			"requires": "|quaver - Risk Junk|",
+			"category": [
+				"Songs",
+				"Song: quaver - Risk Junk",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "quaver - Risk Junk (AAA Rank)",
+			"requires": "|quaver - Risk Junk|",
+			"category": [
+				"Songs",
+				"Song: quaver - Risk Junk",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "quaver - Risk Junk (S Rank)",
+			"requires": "|quaver - Risk Junk|",
+			"category": [
+				"Songs",
+				"Song: quaver - Risk Junk",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP (Track Clear)",
+			"requires": "|こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP|",
+			"category": [
+				"Songs",
+				"Song: こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP",
+				"Goal: Track Clear"
+			]
+		},
+		{
+			"name": "こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP (AA Rank)",
+			"requires": "|こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP|",
+			"category": [
+				"Songs",
+				"Song: こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP",
+				"Goal: AA Rank"
+			]
+		},
+		{
+			"name": "こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP (AAA Rank)",
+			"requires": "|こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP|",
+			"category": [
+				"Songs",
+				"Song: こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP",
+				"Goal: AAA Rank"
+			]
+		},
+		{
+			"name": "こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP (S Rank)",
+			"requires": "|こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP|",
+			"category": [
+				"Songs",
+				"Song: こちら、幸福安心委員会です。 (This is the Happiness and Peace of Mind Committee.) - UtataP",
+				"Goal: S Rank"
+			]
+		},
+		{
+			"name": "BOSS: 666 - RoughSketch",
+			"requires": "|@CHAIN - 666 - RoughSketch:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: 777 - RoughSketch",
+			"requires": "|@CHAIN - 777 - RoughSketch:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: Calamity Tempest - Diceros Bicornis",
+			"requires": "|@CHAIN - Calamity Tempest - Diceros Bicornis:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: Innocent Tempest - Diceros Bicornis",
+			"requires": "|@CHAIN - Innocent Tempest - Diceros Bicornis:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: Lancelot ~Flame of the Rebellion~ - Penoreri",
+			"requires": "|@CHAIN - Lancelot ~Flame of the Rebellion~ - Penoreri:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: Overflow - BlackY",
+			"requires": "|@CHAIN - Overflow - BlackY:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: World's end - Noah",
+			"requires": "|@CHAIN - World's end - Noah:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: Xronial Xero - Camellia as \"menaXe inXonnu\"",
+			"requires": "|@CHAIN - Xronial Xero - Camellia as \"menaXe inXonnu\":5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: ЯeviveR - Diceros Bicornis",
+			"requires": "|@CHAIN - ЯeviveR - Diceros Bicornis:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "BOSS: び (Bi) - Rish feat. choko",
+			"requires": "|@CHAIN - び (Bi) - Rish feat. choko:5|",
+			"place_item_category": [
+				"ULTIMATE CHAIN"
+			],
+			"category": [
+				"Boss Songs"
+			]
+		},
+		{
+			"name": "VICTORY: Believe (y)our Wings {GRA5P WAVES} - GRACE COLORS (Camellia ft. Yuki Shizaki, Nakuru Aitsuki, Aramaki, ORIHIME, Kanata.N, dadaco, haruno, Nanahira)",
+			"requires": "|ULTIMATE CHAIN (GRACE):5|",
+			"place_item": [
+				"PERFECT ULTIMATE CHAIN (GRACE)"
+			],
+			"category": [
+				"Victory Songs"
+			]
+		},
+		{
+			"name": "VICTORY: Believe (y)our Wings {V:IVID RAYS} - RASIS COLORS (Camellia ft. Yuki Shizaki, ayu, kabotya, Kuroa*, SOPHY, mikanzil, myui)",
+			"requires": "|ULTIMATE CHAIN (RASIS):5|",
+			"place_item": [
+				"PERFECT ULTIMATE CHAIN (RASIS)"
+			],
+			"category": [
+				"Victory Songs"
+			]
+		},
+		{
+			"name": "PERFECT ULTIMATE CHAIN",
+			"requires": "|@PERFECT ULTIMATE CHAIN:all|",
+			"victory": true,
+			"category": [
+				"Victory"
+			]
+		}
+	]
+}
