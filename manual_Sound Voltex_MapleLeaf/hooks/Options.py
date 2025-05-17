@@ -34,8 +34,16 @@ class TotalCharactersToWinWith(Range):
     default = 50
 
 
+class SongCountOption(Range):
+    display_name = "Number of songs to add to the pool"
+    range_start = 10
+    range_end = 500
+    default = 100
+
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["song_count"] = SongCountOption
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
