@@ -49,7 +49,7 @@ general flow:
   - strategy: initially impossible (unless you're like 1 of 3 people on the planet) but becomes easier over time with help from items/navigators
   - clear a GRACE track
 
-## characters
+# characters
 
 - [RASIS](https://remywiki.com/RASIS) - cool and cute friend
   - passive: +100,000 to all scores
@@ -72,6 +72,30 @@ general flow:
 - [Lyric Rishuna](https://remywiki.com/Lyric_Rishuna) - holy shit put some clothes on
   - +500,000 score
 - [GRACE](https://remywiki.com/GRACE) - final boss, RASIS's sister
+
+# issues
+
+- how to decide what songs belong to which navigators?
+  - prominent inclusion in jacket art, meaning...
+    - if there are multiple navigators who are prominent, the song belongs to those multiple navigators
+      - e.g. rasis and grace as well as Tsumabuki R+L appear together in several arts
+      - we'll decide later what it means for one song to belong to multiple navigators
+    - if they only exist in some tiny part of the image and/or in the background, doesn't count
+      - ops:Rapture _has_ rasis in the art, but she's very in the background, and removing her wouldn't significantly change the art, so this is very much a grace song
+- issue of metadata differing between generator and .ksh files
+  - the issue is multi-fold:
+    - titles might not match exactly when the songs are the same, due to white space or other unicode issues
+    - might have multiple songs with the same title but different artists - do we need to store song artists as well?
+  - option 1: don't care
+    - just deal with the misses, since most of them are gonna be with weird characters or something, probably
+  - option 2: some sort of distance match formula?
+    - the most i feel comfortable doing with this is just logging when we couldn't find a song
+  - option 3: treat the song DB as the source of truth
+    - basically...
+      1. we get the song db data
+      2. we generate the world data based purely on that, _not_ trying to match ksh track titles
+      3. the ksh files are only used to verify which ones are actually playable
+    - i can't see any immediately unsolvable problems with this so I think we just do this tbh; getting the data was probably inevitable for several reasons
 
 ## technical details
 
