@@ -3,7 +3,9 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
-		"start": ""
+		"build": "bun build --target=node --packages=external --outdir=dist src/main.ts",
+		"dev": "bun build --watch --target=node --packages=external --outdir=dist src/main.ts",
+		"start": "electron dist/main.js"
 	},
 	"devDependencies": {
 		"@types/bun": "latest"
