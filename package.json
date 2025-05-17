@@ -3,9 +3,9 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
+		"generate-manual-world": "bun run scripts/generate-manual-world.ts",
 		"build": "bun build --target=node --packages=external --outdir=dist src/main.ts",
-		"dev": "bun build --watch --target=node --packages=external --outdir=dist src/main.ts",
-		"start": "electron dist/main.js"
+		"dev": "bun build --watch --target=node --packages=external --outdir=dist src/main.ts"
 	},
 	"devDependencies": {
 		"@types/bun": "latest"
@@ -14,7 +14,6 @@
 		"typescript": "^5"
 	},
 	"dependencies": {
-		"cheerio": "^1.0.0",
-		"electron": "^36.2.0"
+		"cheerio": "^1.0.0"
 	}
 }
