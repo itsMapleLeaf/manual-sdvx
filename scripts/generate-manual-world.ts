@@ -36,6 +36,14 @@ const items: Item[] = [
 
 const locations: Location[] = []
 
+const categories: Record<
+	string,
+	{
+		hidden?: boolean
+		yaml_option?: string[]
+	}
+> = {}
+
 function addItem(item: Item) {
 	items.push(item)
 	return item
@@ -156,13 +164,15 @@ const graceSongs = [
 	{ title: "You Are My Best RivaL!!" },
 ]
 
-for (const [songId, song] of songs.entries()) {
+for (const [songNumber, song] of songs.entries()) {
 	const songText = `${song.title} by ${song.artist}`
 	const itemName = `${songText} [ACCESS]`
+	const songNumberCategory = `(Song Number ${songNumber})`
+	categories[songNumberCategory] = { hidden: true }
 
 	addItem({
 		name: itemName,
-		category: ["(Songs)", songText, `(Song ID ${songId})`],
+		category: ["(Songs)", songText, songNumberCategory],
 		progression: true,
 	})
 
@@ -170,7 +180,9 @@ for (const [songId, song] of songs.entries()) {
 		addLocation({
 			name: `${songText} [CLEAR] (${goal})`,
 			category: ["(Goals)", songText, goal],
-			requires: `|@(Song ID ${songId})|`,
+			// some songs have weird names in them which break the requires syntax,
+			// so we tie them via an internal song number category instead
+			requires: `|@${songNumberCategory}|`,
 		})
 	}
 }
@@ -179,10 +191,19 @@ await writeFile(
 	join(import.meta.dirname, "../manual_Sound Voltex_MapleLeaf/data/items.json"),
 	JSON.stringify(items, null, "\t"),
 )
+
 await writeFile(
 	join(
 		import.meta.dirname,
 		"../manual_Sound Voltex_MapleLeaf/data/locations.json",
 	),
 	JSON.stringify(locations, null, "\t"),
+)
+
+await writeFile(
+	join(
+		import.meta.dirname,
+		"../manual_Sound Voltex_MapleLeaf/data/categories.json",
+	),
+	JSON.stringify(categories, null, "\t"),
 )
