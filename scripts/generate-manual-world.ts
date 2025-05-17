@@ -162,8 +162,7 @@ for (const [songId, song] of songs.entries()) {
 
 	addItem({
 		name: itemName,
-		value: { song_id: songId },
-		category: ["(Songs)", songText],
+		category: ["(Songs)", songText, `(Song ID ${songId})`],
 		progression: true,
 	})
 
@@ -171,7 +170,7 @@ for (const [songId, song] of songs.entries()) {
 		addLocation({
 			name: `${songText} [CLEAR] (${goal})`,
 			category: ["(Goals)", songText, goal],
-			requires: `{ItemValue(song_id:${songId})}`,
+			requires: `|@(Song ID ${songId})|`,
 		})
 	}
 }
