@@ -46,7 +46,7 @@ for (let page = 1; page <= 53; page++) {
 console.debug(`saving ${songs.length} songs...`)
 
 await writeFile(
-	join(import.meta.dirname, "../data/songs.json"),
+	join(import.meta.dirname, "../manual_Sound Voltex_MapleLeaf/data/songs.json"),
 	JSON.stringify(songs, null, "\t"),
 )
 
