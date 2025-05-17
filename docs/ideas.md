@@ -96,6 +96,7 @@ general flow:
       2. we generate the world data based purely on that, _not_ trying to match ksh track titles
       3. the ksh files are only used to verify which ones are actually playable
     - i can't see any immediately unsolvable problems with this so I think we just do this tbh; getting the data was probably inevitable for several reasons
+      - if i don't have a chart that gets included in the rando, i'll just mark the check probably
 
 ## technical details
 
