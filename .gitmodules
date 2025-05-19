@@ -1,0 +1,6 @@
+[submodule "Manual"]
+	path = Manual
+	url = https://github.com/ManualForArchipelago/Manual
+[submodule "Archipelago"]
+	path = Archipelago
+	url = https://github.com/ArchipelagoMW/Archipelago

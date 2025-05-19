@@ -1,6 +1,6 @@
 import { load } from "cheerio"
 import { writeFile } from "node:fs/promises"
-import { join } from "node:path"
+import { manualDataPath } from "./paths.ts"
 
 const songs = []
 
@@ -45,9 +45,6 @@ for (let page = 1; page <= 53; page++) {
 
 console.debug(`saving ${songs.length} songs...`)
 
-await writeFile(
-	join(import.meta.dirname, "../manual_Sound Voltex_MapleLeaf/data/songs.json"),
-	JSON.stringify(songs, null, "\t"),
-)
+await writeFile(manualDataPath("songs.json"), JSON.stringify(songs, null, "\t"))
 
 console.debug("done")

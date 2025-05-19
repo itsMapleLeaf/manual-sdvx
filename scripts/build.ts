@@ -1,6 +1,8 @@
+import AdmZip from "adm-zip"
 import { writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import songs from "../manual_Sound Voltex_MapleLeaf/data/songs.json"
+import songs from "../Manual/src/data/songs.json"
+import { manualDataPath } from "./paths.ts"
 
 type Item = {
 	name: string
@@ -187,23 +189,28 @@ for (const [songNumber, song] of songs.entries()) {
 	}
 }
 
-await writeFile(
-	join(import.meta.dirname, "../manual_Sound Voltex_MapleLeaf/data/items.json"),
-	JSON.stringify(items, null, "\t"),
-)
+await writeFile(manualDataPath("items.json"), JSON.stringify(items, null, "\t"))
 
 await writeFile(
-	join(
-		import.meta.dirname,
-		"../manual_Sound Voltex_MapleLeaf/data/locations.json",
-	),
+	manualDataPath("locations.json"),
 	JSON.stringify(locations, null, "\t"),
 )
 
 await writeFile(
-	join(
-		import.meta.dirname,
-		"../manual_Sound Voltex_MapleLeaf/data/categories.json",
-	),
+	manualDataPath("categories.json"),
 	JSON.stringify(categories, null, "\t"),
 )
+
+console.info("Generated")
+
+const worldFileName = "manual_SDVX_MapleLeaf"
+
+const zip = new AdmZip()
+await zip.addLocalFolderPromise("Manual/src", {
+	zipPath: worldFileName,
+})
+await zip.writeZipPromise(
+	join(import.meta.dirname, `../dist/${worldFileName}.apworld`),
+)
+
+console.info("World built")

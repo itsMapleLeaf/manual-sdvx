@@ -1,0 +1,5 @@
+{
+	"extraPaths": [".", "./Archipelago"],
+	"typeCheckingMode": "basic",
+	"stubPath": "./typings"
+}

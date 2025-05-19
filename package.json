@@ -4,16 +4,18 @@
 	"private": true,
 	"scripts": {
 		"fetch-songs": "bun run scripts/fetch-songs.ts",
-		"generate-data": "bun run scripts/generate-data.ts",
-		"generate-data:dev": "bun run --watch scripts/generate-data.ts"
+		"build": "bun run scripts/build.ts",
+		"dev": "bun run --watch scripts/build.ts"
 	},
 	"devDependencies": {
+		"@types/adm-zip": "^0.5.7",
 		"@types/bun": "latest"
 	},
 	"peerDependencies": {
 		"typescript": "^5"
 	},
 	"dependencies": {
+		"adm-zip": "^0.5.16",
 		"cheerio": "^1.0.0"
 	}
 }
