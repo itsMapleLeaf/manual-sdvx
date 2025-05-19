@@ -12,7 +12,7 @@ from ..Locations import ManualLocation
 from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
-from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat
+from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, load_data_file
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
@@ -38,7 +38,15 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    pass
+    songs = load_data_file("songs.json")
+    song_count = get_option_value(multiworld, player, "song_count")
+    world.chosen_song_identifiers = []
+    world.random.shuffle(songs)
+
+    for song_number in range(song_count):
+        song = songs.pop()
+        song_identifier = song['title'] + " by " + song['artist']
+        world.chosen_song_identifiers.append(song_identifier)
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
