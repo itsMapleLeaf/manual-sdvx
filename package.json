@@ -3,9 +3,9 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
-		"generate-manual-world": "bun run scripts/generate-manual-world.ts",
-		"build": "bun build --target=node --packages=external --outdir=dist src/main.ts",
-		"dev": "bun build --watch --target=node --packages=external --outdir=dist src/main.ts"
+		"fetch-songs": "bun run scripts/fetch-songs.ts",
+		"generate-data": "bun run scripts/generate-data.ts",
+		"generate-data:dev": "bun run --watch scripts/generate-data.ts"
 	},
 	"devDependencies": {
 		"@types/bun": "latest"
