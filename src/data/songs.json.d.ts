@@ -1,4 +1,5 @@
 export type Song = {
+	identifier: string
 	title: string
 	artist: string
 	groups: string[]
