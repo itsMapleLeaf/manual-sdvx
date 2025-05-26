@@ -5,7 +5,7 @@
 	"scripts": {
 		"fetch-songs": "bun run scripts/fetch-songs.ts",
 		"build": "bun run scripts/build.ts",
-		"dev": "bun run --watch scripts/build.ts"
+		"dev": "bun run --watch --no-clear-screen scripts/build.ts"
 	},
 	"devDependencies": {
 		"@types/adm-zip": "^0.5.7",
