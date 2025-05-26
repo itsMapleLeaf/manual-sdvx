@@ -41,14 +41,51 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     PLAYER_SONG_LISTS[player] = []
 
-    song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
-    world.random.shuffle(song_library)
-
     song_count = cast(int, get_option_value(multiworld, player, "song_count"))
-    # TODO: get other options, like song groups, diff range, etc.
+    min_difficulty = cast(int, get_option_value(multiworld, player, "min_difficulty"))
+    max_difficulty = cast(int, get_option_value(multiworld, player, "max_difficulty"))
 
+    group_names_by_category_option = {
+        "enable_category_sdvx_original": "SDVX Original",
+        "enable_category_floor": "FLOOR",
+        "enable_category_bemani": "BEMANI",
+        "enable_category_other": "Other",
+        "enable_category_touhou_arrange": "Touhou Arrange",
+        "enable_category_vocaloid": "Vocaloid",
+        "enable_category_pops_anime": "Pops & Anime",
+        "enable_category_hinabitter_bandmeshi": "Hinabitter♪/BandMeshi♪",
+    }
+
+    song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
+    allowed_songs: list[dict] = []
+
+    for song in song_library:
+        song_charts: dict[str, int] = song.get("charts", {})
+        has_valid_difficulty = False
+        for chart in song_charts:
+            difficulty = song_charts[chart]
+            if difficulty >= min_difficulty or difficulty <= max_difficulty:
+                has_valid_difficulty = True
+                break
+
+        song_groups: list[str] = song.get("groups", [])
+        has_valid_category = False
+        for category_option_name in group_names_by_category_option:
+            is_category_enabled = cast(bool,
+                get_option_value(multiworld, player, category_option_name))
+            if not is_category_enabled: continue
+
+            group_name = group_names_by_category_option[category_option_name]
+            if group_name in song_groups:
+                has_valid_category = True
+                break
+
+        if has_valid_difficulty and has_valid_category:
+            allowed_songs.append(song)
+
+    world.random.shuffle(allowed_songs)
     for song_number in range(song_count):
-        song = song_library.pop()
+        song = allowed_songs.pop()
         PLAYER_SONG_LISTS[player].append(song['identifier'])
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
