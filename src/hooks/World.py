@@ -1,4 +1,7 @@
+from typing import Any, cast
+
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
+from .Globals import PLAYER_SONG_LISTS
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 
@@ -9,7 +12,7 @@ from ..Locations import ManualLocation
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
 #
-from ..Data import game_table, item_table, location_table, region_table
+from ..Data import convert_to_list, game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, load_data_file
@@ -29,8 +32,6 @@ import logging
 ## The fill_slot_data method will be used to send data to the Manual client for later use, like deathlink.
 ########################################################################################
 
-
-
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
@@ -38,15 +39,17 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    songs = load_data_file("songs.json")
-    song_count = get_option_value(multiworld, player, "song_count")
-    world.chosen_song_identifiers = []
-    world.random.shuffle(songs)
+    PLAYER_SONG_LISTS[player] = []
+
+    song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
+    world.random.shuffle(song_library)
+
+    song_count = cast(int, get_option_value(multiworld, player, "song_count"))
+    # TODO: get other options, like song groups, diff range, etc.
 
     for song_number in range(song_count):
-        song = songs.pop()
-        song_identifier = song['title'] + " by " + song['artist']
-        world.chosen_song_identifiers.append(song_identifier)
+        song = song_library.pop()
+        PLAYER_SONG_LISTS[player].append(song['identifier'])
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
