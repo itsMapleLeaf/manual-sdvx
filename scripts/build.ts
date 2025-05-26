@@ -167,21 +167,19 @@ const graceSongs = [
 ]
 
 for (const [songNumber, song] of songs.entries()) {
-	const songText = `${song.title} by ${song.artist}`
-	const itemName = `${songText} [ACCESS]`
 	const songNumberCategory = `(Song Number ${songNumber})`
 	categories[songNumberCategory] = { hidden: true }
 
 	addItem({
-		name: itemName,
-		category: ["(Songs)", songText, songNumberCategory],
+		name: song.identifier,
+		category: ["(Songs)", songNumberCategory],
 		progression: true,
 	})
 
 	for (const goal of goals) {
 		addLocation({
-			name: `${songText} [CLEAR] (${goal})`,
-			category: ["(Goals)", songText, goal],
+			name: `${song.identifier} [CLEAR] (${goal})`,
+			category: ["(Goals)", song.identifier, goal],
 			// some songs have weird names in them which break the requires syntax,
 			// so we tie them via an internal song number category instead
 			requires: `|@${songNumberCategory}|`,
@@ -205,12 +203,13 @@ console.info("Generated")
 
 const worldFileName = "manual_SDVX_MapleLeaf"
 
+const apworldFolder =
+	Bun.env.APWORLD_OUTPUT_FOLDER || join(import.meta.dirname, `../dist`)
+
 const zip = new AdmZip()
 await zip.addLocalFolderPromise("Manual/src", {
 	zipPath: worldFileName,
 })
-await zip.writeZipPromise(
-	join(import.meta.dirname, `../dist/${worldFileName}.apworld`),
-)
+await zip.writeZipPromise(join(apworldFolder, `${worldFileName}.apworld`))
 
 console.info("World built")

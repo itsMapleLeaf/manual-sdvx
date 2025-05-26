@@ -33,6 +33,7 @@ for (let page = 1; page <= 53; page++) {
 		}
 
 		songs.push({
+			identifier: `${title} by ${artist}`,
 			title,
 			artist,
 			groups,

@@ -1,3 +1,17 @@
+# structure
+
+- resource: volforce
+- "lobby" region
+  - 50 songs, generic unlocks
+- navigator regions:
+  - up to 8 songs per navigator
+  - each song goal = navigator appeal
+  - 20 navigator appeal: region completed
+  - navigator appeal also spawns outside of world
+- boss region:
+  - requires unlocking every navigator region
+  - complete 3 boss songs to win
+
 # current picture
 
 general flow:
@@ -9,13 +23,11 @@ general flow:
 - resource: ACCESS
   - unlocks individual songs
   - player starts with 7
-  - 5 each
 - location: CLEAR (pass, AA rank, ...)
   - completed by achieving the corresponding goal on a song
   - places random item
 - resource: ACCESS (navigator)
   - unlocks a navigator song
-  - 2 each
 - location: CLEAR (navigator) (pass, AA rank, ...)
   - completed by achieving the corresponding goal on a song
   - places appeal for specific navigator
@@ -52,25 +64,15 @@ general flow:
 # characters
 
 - [RASIS](https://remywiki.com/RASIS) - cool and cute friend
-  - passive: +100,000 to all scores
 - [TSUMABUKI](https://remywiki.com/TSUMABUKI) - RASIS's companion
-  - clear a trap
 - Tsumabuki [LEFT](https://remywiki.com/Tsumabuki_LEFT) & [RIGHT](https://remywiki.com/Tsumabuki_RIGHT) - cute twink twins
-  - 4 energy: auto-play left/right lazer
 - [NEAR & NOAH](https://remywiki.com/NEAR_%26_NOAH) - the most adorable creatures known to mankind
-  - turn up to 50 NEAR to CRITICAL
 - [Kureha](https://remywiki.com/Kureha) - edgy (hot) samurai girl
-  - 3 energy: clear any goal
 - [Hina, Ao, Momo](https://remywiki.com/Hina,_Ao,_and_Momo) - cute and huggable trio
-  - turn up to 50 ERROR to NEAR
 - [Voltenizer Maxima](https://remywiki.com/Voltenizer_Maxima) - daddy? i mean daddy? i mean daddy? i mean daddy? i mean daddy? i me
-  - 2 energy: clear highest uncleared goal
 - [Kougei Ciel Nana](https://remywiki.com/Kougei_Ciel_Nana) - edgy French (derogatory) ojou-sama
-  - use CMod
 - [Kanade Yamashina](https://remywiki.com/Kanade_Yamashina) - I love Camellia (feat. Nanahira)
-  - rescue: +5 energy
 - [Lyric Rishuna](https://remywiki.com/Lyric_Rishuna) - holy shit put some clothes on
-  - +500,000 score
 - [GRACE](https://remywiki.com/GRACE) - final boss, RASIS's sister
 
 # issues
