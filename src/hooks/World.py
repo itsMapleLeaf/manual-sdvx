@@ -55,16 +55,24 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     }
 
     song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
+
+    playable_songs: list[dict] = []
     boss_songs: list[str] = []
 
     for song in song_library:
         song_charts: dict[str, int] = song.get("charts", {})
+        is_boss = False
+
         for chart in song_charts:
             difficulty = song_charts[chart]
             if difficulty >= 20:
-                boss_songs.append(song["identifier"])
-                song_library.remove(song)
+                is_boss = True
                 break
+
+        if is_boss:
+            boss_songs.append(song["identifier"])
+        else:
+            playable_songs.append(song)
 
     navigator_song_names: dict[str, list[str]] = load_data_file("navigators.json")
     allowed_navigator_songs: dict[str, list[str]] = {}
@@ -73,7 +81,7 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
     allowed_songs: list[str] = []
 
-    for song in song_library:
+    for song in playable_songs:
         song_charts: dict[str, int] = song.get("charts", {})
         has_valid_difficulty = False
         for chart in song_charts:
@@ -112,15 +120,22 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
     for navigator in allowed_navigator_songs:
         current_navigator_songs = allowed_navigator_songs[navigator]
-        world.random.shuffle(current_navigator_songs)
-        for i in range(min(5, len(current_navigator_songs))):
-            PLAYER_SONG_LISTS[player].append(current_navigator_songs.pop())
+        chosen_navigator_songs = world.random.sample(current_navigator_songs, k = min(5, len(current_navigator_songs)))
+        # print("chosen_navigator_songs:")
+        # print("\n".join(chosen_navigator_songs), len(chosen_navigator_songs))
+        PLAYER_SONG_LISTS[player].extend(chosen_navigator_songs)
 
-    world.random.shuffle(allowed_songs)
-    for i in range(song_count):
-        PLAYER_SONG_LISTS[player].append(allowed_songs.pop())
+    chosen_allowed_songs = world.random.sample(allowed_songs, k = min(song_count, len(allowed_songs)))
+    # print("chosen_allowed_songs:")
+    # print("\n".join(chosen_allowed_songs), len(chosen_allowed_songs))
+    PLAYER_SONG_LISTS[player].extend(chosen_allowed_songs)
 
-    PLAYER_SONG_LISTS[player].extend(world.random.choices(boss_songs, k = 3))
+    chosen_boss_songs = world.random.sample(boss_songs, k = min(3, len(boss_songs)))
+    # print("chosen_boss_songs:")
+    # print("\n".join(chosen_boss_songs), len(chosen_boss_songs))
+    PLAYER_SONG_LISTS[player].extend(chosen_boss_songs)
+
+
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):

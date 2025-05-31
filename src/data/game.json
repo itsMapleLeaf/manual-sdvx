@@ -7,10 +7,6 @@
         {
             "item_categories": ["Songs"],
             "random": 5
-        },
-        {
-            "item_categories": ["Navigator Keys"],
-            "random": 1
         }
     ],
     "death_link": false

@@ -8,84 +8,96 @@
 		"name": "RASIS [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for RASIS"
 		]
 	},
 	{
 		"name": "GRACE [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for GRACE"
 		]
 	},
 	{
 		"name": "Tsumabuki Left [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Tsumabuki Left"
 		]
 	},
 	{
 		"name": "Tsumabuki Right [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Tsumabuki Right"
 		]
 	},
 	{
 		"name": "NEAR & NOAH [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for NEAR & NOAH"
 		]
 	},
 	{
 		"name": "Kureha [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Kureha"
 		]
 	},
 	{
 		"name": "Hina, Ao, Momo [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Hina, Ao, Momo"
 		]
 	},
 	{
 		"name": "Voltenizer Maxima [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Voltenizer Maxima"
 		]
 	},
 	{
 		"name": "Kougei Ciel Nana [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Kougei Ciel Nana"
 		]
 	},
 	{
 		"name": "Kanade Yamashina [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Kanade Yamashina"
 		]
 	},
 	{
 		"name": "Lyric Rishuna [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for Lyric Rishuna"
 		]
 	},
 	{
 		"name": "TAMA-chan & TAMANEKO [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
-			"Navigator Keys"
+			"Navigator Keys",
+			"Navigator Access for TAMA-chan & TAMANEKO"
 		]
 	},
 	{
@@ -17579,27 +17591,42 @@
 	{
 		"name": "Swap Lazer Colors",
 		"count": 5,
-		"trap": true
+		"trap": true,
+		"category": [
+			"Traps"
+		]
 	},
 	{
 		"name": "Hard Timing Window",
 		"count": 5,
-		"trap": true
+		"trap": true,
+		"category": [
+			"Traps"
+		]
 	},
 	{
 		"name": "Hidden",
 		"count": 5,
-		"trap": true
+		"trap": true,
+		"category": [
+			"Traps"
+		]
 	},
 	{
 		"name": "Sudden",
 		"count": 5,
-		"trap": true
+		"trap": true,
+		"category": [
+			"Traps"
+		]
 	},
 	{
 		"name": "-100,000 score",
 		"count": 5,
-		"trap": true
+		"trap": true,
+		"category": [
+			"Traps"
+		]
 	},
 	{
 		"name": "+50,000 score",
