@@ -411,7 +411,7 @@ for (const [songNumber, song] of songs.entries()) {
 
 	if (isBoss) {
 		items.push({
-			name: `${song.identifier} [BOSS ACCESS]`,
+			name: `${song.identifier}`,
 			progression: true,
 			category: [
 				"Goals",
@@ -421,20 +421,20 @@ for (const [songNumber, song] of songs.entries()) {
 			],
 		})
 		locations.push({
-			name: `${song.identifier} [BOSS]`,
+			name: `${song.identifier}`,
 			requires: `|CHAIN:80%| and |@${songNumberCategoryFor(songNumber)}|`,
 			category: ["Goals", song.identifier, `(Boss) ${song.identifier}`],
-			place_item: [`${song.identifier} [BOSS CLEAR]`],
+			place_item: [`${song.identifier} (Completion)`],
 		})
 		items.push({
-			name: `${song.identifier} [BOSS CLEAR]`,
+			name: `${song.identifier} (Completion)`,
 			progression: true,
 			category: ["Goals", song.identifier, "Boss Clear"],
 		})
 	} else if (songNavigators.length > 0) {
 		for (const goal of goals) {
 			locations.push({
-				name: `${song.identifier} [CLEAR] (${goal})`,
+				name: `${song.identifier} (${goal})`,
 				requires: songNavigators
 					.map((navigator) => `|@${navigatorKeyCategoryFor(navigator)}|`)
 					.join(" or "),
@@ -449,13 +449,13 @@ for (const [songNumber, song] of songs.entries()) {
 		}
 	} else {
 		items.push({
-			name: `${song.identifier} [ACCESS]`,
+			name: `${song.identifier}`,
 			progression: true,
 			category: ["Songs", song.identifier, songNumberCategoryFor(songNumber)],
 		})
 		for (const goal of goals) {
 			locations.push({
-				name: `${song.identifier} [CLEAR] (${goal})`,
+				name: `${song.identifier} (${goal})`,
 				requires: `|@${songNumberCategoryFor(songNumber)}|`,
 				category: [
 					"Goals",
@@ -468,39 +468,43 @@ for (const [songNumber, song] of songs.entries()) {
 	}
 }
 
-const traps = [
-	{ name: "Swap Lazer Colors", count: 5 },
-	{ name: "Hard Timing Window", count: 5 },
-	{ name: "Hidden", count: 5 },
-	{ name: "Sudden", count: 5 },
-	{ name: "-100,000 score", count: 5 },
-]
+const genericItems = [
+	{ name: "Swap Lazer Colors", count: 3, type: "trap" },
+	{ name: "Hard Timing Window", count: 3, type: "trap" },
+	{ name: "Hidden", count: 3, type: "trap" },
+	{ name: "Sudden", count: 3, type: "trap" },
+	{ name: "-100,000 score", count: 3, type: "trap" },
 
-const helpers = [
-	{ name: "+50,000 score", count: 50 },
-	{ name: "+100,000 score", count: 25 },
-	{ name: "+200,000 score", count: 12 },
-	{ name: "+500,000 score", count: 6 },
-	{ name: "+1,000,000 score", count: 3 },
-	{ name: "Cancel Trap", count: 5 },
-]
+	{ name: "+50,000 score", count: 16, type: "helper" },
+	{ name: "+100,000 score", count: 8, type: "helper" },
+	{ name: "+200,000 score", count: 4, type: "helper" },
+	{ name: "+500,000 score", count: 2, type: "helper" },
+	{ name: "+1,000,000 score", count: 1, type: "helper" },
+	{ name: "Cancel Trap", count: 5, type: "helper" },
+] as const
 
-for (const trap of traps) {
+for (const { name, count, type } of genericItems) {
 	items.push({
-		name: trap.name,
-		count: trap.count,
-		trap: true,
-		category: ["Traps"],
+		name,
+		count,
+		trap: type === "trap" ? true : undefined,
+		useful: type === "helper" ? true : undefined,
+		category: [type === "trap" ? "Traps" : "Helpers"],
 	})
-}
 
-for (const helper of helpers) {
-	items.push({
-		name: helper.name,
-		count: helper.count,
-		useful: true,
-		category: ["Helpers"],
-	})
+	const usageItem = {
+		name: `${name} (Used)`,
+		count,
+	} satisfies Item
+	items.push(usageItem)
+
+	for (let i = 0; i < count; i++) {
+		locations.push({
+			name: `${name} ${i}`,
+			category: [type === "trap" ? "((Traps))" : "((Helpers))"],
+			place_item: [usageItem.name],
+		})
+	}
 }
 
 {
