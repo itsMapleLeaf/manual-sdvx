@@ -1,0 +1,12 @@
+- [x] big general song pool for doing stuff outside of the "real" game progression
+- [x] chart difficulty options
+- [x] song group/category options
+- [ ] (?) song title language options (english/japanese)
+- [x] score items
+- [x] navigator songs & categories
+- [ ] song selection: ensure every navigator has at least certain number of songs (all navigator songs?)
+- [x] appeal items (dropped by navigator song goals)
+- [x] navigator locations (unlocked by appeal items)
+- [x] boss locations (unlocked by navigator items)
+- [x] boss completions (dropped by boss locations)
+- [x] victory location (unlocked by navigator completions)

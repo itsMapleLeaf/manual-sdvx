@@ -12,7 +12,7 @@
   - requires unlocking every navigator region
   - complete 3 boss songs to win
 
-# current picture
+<!-- # current picture
 
 general flow:
 
@@ -59,7 +59,7 @@ general flow:
     - lol
     - each one must be different!
   - strategy: initially impossible (unless you're like 1 of 3 people on the planet) but becomes easier over time with help from items/navigators
-  - clear a GRACE track
+  - clear a GRACE track -->
 
 # characters
 
