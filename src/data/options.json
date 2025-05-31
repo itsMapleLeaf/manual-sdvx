@@ -20,7 +20,7 @@
             "description": "Number of songs to include in the core songs pool",
             "range_start": 5,
             "range_end": 500,
-            "default": 70
+            "default": 100
         },
         "enable_category_sdvx_original": {
             "type": "Toggle",

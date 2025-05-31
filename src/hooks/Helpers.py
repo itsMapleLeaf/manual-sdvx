@@ -17,8 +17,16 @@ def before_is_item_enabled(multiworld: MultiWorld, player: int, item: "ManualIte
     # this is actually a dict i have no fucking idea why it's typed as an instance because it's literaqlly fucking not
     item_dict = cast(dict, item)
     categories: list[str] = item_dict.get('category', [])
-    if '(Songs)' in categories:
+
+    if 'Songs' in categories:
         song_identifier = item_dict.get('name')
+        # if song_identifier in PLAYER_SONG_LISTS[player]:
+        #     print("enabled item:", song_identifier)
+        # else:
+        #     print("disabled item:", song_identifier)
+        return song_identifier in PLAYER_SONG_LISTS[player]
+    if 'Goals' in categories:
+        song_identifier = categories[1]
         return song_identifier in PLAYER_SONG_LISTS[player]
 
     return None
@@ -29,7 +37,13 @@ def before_is_location_enabled(multiworld: MultiWorld, player: int, location: "M
     # this is actually a dict i have no fucking idea why it's typed as an instance because it's literaqlly fucking not
     location_dict = cast(dict, location)
     categories: list[str] = location_dict.get('category', [])
-    if '(Goals)' in categories:
+
+    if 'Goals' in categories:
         song_identifier = categories[1]
+        # if song_identifier in PLAYER_SONG_LISTS[player]:
+        #     print("enabled location:", song_identifier)
+        # else:
+        #     print("disabled location:", song_identifier)
         return song_identifier in PLAYER_SONG_LISTS[player]
+
     return None

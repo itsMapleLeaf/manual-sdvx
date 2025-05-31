@@ -39,8 +39,6 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    PLAYER_SONG_LISTS[player] = []
-
     song_count = cast(int, get_option_value(multiworld, player, "song_count"))
     min_difficulty = cast(int, get_option_value(multiworld, player, "min_difficulty"))
     max_difficulty = cast(int, get_option_value(multiworld, player, "max_difficulty"))
@@ -57,7 +55,12 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     }
 
     song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
-    allowed_songs: list[dict] = []
+    allowed_songs: list[str] = []
+
+    navigator_song_names: dict[str, list[str]] = load_data_file("navigators.json")
+    allowed_navigator_songs: dict[str, list[str]] = {}
+    for navigator in navigator_song_names:
+        allowed_navigator_songs[navigator] = []
 
     for song in song_library:
         song_charts: dict[str, int] = song.get("charts", {})
@@ -80,13 +83,32 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
                 has_valid_category = True
                 break
 
-        if has_valid_difficulty and has_valid_category:
-            allowed_songs.append(song)
+        is_valid = has_valid_difficulty and has_valid_category
+        if not is_valid:
+            continue
+
+        is_navigator_song = False
+        for navigator in navigator_song_names:
+            if song['title'] in navigator_song_names[navigator]:
+                allowed_navigator_songs[navigator].append(song['identifier'])
+                is_navigator_song = True
+                break
+
+        if not is_navigator_song:
+            allowed_songs.append(song['identifier'])
+
+    PLAYER_SONG_LISTS[player] = []
+
+    for navigator in allowed_navigator_songs:
+        current_navigator_songs = allowed_navigator_songs[navigator]
+        world.random.shuffle(current_navigator_songs)
+        for i in range(min(5, len(current_navigator_songs))):
+            PLAYER_SONG_LISTS[player].append(current_navigator_songs.pop())
 
     world.random.shuffle(allowed_songs)
+
     for song_number in range(song_count):
-        song = allowed_songs.pop()
-        PLAYER_SONG_LISTS[player].append(song['identifier'])
+        PLAYER_SONG_LISTS[player].append(allowed_songs.pop())
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
