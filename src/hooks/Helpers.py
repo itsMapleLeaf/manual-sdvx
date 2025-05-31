@@ -18,14 +18,7 @@ def before_is_item_enabled(multiworld: MultiWorld, player: int, item: "ManualIte
     item_dict = cast(dict, item)
     categories: list[str] = item_dict.get('category', [])
 
-    if 'Songs' in categories:
-        song_identifier = item_dict.get('name')
-        # if song_identifier in PLAYER_SONG_LISTS[player]:
-        #     print("enabled item:", song_identifier)
-        # else:
-        #     print("disabled item:", song_identifier)
-        return song_identifier in PLAYER_SONG_LISTS[player]
-    if 'Goals' in categories:
+    if 'Songs' in categories or 'Goals' in categories:
         song_identifier = categories[1]
         return song_identifier in PLAYER_SONG_LISTS[player]
 
@@ -40,10 +33,6 @@ def before_is_location_enabled(multiworld: MultiWorld, player: int, location: "M
 
     if 'Goals' in categories:
         song_identifier = categories[1]
-        # if song_identifier in PLAYER_SONG_LISTS[player]:
-        #     print("enabled location:", song_identifier)
-        # else:
-        #     print("disabled location:", song_identifier)
         return song_identifier in PLAYER_SONG_LISTS[player]
 
     return None

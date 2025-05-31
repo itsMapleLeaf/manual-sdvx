@@ -55,12 +55,23 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     }
 
     song_library: list[dict] = convert_to_list(load_data_file("songs.json"), 'data')
-    allowed_songs: list[str] = []
+    boss_songs: list[str] = []
+
+    for song in song_library:
+        song_charts: dict[str, int] = song.get("charts", {})
+        for chart in song_charts:
+            difficulty = song_charts[chart]
+            if difficulty >= 20:
+                boss_songs.append(song["identifier"])
+                song_library.remove(song)
+                break
 
     navigator_song_names: dict[str, list[str]] = load_data_file("navigators.json")
     allowed_navigator_songs: dict[str, list[str]] = {}
     for navigator in navigator_song_names:
         allowed_navigator_songs[navigator] = []
+
+    allowed_songs: list[str] = []
 
     for song in song_library:
         song_charts: dict[str, int] = song.get("charts", {})
@@ -106,9 +117,10 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
             PLAYER_SONG_LISTS[player].append(current_navigator_songs.pop())
 
     world.random.shuffle(allowed_songs)
-
-    for song_number in range(song_count):
+    for i in range(song_count):
         PLAYER_SONG_LISTS[player].append(allowed_songs.pop())
+
+    PLAYER_SONG_LISTS[player].extend(world.random.choices(boss_songs, k = 3))
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
