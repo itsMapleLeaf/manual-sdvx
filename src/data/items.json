@@ -17650,7 +17650,7 @@
 	},
 	{
 		"name": "+50,000 score",
-		"count": 16,
+		"count": 20,
 		"useful": true,
 		"category": [
 			"Helpers"
@@ -17658,11 +17658,11 @@
 	},
 	{
 		"name": "+50,000 score (Used)",
-		"count": 16
+		"count": 20
 	},
 	{
 		"name": "+100,000 score",
-		"count": 8,
+		"count": 10,
 		"useful": true,
 		"category": [
 			"Helpers"
@@ -17670,11 +17670,11 @@
 	},
 	{
 		"name": "+100,000 score (Used)",
-		"count": 8
+		"count": 10
 	},
 	{
 		"name": "+200,000 score",
-		"count": 4,
+		"count": 5,
 		"useful": true,
 		"category": [
 			"Helpers"
@@ -17682,11 +17682,11 @@
 	},
 	{
 		"name": "+200,000 score (Used)",
-		"count": 4
+		"count": 5
 	},
 	{
 		"name": "+500,000 score",
-		"count": 2,
+		"count": 3,
 		"useful": true,
 		"category": [
 			"Helpers"
@@ -17694,7 +17694,7 @@
 	},
 	{
 		"name": "+500,000 score (Used)",
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "+1,000,000 score",

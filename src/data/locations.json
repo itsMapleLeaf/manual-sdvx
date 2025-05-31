@@ -85263,6 +85263,42 @@
 		]
 	},
 	{
+		"name": "+50,000 score 16",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+50,000 score (Used)"
+		]
+	},
+	{
+		"name": "+50,000 score 17",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+50,000 score (Used)"
+		]
+	},
+	{
+		"name": "+50,000 score 18",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+50,000 score (Used)"
+		]
+	},
+	{
+		"name": "+50,000 score 19",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+50,000 score (Used)"
+		]
+	},
+	{
 		"name": "+100,000 score 0",
 		"category": [
 			"((Helpers))"
@@ -85335,6 +85371,24 @@
 		]
 	},
 	{
+		"name": "+100,000 score 8",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+100,000 score (Used)"
+		]
+	},
+	{
+		"name": "+100,000 score 9",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+100,000 score (Used)"
+		]
+	},
+	{
 		"name": "+200,000 score 0",
 		"category": [
 			"((Helpers))"
@@ -85371,6 +85425,15 @@
 		]
 	},
 	{
+		"name": "+200,000 score 4",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+200,000 score (Used)"
+		]
+	},
+	{
 		"name": "+500,000 score 0",
 		"category": [
 			"((Helpers))"
@@ -85381,6 +85444,15 @@
 	},
 	{
 		"name": "+500,000 score 1",
+		"category": [
+			"((Helpers))"
+		],
+		"place_item": [
+			"+500,000 score (Used)"
+		]
+	},
+	{
+		"name": "+500,000 score 2",
 		"category": [
 			"((Helpers))"
 		],
