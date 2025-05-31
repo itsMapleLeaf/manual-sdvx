@@ -19,7 +19,6 @@ type Location = {
 	name: string
 	category?: string[]
 	requires?: string
-	progression?: boolean
 	place_item?: string[]
 	place_item_category?: string[]
 	victory?: boolean
@@ -33,7 +32,7 @@ type Category = {
 const locations: Location[] = [
 	{
 		name: "PERFECT ULTIMATE CHAIN",
-		requires: "|@Boss Clear:1|",
+		requires: "|@Boss Clear|",
 		victory: true,
 		category: ["((Victory))"],
 	},
@@ -47,7 +46,9 @@ const items: Item[] = [
 	},
 ]
 
-const categories: Record<string, Category> = {}
+const categories: Record<string, Category> = {
+	// Goals: { hidden: true },
+}
 
 const navigators = new Map(
 	Object.entries({
@@ -382,16 +383,17 @@ function songNumberCategoryFor(songNumber: number) {
 	return `Song Number ${songNumber}`
 }
 
-function navigatorKeyNameFor(navigator: string) {
-	return `${navigator} [NAVIGATOR ACCESS]`
+function navigatorKeyCategoryFor(navigator: string) {
+	return `Navigator Access for ${navigator}`
 }
 
 for (const [navigator] of navigators) {
 	items.push({
-		name: navigatorKeyNameFor(navigator),
+		name: `${navigator} [NAVIGATOR ACCESS]`,
 		progression: true,
-		category: ["Navigator Keys"],
+		category: ["Navigator Keys", navigatorKeyCategoryFor(navigator)],
 	})
+	categories[navigatorKeyCategoryFor(navigator)] = { hidden: true }
 }
 
 for (const [songNumber, song] of songs.entries()) {
@@ -433,14 +435,14 @@ for (const [songNumber, song] of songs.entries()) {
 		for (const goal of goals) {
 			locations.push({
 				name: `${song.identifier} [CLEAR] (${goal})`,
-				requires: `(${songNavigators
-					.map((navigator) => `|${navigatorKeyNameFor(navigator)}:ALL|`)
-					.join(" or ")})`,
+				requires: songNavigators
+					.map((navigator) => `|@${navigatorKeyCategoryFor(navigator)}|`)
+					.join(" or "),
 				category: [
 					"Goals",
 					song.identifier,
-					songNumberCategoryFor(songNumber),
 					`(Song) ${song.identifier}`,
+					`(Goal) ${goal}`,
 					...songNavigators.map((navigator) => `(Navigator) ${navigator}`),
 				],
 			})
@@ -455,7 +457,12 @@ for (const [songNumber, song] of songs.entries()) {
 			locations.push({
 				name: `${song.identifier} [CLEAR] (${goal})`,
 				requires: `|@${songNumberCategoryFor(songNumber)}|`,
-				category: ["Goals", song.identifier, `(Song) ${song.identifier}`],
+				category: [
+					"Goals",
+					song.identifier,
+					`(Song) ${song.identifier}`,
+					`(Goal) ${goal}`,
+				],
 			})
 		}
 	}
@@ -483,6 +490,7 @@ for (const trap of traps) {
 		name: trap.name,
 		count: trap.count,
 		trap: true,
+		category: ["Traps"],
 	})
 }
 
