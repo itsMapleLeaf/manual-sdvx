@@ -475,10 +475,10 @@ const genericItems = [
 	{ name: "Sudden", count: 3, type: "trap" },
 	{ name: "-100,000 score", count: 3, type: "trap" },
 
-	{ name: "+50,000 score", count: 16, type: "helper" },
-	{ name: "+100,000 score", count: 8, type: "helper" },
-	{ name: "+200,000 score", count: 4, type: "helper" },
-	{ name: "+500,000 score", count: 2, type: "helper" },
+	{ name: "+50,000 score", count: 20, type: "helper" },
+	{ name: "+100,000 score", count: 10, type: "helper" },
+	{ name: "+200,000 score", count: 5, type: "helper" },
+	{ name: "+500,000 score", count: 3, type: "helper" },
 	{ name: "+1,000,000 score", count: 1, type: "helper" },
 	{ name: "Cancel Trap", count: 5, type: "helper" },
 ] as const
