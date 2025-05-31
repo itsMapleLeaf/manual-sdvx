@@ -30,6 +30,25 @@ type Category = {
 	yaml_option?: string[]
 }
 
+const locations: Location[] = [
+	{
+		name: "PERFECT ULTIMATE CHAIN",
+		requires: "|@Boss Clear:1|",
+		victory: true,
+		category: ["((Victory))"],
+	},
+]
+
+const items: Item[] = [
+	{
+		name: "CHAIN",
+		progression: true,
+		count: 20,
+	},
+]
+
+const categories: Record<string, Category> = {}
+
 const navigators = new Map(
 	Object.entries({
 		"RASIS": new Set([
@@ -336,13 +355,7 @@ const navigators = new Map(
 )
 console.info(`Configured ${navigators.size} navigators`)
 
-// const navigatorBossSongs = new Map([
-// 	["Hina, Ao, Momo", new Set(["Staring at star"])],
-// ])
-
-// const navigatorsWithBosses = new Set<string>()
-
-function validateNavigatorSongs() {
+{
 	const allSongTitles = new Set(songs.map((it) => it.title))
 	const notFound = []
 
@@ -369,243 +382,150 @@ function songNumberCategoryFor(songNumber: number) {
 	return `Song Number ${songNumber}`
 }
 
-function navigatorAppealCategoryFor(navigator: string) {
-	return `Appeal for ${navigator}`
+function navigatorKeyNameFor(navigator: string) {
+	return `${navigator} [NAVIGATOR ACCESS]`
 }
 
-function processSongs() {
-	const items: Item[] = []
-	const locations: Location[] = []
+for (const [navigator] of navigators) {
+	items.push({
+		name: navigatorKeyNameFor(navigator),
+		progression: true,
+		category: ["Navigator Keys"],
+	})
+}
 
-	for (const [songNumber, song] of songs.entries()) {
-		const songNavigators = navigators
-			.entries()
-			.filter(([, songs]) => songs.has(song.title))
-			.map(([navigator]) => navigator)
-			.toArray()
+for (const [songNumber, song] of songs.entries()) {
+	categories[song.identifier] = { hidden: true }
+	categories[songNumberCategoryFor(songNumber)] = { hidden: true }
 
-		const navigatorAppealCategories = songNavigators.map((navigator) =>
-			navigatorAppealCategoryFor(navigator),
-		)
+	const songNavigators = navigators
+		.entries()
+		.filter(([, songs]) => songs.has(song.title))
+		.map(([navigator]) => navigator)
+		.toArray()
 
+	const goals = ["Pass", "AA Rank", "AAA Rank", "S Rank"]
+	const isBoss = Object.values(song.charts).some((level) => level >= 20)
+
+	if (isBoss) {
 		items.push({
-			name: song.identifier,
+			name: `${song.identifier} [BOSS ACCESS]`,
 			progression: true,
 			category: [
-				"Songs",
+				"Goals",
 				song.identifier,
 				songNumberCategoryFor(songNumber),
-				...navigatorAppealCategories,
+				"Boss Access",
 			],
 		})
-
-		const goals = ["Pass", "AA Rank", "AAA Rank", "S Rank"]
+		locations.push({
+			name: `${song.identifier} [BOSS]`,
+			requires: `|CHAIN:80%| and |@${songNumberCategoryFor(songNumber)}|`,
+			category: ["Goals", song.identifier, `(Boss) ${song.identifier}`],
+			place_item: [`${song.identifier} [BOSS CLEAR]`],
+		})
+		items.push({
+			name: `${song.identifier} [BOSS CLEAR]`,
+			progression: true,
+			category: ["Goals", song.identifier, "Boss Clear"],
+		})
+	} else if (songNavigators.length > 0) {
 		for (const goal of goals) {
-			if (songNavigators.length > 0) {
-				const listFormat = new Intl.ListFormat(undefined, {
-					type: "conjunction",
-				})
-
-				const completionItemName = `Appeal for ${listFormat.format(
-					songNavigators,
-				)} (${song.identifier}, ${goal})`
-
-				locations.push({
-					name: `${song.identifier} [${goal}]`,
-					// some songs have weird names in them which break the requires syntax,
-					// so we tie them via an internal song number category instead
-					requires: `|@${songNumberCategoryFor(songNumber)}|`,
-					category: [
-						"Goals",
-						song.identifier,
-						goal,
-						...navigatorAppealCategories,
-					],
-					place_item: [completionItemName],
-				})
-				items.push({
-					name: completionItemName,
-					progression: true,
-					category: ["Goals", song.identifier, ...navigatorAppealCategories],
-				})
-			} else {
-				locations.push({
-					name: `${song.identifier} [${goal}]`,
-					// some songs have weird names in them which break the requires syntax,
-					// so we tie them via an internal song number category instead
-					requires: `|@${songNumberCategoryFor(songNumber)}|`,
-					category: [
-						"Goals",
-						song.identifier,
-						goal,
-						...navigatorAppealCategories,
-					],
-				})
-			}
+			locations.push({
+				name: `${song.identifier} [CLEAR] (${goal})`,
+				requires: `(${songNavigators
+					.map((navigator) => `|${navigatorKeyNameFor(navigator)}:ALL|`)
+					.join(" or ")})`,
+				category: [
+					"Goals",
+					song.identifier,
+					songNumberCategoryFor(songNumber),
+					`(Song) ${song.identifier}`,
+					...songNavigators.map((navigator) => `(Navigator) ${navigator}`),
+				],
+			})
+		}
+	} else {
+		items.push({
+			name: `${song.identifier} [ACCESS]`,
+			progression: true,
+			category: ["Songs", song.identifier, songNumberCategoryFor(songNumber)],
+		})
+		for (const goal of goals) {
+			locations.push({
+				name: `${song.identifier} [CLEAR] (${goal})`,
+				requires: `|@${songNumberCategoryFor(songNumber)}|`,
+				category: ["Goals", song.identifier, `(Song) ${song.identifier}`],
+			})
 		}
 	}
-
-	return { items, locations }
 }
 
-function processNavigators() {
-	return {
-		*locations(): Iterable<Location> {
-			for (const [navigator] of navigators) {
-				yield {
-					name: navigator,
-					requires: `|@${navigatorAppealCategoryFor(navigator)}:80%|`,
-					category: ["Navigators"],
-					place_item: [navigator],
-				}
-			}
-		},
-		*items(): Iterable<Item> {
-			for (const [navigator] of navigators) {
-				yield {
-					name: `Appeal for ${navigator}`,
-					progression: true,
-					count: 10,
-					category: [navigatorAppealCategoryFor(navigator)],
-				}
-				yield {
-					name: navigator,
-					category: ["Navigators"],
-					progression: true,
-				}
-			}
-		},
-	}
-}
+const traps = [
+	{ name: "Swap Lazer Colors", count: 5 },
+	{ name: "Hard Timing Window", count: 5 },
+	{ name: "Hidden", count: 5 },
+	{ name: "Sudden", count: 5 },
+	{ name: "-100,000 score", count: 5 },
+]
 
-function configureSongCategories(): Record<string, Category> {
-	return Object.fromEntries(
-		songs.flatMap((song, index) => [
-			[song.identifier, { hidden: true }],
-			[songNumberCategoryFor(index), { hidden: true }],
-		]),
-	)
-}
+const helpers = [
+	{ name: "+50,000 score", count: 50 },
+	{ name: "+100,000 score", count: 25 },
+	{ name: "+200,000 score", count: 12 },
+	{ name: "+500,000 score", count: 6 },
+	{ name: "+1,000,000 score", count: 3 },
+	{ name: "Cancel Trap", count: 5 },
+]
 
-// Drops: additional items and traps outside the normal gameplay flow
-function processDrops() {
-	const traps = [
-		{ name: "Swap Lazer Colors", count: 5 },
-		{ name: "Hard Timing Window", count: 5 },
-		{ name: "Hidden", count: 5 },
-		{ name: "Sudden", count: 5 },
-		{ name: "-100,000 score", count: 5 },
-	]
-
-	const helpers = [
-		{ name: "+50,000 score", count: 50 },
-		{ name: "+100,000 score", count: 25 },
-		{ name: "+200,000 score", count: 12 },
-		{ name: "+500,000 score", count: 6 },
-		{ name: "+1,000,000 score", count: 3 },
-		{ name: "Cancel Trap", count: 5 },
-	]
-
-	return {
-		*items(): Iterable<Item> {
-			for (const trap of traps) {
-				yield {
-					name: trap.name,
-					count: trap.count,
-					trap: true,
-				}
-			}
-
-			for (const helper of helpers) {
-				yield {
-					name: helper.name,
-					count: helper.count,
-					useful: true,
-					category: ["Helpers"],
-				}
-			}
-		},
-	}
-}
-
-async function main() {
-	validateNavigatorSongs()
-
-	const drops = processDrops()
-	const processedSongs = processSongs()
-	const processedNavigators = processNavigators()
-
-	const items: Item[] = [
-		...processedNavigators.items(),
-		...drops.items(),
-		...processedSongs.items,
-	]
-
-	{
-		const totalCount = items.reduce(
-			(total, item) => total + (item.count ?? 1),
-			0,
-		)
-		console.info(`Generated ${totalCount} items`)
-	}
-
-	const locations: Location[] = [
-		{
-			name: "All Navigators (Victory)",
-			requires: `|@Navigators:all|`,
-			victory: true,
-		},
-		...processedNavigators.locations(),
-		...processedSongs.locations,
-	]
-	console.info(`Generated ${locations.length} locations`)
-
-	const categories: Record<string, Category> = {
-		...configureSongCategories(),
-	}
-	console.info(`Configured ${Object.keys(categories).length} categories`)
-
-	// const navigatorsWithoutBosses = new Set(navigators.keys()).difference(
-	// 	navigatorsWithBosses,
-	// )
-	// if (navigatorsWithoutBosses.size > 0) {
-	// 	console.warn(
-	// 		"Navigators without bosses:",
-	// 		[...navigatorsWithoutBosses].map((name) => `"${name}"`).join(", "),
-	// 	)
-	// }
-
-	await writeFile(
-		manualDataPath("items.json"),
-		JSON.stringify(items, null, "\t"),
-	)
-
-	await writeFile(
-		manualDataPath("locations.json"),
-		JSON.stringify(locations, null, "\t"),
-	)
-
-	await writeFile(
-		manualDataPath("categories.json"),
-		JSON.stringify(categories, null, "\t"),
-	)
-
-	console.info("Generated")
-
-	const worldFileName = "manual_SDVX_MapleLeaf"
-
-	const apworldFolder =
-		Bun.env.APWORLD_OUTPUT_FOLDER || join(import.meta.dirname, `../dist`)
-
-	const zip = new AdmZip()
-	await zip.addLocalFolderPromise("Manual/src", {
-		zipPath: worldFileName,
+for (const trap of traps) {
+	items.push({
+		name: trap.name,
+		count: trap.count,
+		trap: true,
 	})
-	await zip.writeZipPromise(join(apworldFolder, `${worldFileName}.apworld`))
-
-	console.info("World built")
 }
 
-if (import.meta.main) {
-	await main()
+for (const helper of helpers) {
+	items.push({
+		name: helper.name,
+		count: helper.count,
+		useful: true,
+		category: ["Helpers"],
+	})
 }
+
+{
+	const totalCount = items.reduce((total, item) => total + (item.count ?? 1), 0)
+	console.info(`Generated ${totalCount} items`)
+}
+
+console.info(`Generated ${locations.length} locations`)
+console.info(`Configured ${Object.keys(categories).length} categories`)
+
+await writeFile(manualDataPath("items.json"), JSON.stringify(items, null, "\t"))
+
+await writeFile(
+	manualDataPath("locations.json"),
+	JSON.stringify(locations, null, "\t"),
+)
+
+await writeFile(
+	manualDataPath("categories.json"),
+	JSON.stringify(categories, null, "\t"),
+)
+
+console.info("Generated")
+
+const worldFileName = "manual_SDVX_MapleLeaf"
+
+const apworldFolder =
+	Bun.env.APWORLD_OUTPUT_FOLDER || join(import.meta.dirname, `../dist`)
+
+const zip = new AdmZip()
+await zip.addLocalFolderPromise("Manual/src", {
+	zipPath: worldFileName,
+})
+await zip.writeZipPromise(join(apworldFolder, `${worldFileName}.apworld`))
+
+console.info("World built")
