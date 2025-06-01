@@ -2,7 +2,7 @@
 	{
 		"name": "CHAIN",
 		"progression": true,
-		"count": 20
+		"count": 50
 	},
 	{
 		"name": "RASIS [NAVIGATOR ACCESS]",
@@ -642,6 +642,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (2 MINUTES FIGHTERS by P*Light) (Pass)",
+		"category": [
+			"Goals",
+			"2 MINUTES FIGHTERS by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (2 MINUTES FIGHTERS by P*Light) (AA Rank)",
+		"category": [
+			"Goals",
+			"2 MINUTES FIGHTERS by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (2 MINUTES FIGHTERS by P*Light) (AAA Rank)",
+		"category": [
+			"Goals",
+			"2 MINUTES FIGHTERS by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (2 MINUTES FIGHTERS by P*Light) (S Rank)",
+		"category": [
+			"Goals",
+			"2 MINUTES FIGHTERS by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "777 by RoughSketch (Notebook Records)",
 		"progression": true,
 		"category": [
@@ -660,6 +696,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (A Lasting Promise by Laur) (Pass)",
+		"category": [
+			"Goals",
+			"A Lasting Promise by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (A Lasting Promise by Laur) (AA Rank)",
+		"category": [
+			"Goals",
+			"A Lasting Promise by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (A Lasting Promise by Laur) (AAA Rank)",
+		"category": [
+			"Goals",
+			"A Lasting Promise by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (A Lasting Promise by Laur) (S Rank)",
+		"category": [
+			"Goals",
+			"A Lasting Promise by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ANGER of the GOD by BlackY",
 		"progression": true,
 		"category": [
@@ -676,6 +748,42 @@
 			"ARISE by Juggernaut.",
 			"Song Number 34"
 		]
+	},
+	{
+		"name": "CHAIN (Absolute Domination by Laur) (Pass)",
+		"category": [
+			"Goals",
+			"Absolute Domination by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absolute Domination by Laur) (AA Rank)",
+		"category": [
+			"Goals",
+			"Absolute Domination by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absolute Domination by Laur) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Absolute Domination by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absolute Domination by Laur) (S Rank)",
+		"category": [
+			"Goals",
+			"Absolute Domination by Laur",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Absurd Gaff (Metallize Remix) by Metal Giant",
@@ -795,6 +903,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Bangin' Burst by かめりあ) (Pass)",
+		"category": [
+			"Goals",
+			"Bangin' Burst by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Bangin' Burst by かめりあ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Bangin' Burst by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Bangin' Burst by かめりあ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Bangin' Burst by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Bangin' Burst by かめりあ) (S Rank)",
+		"category": [
+			"Goals",
+			"Bangin' Burst by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Black Emperor by 黒魔",
 		"progression": true,
 		"category": [
@@ -894,6 +1038,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Cross Fire by Hommarju vs RoughSketch) (Pass)",
+		"category": [
+			"Goals",
+			"Cross Fire by Hommarju vs RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cross Fire by Hommarju vs RoughSketch) (AA Rank)",
+		"category": [
+			"Goals",
+			"Cross Fire by Hommarju vs RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cross Fire by Hommarju vs RoughSketch) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Cross Fire by Hommarju vs RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cross Fire by Hommarju vs RoughSketch) (S Rank)",
+		"category": [
+			"Goals",
+			"Cross Fire by Hommarju vs RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Cuz we <3 this Game by 打打だいず",
 		"progression": true,
 		"category": [
@@ -910,6 +1090,42 @@
 			"DEUX EX MĀXHINĀ by Ashrount",
 			"Song Number 63"
 		]
+	},
+	{
+		"name": "CHAIN (DIABLOSIS::Nāga by sky_delta) (Pass)",
+		"category": [
+			"Goals",
+			"DIABLOSIS::Nāga by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (DIABLOSIS::Nāga by sky_delta) (AA Rank)",
+		"category": [
+			"Goals",
+			"DIABLOSIS::Nāga by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (DIABLOSIS::Nāga by sky_delta) (AAA Rank)",
+		"category": [
+			"Goals",
+			"DIABLOSIS::Nāga by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (DIABLOSIS::Nāga by sky_delta) (S Rank)",
+		"category": [
+			"Goals",
+			"DIABLOSIS::Nāga by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Daisycutter by ETIA.",
@@ -937,6 +1153,42 @@
 			"Dyscontrolled Galaxy by かめりあ",
 			"Song Number 67"
 		]
+	},
+	{
+		"name": "CHAIN (EMPIRE OF FLAME by かめりあ) (Pass)",
+		"category": [
+			"Goals",
+			"EMPIRE OF FLAME by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (EMPIRE OF FLAME by かめりあ) (AA Rank)",
+		"category": [
+			"Goals",
+			"EMPIRE OF FLAME by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (EMPIRE OF FLAME by かめりあ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"EMPIRE OF FLAME by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (EMPIRE OF FLAME by かめりあ) (S Rank)",
+		"category": [
+			"Goals",
+			"EMPIRE OF FLAME by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "ENDYMION by fallen shepherd ft. RabbiTon Strings",
@@ -984,6 +1236,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Everlasting Message by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"Everlasting Message by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Everlasting Message by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"Everlasting Message by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Everlasting Message by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Everlasting Message by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Everlasting Message by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"Everlasting Message by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "FLOWER by DJ YOSHITAKA 「jubeat」より",
 		"progression": true,
 		"category": [
@@ -991,6 +1279,42 @@
 			"FLOWER by DJ YOSHITAKA 「jubeat」より",
 			"Song Number 75"
 		]
+	},
+	{
+		"name": "CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (Pass)",
+		"category": [
+			"Goals",
+			"FLügeL《Λrp:ΣggyØ》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (AA Rank)",
+		"category": [
+			"Goals",
+			"FLügeL《Λrp:ΣggyØ》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (AAA Rank)",
+		"category": [
+			"Goals",
+			"FLügeL《Λrp:ΣggyØ》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (S Rank)",
+		"category": [
+			"Goals",
+			"FLügeL《Λrp:ΣggyØ》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "FREEDOM DiVE by xi",
@@ -1009,6 +1333,114 @@
 			"Failnaught by xi",
 			"Song Number 78"
 		]
+	},
+	{
+		"name": "CHAIN (Fiat Lux by xi) (Pass)",
+		"category": [
+			"Goals",
+			"Fiat Lux by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fiat Lux by xi) (AA Rank)",
+		"category": [
+			"Goals",
+			"Fiat Lux by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fiat Lux by xi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Fiat Lux by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fiat Lux by xi) (S Rank)",
+		"category": [
+			"Goals",
+			"Fiat Lux by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (Pass)",
+		"category": [
+			"Goals",
+			"Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (AA Rank)",
+		"category": [
+			"Goals",
+			"Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (S Rank)",
+		"category": [
+			"Goals",
+			"Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fly Like You by technoplanet) (Pass)",
+		"category": [
+			"Goals",
+			"Fly Like You by technoplanet",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fly Like You by technoplanet) (AA Rank)",
+		"category": [
+			"Goals",
+			"Fly Like You by technoplanet",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fly Like You by technoplanet) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Fly Like You by technoplanet",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fly Like You by technoplanet) (S Rank)",
+		"category": [
+			"Goals",
+			"Fly Like You by technoplanet",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "For UltraPlayers by cosMo＠暴走P",
@@ -1036,6 +1468,42 @@
 			"GERBERA-For Finalists- by remixed by cosMo＠暴走P",
 			"Song Number 84"
 		]
+	},
+	{
+		"name": "CHAIN (GODHEART by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"GODHEART by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GODHEART by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"GODHEART by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GODHEART by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"GODHEART by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GODHEART by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"GODHEART by BlackY",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Ganymede kamome mix by kamome sano",
@@ -1074,6 +1542,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Growth Memories by Hidra-Xjeil) (Pass)",
+		"category": [
+			"Goals",
+			"Growth Memories by Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Growth Memories by Hidra-Xjeil) (AA Rank)",
+		"category": [
+			"Goals",
+			"Growth Memories by Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Growth Memories by Hidra-Xjeil) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Growth Memories by Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Growth Memories by Hidra-Xjeil) (S Rank)",
+		"category": [
+			"Goals",
+			"Growth Memories by Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Guinevere～白き妖精～ by ぺのれり",
 		"progression": true,
 		"category": [
@@ -1110,6 +1614,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (INF-B《L-aste-R》 by かねこちはる) (Pass)",
+		"category": [
+			"Goals",
+			"INF-B《L-aste-R》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INF-B《L-aste-R》 by かねこちはる) (AA Rank)",
+		"category": [
+			"Goals",
+			"INF-B《L-aste-R》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INF-B《L-aste-R》 by かねこちはる) (AAA Rank)",
+		"category": [
+			"Goals",
+			"INF-B《L-aste-R》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INF-B《L-aste-R》 by かねこちはる) (S Rank)",
+		"category": [
+			"Goals",
+			"INF-B《L-aste-R》 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "INSECTICIDE by Camellia",
 		"progression": true,
 		"category": [
@@ -1126,6 +1666,42 @@
 			"IX by dj TAKA VS DJ TOTTO feat.藍",
 			"Song Number 97"
 		]
+	},
+	{
+		"name": "CHAIN (Immortal saga by Noah) (Pass)",
+		"category": [
+			"Goals",
+			"Immortal saga by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Immortal saga by Noah) (AA Rank)",
+		"category": [
+			"Goals",
+			"Immortal saga by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Immortal saga by Noah) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Immortal saga by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Immortal saga by Noah) (S Rank)",
+		"category": [
+			"Goals",
+			"Immortal saga by Noah",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Innocent Tempest by Diceros Bicornis",
@@ -1182,6 +1758,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Last Resort by xi) (Pass)",
+		"category": [
+			"Goals",
+			"Last Resort by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Resort by xi) (AA Rank)",
+		"category": [
+			"Goals",
+			"Last Resort by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Resort by xi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Last Resort by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Resort by xi) (S Rank)",
+		"category": [
+			"Goals",
+			"Last Resort by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "LaμreLs ~the Angelus~ by Ashrount",
 		"progression": true,
 		"category": [
@@ -1189,6 +1801,42 @@
 			"LaμreLs ~the Angelus~ by Ashrount",
 			"Song Number 106"
 		]
+	},
+	{
+		"name": "CHAIN (LegenD. by Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"LegenD. by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LegenD. by Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"LegenD. by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LegenD. by Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"LegenD. by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LegenD. by Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"LegenD. by Yooh",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Lichtsäule by かめりあ & BEMANI Sound Team \"PHQUASE\"",
@@ -1207,6 +1855,42 @@
 			"Lisa-RICCIA by DJ YOSHITAKA",
 			"Song Number 109"
 		]
+	},
+	{
+		"name": "CHAIN (Lord=Crossight by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"Lord=Crossight by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Lord=Crossight by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"Lord=Crossight by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Lord=Crossight by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Lord=Crossight by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Lord=Crossight by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"Lord=Crossight by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "LubedeR by C-Show",
@@ -1371,6 +2055,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (Pass)",
+		"category": [
+			"Goals",
+			"Staring at star by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (AA Rank)",
+		"category": [
+			"Goals",
+			"Staring at star by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Staring at star by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (S Rank)",
+		"category": [
+			"Goals",
+			"Staring at star by MisoilePunch♪ ～タケノコ添え～",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Superstar! by Tatsunoshin",
 		"progression": true,
 		"category": [
@@ -1396,6 +2116,42 @@
 			"THE凸GENERATOR by cosMo＠暴走P",
 			"Song Number 132"
 		]
+	},
+	{
+		"name": "CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (Pass)",
+		"category": [
+			"Goals",
+			"TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (AA Rank)",
+		"category": [
+			"Goals",
+			"TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (AAA Rank)",
+		"category": [
+			"Goals",
+			"TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (S Rank)",
+		"category": [
+			"Goals",
+			"TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "The Clown of 24stairs by Yu_Asahina",
@@ -1443,6 +2199,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (Pass)",
+		"category": [
+			"Goals",
+			"VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (AA Rank)",
+		"category": [
+			"Goals",
+			"VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (AAA Rank)",
+		"category": [
+			"Goals",
+			"VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (S Rank)",
+		"category": [
+			"Goals",
+			"VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "VILE CAT by TAKU1175",
 		"progression": true,
 		"category": [
@@ -1477,6 +2269,78 @@
 			"VΛZiLiSQ by BlackY",
 			"Song Number 143"
 		]
+	},
+	{
+		"name": "CHAIN (World's end by Noah) (Pass)",
+		"category": [
+			"Goals",
+			"World's end by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (World's end by Noah) (AA Rank)",
+		"category": [
+			"Goals",
+			"World's end by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (World's end by Noah) (AAA Rank)",
+		"category": [
+			"Goals",
+			"World's end by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (World's end by Noah) (S Rank)",
+		"category": [
+			"Goals",
+			"World's end by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS INFECTION by BlackY vs. Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"XROSS INFECTION by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS INFECTION by BlackY vs. Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"XROSS INFECTION by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS INFECTION by BlackY vs. Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"XROSS INFECTION by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS INFECTION by BlackY vs. Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"XROSS INFECTION by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Xb10r by 隣の庭は青い(庭師+Aoi)",
@@ -1522,6 +2386,42 @@
 			"XyHATTE by cosMo＠暴走Ultimate",
 			"Song Number 150"
 		]
+	},
+	{
+		"name": "CHAIN (Xéroa by かめりあ) (Pass)",
+		"category": [
+			"Goals",
+			"Xéroa by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Xéroa by かめりあ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Xéroa by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Xéroa by かめりあ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Xéroa by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Xéroa by かめりあ) (S Rank)",
+		"category": [
+			"Goals",
+			"Xéroa by かめりあ",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "XΛLT=ØVER by Ashrount",
@@ -1585,6 +2485,42 @@
 			"snow storm -euphoria- by Yooh",
 			"Song Number 158"
 		]
+	},
+	{
+		"name": "CHAIN (veRtrageS by Riz vs. Shiron) (Pass)",
+		"category": [
+			"Goals",
+			"veRtrageS by Riz vs. Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (veRtrageS by Riz vs. Shiron) (AA Rank)",
+		"category": [
+			"Goals",
+			"veRtrageS by Riz vs. Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (veRtrageS by Riz vs. Shiron) (AAA Rank)",
+		"category": [
+			"Goals",
+			"veRtrageS by Riz vs. Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (veRtrageS by Riz vs. Shiron) (S Rank)",
+		"category": [
+			"Goals",
+			"veRtrageS by Riz vs. Shiron",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "voltississimo by BEMANI Sound Team \"PHQUASE\"",
@@ -1686,6 +2622,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"セイレーン ～悲壮の竪琴～ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"セイレーン ～悲壮の竪琴～ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"セイレーン ～悲壮の竪琴～ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"セイレーン ～悲壮の竪琴～ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ディスコルディア by ぺのれり vs. BEMANI Sound Team \"HuΣeR\"",
 		"progression": true,
 		"category": [
@@ -1767,6 +2739,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (大宇宙ステージ by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"大宇宙ステージ by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (大宇宙ステージ by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"大宇宙ステージ by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (大宇宙ステージ by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"大宇宙ステージ by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (大宇宙ステージ by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"大宇宙ステージ by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "幸せになれる隠しコマンドがあるらしい by うたたP feat. 結月ゆかり",
 		"progression": true,
 		"category": [
@@ -1783,6 +2791,114 @@
 			"恋愛＝精度×認識力 by 立秋 vs. BEMANI Sound Team \"L.E.D.-G\" feat.ちょこ＆ななひら",
 			"Song Number 183"
 		]
+	},
+	{
+		"name": "CHAIN (月光乱舞 by P*Light) (Pass)",
+		"category": [
+			"Goals",
+			"月光乱舞 by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (月光乱舞 by P*Light) (AA Rank)",
+		"category": [
+			"Goals",
+			"月光乱舞 by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (月光乱舞 by P*Light) (AAA Rank)",
+		"category": [
+			"Goals",
+			"月光乱舞 by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (月光乱舞 by P*Light) (S Rank)",
+		"category": [
+			"Goals",
+			"月光乱舞 by P*Light",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極圏 by cosMo VS dj TAKA) (Pass)",
+		"category": [
+			"Goals",
+			"極圏 by cosMo VS dj TAKA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極圏 by cosMo VS dj TAKA) (AA Rank)",
+		"category": [
+			"Goals",
+			"極圏 by cosMo VS dj TAKA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極圏 by cosMo VS dj TAKA) (AAA Rank)",
+		"category": [
+			"Goals",
+			"極圏 by cosMo VS dj TAKA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極圏 by cosMo VS dj TAKA) (S Rank)",
+		"category": [
+			"Goals",
+			"極圏 by cosMo VS dj TAKA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "無意識レクイエム (cosmobsp rmx) by cosMo＠暴走P (original arranged by 森羅万象)",
@@ -1848,6 +2964,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (Pass)",
+		"category": [
+			"Goals",
+			"逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (AA Rank)",
+		"category": [
+			"Goals",
+			"逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (S Rank)",
+		"category": [
+			"Goals",
+			"逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "音楽 -resolve- by Yu_Asahina",
 		"progression": true,
 		"category": [
@@ -1875,6 +3027,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (Pass)",
+		"category": [
+			"Goals",
+			"#Endroll by uno & D.watt (IOSYS TRAX)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (AA Rank)",
+		"category": [
+			"Goals",
+			"#Endroll by uno & D.watt (IOSYS TRAX)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"#Endroll by uno & D.watt (IOSYS TRAX)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (S Rank)",
+		"category": [
+			"Goals",
+			"#Endroll by uno & D.watt (IOSYS TRAX)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "#Fairy_dancing_in_lake by uno(IOSYS)",
 		"progression": true,
 		"category": [
@@ -1891,6 +3079,42 @@
 			"#Namescapes by #Namescapes",
 			"Song Number 200"
 		]
+	},
+	{
+		"name": "CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (Pass)",
+		"category": [
+			"Goals",
+			"#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (AA Rank)",
+		"category": [
+			"Goals",
+			"#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (S Rank)",
+		"category": [
+			"Goals",
+			"#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "=∴NOMADE∵OTION= by qfeileadh + yuichi NAGAO",
@@ -1938,6 +3162,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Absurd Gaff by siromaru) (Pass)",
+		"category": [
+			"Goals",
+			"Absurd Gaff by siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absurd Gaff by siromaru) (AA Rank)",
+		"category": [
+			"Goals",
+			"Absurd Gaff by siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absurd Gaff by siromaru) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Absurd Gaff by siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Absurd Gaff by siromaru) (S Rank)",
+		"category": [
+			"Goals",
+			"Absurd Gaff by siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Across the Starlight by かゆき",
 		"progression": true,
 		"category": [
@@ -1981,6 +3241,42 @@
 			"Akzeriyyuth by Team&Dj Grimoire",
 			"Song Number 212"
 		]
+	},
+	{
+		"name": "CHAIN (All for One by CANVAS feat. Quimär) (Pass)",
+		"category": [
+			"Goals",
+			"All for One by CANVAS feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (All for One by CANVAS feat. Quimär) (AA Rank)",
+		"category": [
+			"Goals",
+			"All for One by CANVAS feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (All for One by CANVAS feat. Quimär) (AAA Rank)",
+		"category": [
+			"Goals",
+			"All for One by CANVAS feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (All for One by CANVAS feat. Quimär) (S Rank)",
+		"category": [
+			"Goals",
+			"All for One by CANVAS feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Almandite by 7mai",
@@ -2053,6 +3349,42 @@
 			"Atropa bella-donna by HOUJIROU",
 			"Song Number 221"
 		]
+	},
+	{
+		"name": "CHAIN (Aurolla by MisoilePunch♪) (Pass)",
+		"category": [
+			"Goals",
+			"Aurolla by MisoilePunch♪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Aurolla by MisoilePunch♪) (AA Rank)",
+		"category": [
+			"Goals",
+			"Aurolla by MisoilePunch♪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Aurolla by MisoilePunch♪) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Aurolla by MisoilePunch♪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Aurolla by MisoilePunch♪) (S Rank)",
+		"category": [
+			"Goals",
+			"Aurolla by MisoilePunch♪",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "B.B.K.K.B.K.K. by nora2r",
@@ -2316,6 +3648,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (CODE -CRiMSON- by Shiron) (Pass)",
+		"category": [
+			"Goals",
+			"CODE -CRiMSON- by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CODE -CRiMSON- by Shiron) (AA Rank)",
+		"category": [
+			"Goals",
+			"CODE -CRiMSON- by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CODE -CRiMSON- by Shiron) (AAA Rank)",
+		"category": [
+			"Goals",
+			"CODE -CRiMSON- by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CODE -CRiMSON- by Shiron) (S Rank)",
+		"category": [
+			"Goals",
+			"CODE -CRiMSON- by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "CadenzaMaiden by u-z feat.紫咲ほたる",
 		"progression": true,
 		"category": [
@@ -2368,6 +3736,42 @@
 			"Catch Our Fire! by 中島由貴",
 			"Song Number 258"
 		]
+	},
+	{
+		"name": "CHAIN (Celestial stinger by Noah) (Pass)",
+		"category": [
+			"Goals",
+			"Celestial stinger by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Celestial stinger by Noah) (AA Rank)",
+		"category": [
+			"Goals",
+			"Celestial stinger by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Celestial stinger by Noah) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Celestial stinger by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Celestial stinger by Noah) (S Rank)",
+		"category": [
+			"Goals",
+			"Celestial stinger by Noah",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Cepheus by しらこいし",
@@ -2559,6 +3963,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (Pass)",
+		"category": [
+			"Goals",
+			"Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (AA Rank)",
+		"category": [
+			"Goals",
+			"Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (S Rank)",
+		"category": [
+			"Goals",
+			"Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Destined Marionette by ビートまりお（COOL&CREATE）",
 		"progression": true,
 		"category": [
@@ -2566,6 +4006,42 @@
 			"Destined Marionette by ビートまりお（COOL&CREATE）",
 			"Song Number 282"
 		]
+	},
+	{
+		"name": "CHAIN (Destiny by Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"Destiny by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destiny by Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"Destiny by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destiny by Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Destiny by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destiny by Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"Destiny by Yooh",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Destr0yer by 削除 feat. Nikki Simmons",
@@ -2602,6 +4078,42 @@
 			"Divine's or Deal by winddrums vs cosMo",
 			"Song Number 287"
 		]
+	},
+	{
+		"name": "CHAIN (Divine's:Bugscript by かゆき) (Pass)",
+		"category": [
+			"Goals",
+			"Divine's:Bugscript by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Divine's:Bugscript by かゆき) (AA Rank)",
+		"category": [
+			"Goals",
+			"Divine's:Bugscript by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Divine's:Bugscript by かゆき) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Divine's:Bugscript by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Divine's:Bugscript by かゆき) (S Rank)",
+		"category": [
+			"Goals",
+			"Divine's:Bugscript by かゆき",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Dogeza Stairs by ビートまりお（COOL&CREATE）",
@@ -2748,6 +4260,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Enter The Rave by Tatsunoshin) (Pass)",
+		"category": [
+			"Goals",
+			"Enter The Rave by Tatsunoshin",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Enter The Rave by Tatsunoshin) (AA Rank)",
+		"category": [
+			"Goals",
+			"Enter The Rave by Tatsunoshin",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Enter The Rave by Tatsunoshin) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Enter The Rave by Tatsunoshin",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Enter The Rave by Tatsunoshin) (S Rank)",
+		"category": [
+			"Goals",
+			"Enter The Rave by Tatsunoshin",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Ethereal Lotus by wa. + 杠葉えりか",
 		"progression": true,
 		"category": [
@@ -2802,6 +4350,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (FEEL THE FORCE by brz1128) (Pass)",
+		"category": [
+			"Goals",
+			"FEEL THE FORCE by brz1128",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FEEL THE FORCE by brz1128) (AA Rank)",
+		"category": [
+			"Goals",
+			"FEEL THE FORCE by brz1128",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FEEL THE FORCE by brz1128) (AAA Rank)",
+		"category": [
+			"Goals",
+			"FEEL THE FORCE by brz1128",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FEEL THE FORCE by brz1128) (S Rank)",
+		"category": [
+			"Goals",
+			"FEEL THE FORCE by brz1128",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "FIRE IN MY HEART by Spacelectro",
 		"progression": true,
 		"category": [
@@ -2827,6 +4411,42 @@
 			"FLOOR INFECTION Medley from SOUND VOLTEX×jubeat by United Composers from SOUND VOLTEX",
 			"Song Number 315"
 		]
+	},
+	{
+		"name": "CHAIN (FLOWER REDALiCE Remix by REDALiCE) (Pass)",
+		"category": [
+			"Goals",
+			"FLOWER REDALiCE Remix by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLOWER REDALiCE Remix by REDALiCE) (AA Rank)",
+		"category": [
+			"Goals",
+			"FLOWER REDALiCE Remix by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLOWER REDALiCE Remix by REDALiCE) (AAA Rank)",
+		"category": [
+			"Goals",
+			"FLOWER REDALiCE Remix by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (FLOWER REDALiCE Remix by REDALiCE) (S Rank)",
+		"category": [
+			"Goals",
+			"FLOWER REDALiCE Remix by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Fegrix by Xceon vs DJ Command (Eurobeat Union)",
@@ -2919,6 +4539,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (Pass)",
+		"category": [
+			"Goals",
+			"GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (AA Rank)",
+		"category": [
+			"Goals",
+			"GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (S Rank)",
+		"category": [
+			"Goals",
+			"GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "GEOMETRIA by Shiron",
 		"progression": true,
 		"category": [
@@ -2953,6 +4609,42 @@
 			"GOODTEK by EBIMAYO",
 			"Song Number 331"
 		]
+	},
+	{
+		"name": "CHAIN (GaLaXyEggPlanT by sasakure.UK) (Pass)",
+		"category": [
+			"Goals",
+			"GaLaXyEggPlanT by sasakure.UK",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GaLaXyEggPlanT by sasakure.UK) (AA Rank)",
+		"category": [
+			"Goals",
+			"GaLaXyEggPlanT by sasakure.UK",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GaLaXyEggPlanT by sasakure.UK) (AAA Rank)",
+		"category": [
+			"Goals",
+			"GaLaXyEggPlanT by sasakure.UK",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (GaLaXyEggPlanT by sasakure.UK) (S Rank)",
+		"category": [
+			"Goals",
+			"GaLaXyEggPlanT by sasakure.UK",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Gamerz FestivaL by うさぎ愛好会(cosMo×syuri22)",
@@ -3018,6 +4710,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Goddess Bless you by winddrums) (Pass)",
+		"category": [
+			"Goals",
+			"Goddess Bless you by winddrums",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goddess Bless you by winddrums) (AA Rank)",
+		"category": [
+			"Goals",
+			"Goddess Bless you by winddrums",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goddess Bless you by winddrums) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Goddess Bless you by winddrums",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goddess Bless you by winddrums) (S Rank)",
+		"category": [
+			"Goals",
+			"Goddess Bless you by winddrums",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Going My Future! by #EmoCosine",
 		"progression": true,
 		"category": [
@@ -3025,6 +4753,114 @@
 			"Going My Future! by #EmoCosine",
 			"Song Number 341"
 		]
+	},
+	{
+		"name": "CHAIN (Gorgetech by Shiron) (Pass)",
+		"category": [
+			"Goals",
+			"Gorgetech by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gorgetech by Shiron) (AA Rank)",
+		"category": [
+			"Goals",
+			"Gorgetech by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gorgetech by Shiron) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Gorgetech by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gorgetech by Shiron) (S Rank)",
+		"category": [
+			"Goals",
+			"Gorgetech by Shiron",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grand-Guignol by モリモリあつし) (Pass)",
+		"category": [
+			"Goals",
+			"Grand-Guignol by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grand-Guignol by モリモリあつし) (AA Rank)",
+		"category": [
+			"Goals",
+			"Grand-Guignol by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grand-Guignol by モリモリあつし) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Grand-Guignol by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grand-Guignol by モリモリあつし) (S Rank)",
+		"category": [
+			"Goals",
+			"Grand-Guignol by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (Pass)",
+		"category": [
+			"Goals",
+			"Grandeur by CANVAS x RoughSketch feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (AA Rank)",
+		"category": [
+			"Goals",
+			"Grandeur by CANVAS x RoughSketch feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Grandeur by CANVAS x RoughSketch feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (S Rank)",
+		"category": [
+			"Goals",
+			"Grandeur by CANVAS x RoughSketch feat. Quimär",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "HAELE III ~Angel Worlds~ by Yu_Asahina ft. Ritsuka",
@@ -3081,6 +4917,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Hellfire by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Hellfire by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hellfire by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Hellfire by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hellfire by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Hellfire by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hellfire by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Hellfire by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Hello, Hologram by HIMEHINA",
 		"progression": true,
 		"category": [
@@ -3115,6 +4987,42 @@
 			"Hydroblast by Aoi vs. siromaru",
 			"Song Number 355"
 		]
+	},
+	{
+		"name": "CHAIN (IKAROS DYNAMITE!!!! by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"IKAROS DYNAMITE!!!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (IKAROS DYNAMITE!!!! by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"IKAROS DYNAMITE!!!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (IKAROS DYNAMITE!!!! by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"IKAROS DYNAMITE!!!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (IKAROS DYNAMITE!!!! by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"IKAROS DYNAMITE!!!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Ice Fortress by 荒谷サトル",
@@ -3171,6 +5079,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (Initiating League by EmoCosine vs. nora2r) (Pass)",
+		"category": [
+			"Goals",
+			"Initiating League by EmoCosine vs. nora2r",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Initiating League by EmoCosine vs. nora2r) (AA Rank)",
+		"category": [
+			"Goals",
+			"Initiating League by EmoCosine vs. nora2r",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Initiating League by EmoCosine vs. nora2r) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Initiating League by EmoCosine vs. nora2r",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Initiating League by EmoCosine vs. nora2r) (S Rank)",
+		"category": [
+			"Goals",
+			"Initiating League by EmoCosine vs. nora2r",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Innocent by Alkome) (Pass)",
+		"category": [
+			"Goals",
+			"Innocent by Alkome",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Innocent by Alkome) (AA Rank)",
+		"category": [
+			"Goals",
+			"Innocent by Alkome",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Innocent by Alkome) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Innocent by Alkome",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Innocent by Alkome) (S Rank)",
+		"category": [
+			"Goals",
+			"Innocent by Alkome",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Innocent Azure by kuro",
 		"progression": true,
 		"category": [
@@ -3187,6 +5167,42 @@
 			"JEHANNEDARC by BlackY",
 			"Song Number 366"
 		]
+	},
+	{
+		"name": "CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (Pass)",
+		"category": [
+			"Goals",
+			"JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (AA Rank)",
+		"category": [
+			"Goals",
+			"JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (AAA Rank)",
+		"category": [
+			"Goals",
+			"JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (S Rank)",
+		"category": [
+			"Goals",
+			"JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Jack-the-Ripper◆ by sasakure.UK",
@@ -3214,6 +5230,42 @@
 			"Joyeuse by ke-ji",
 			"Song Number 370"
 		]
+	},
+	{
+		"name": "CHAIN (Juggler's Maddness by Lite Show Magic) (Pass)",
+		"category": [
+			"Goals",
+			"Juggler's Maddness by Lite Show Magic",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Juggler's Maddness by Lite Show Magic) (AA Rank)",
+		"category": [
+			"Goals",
+			"Juggler's Maddness by Lite Show Magic",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Juggler's Maddness by Lite Show Magic) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Juggler's Maddness by Lite Show Magic",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Juggler's Maddness by Lite Show Magic) (S Rank)",
+		"category": [
+			"Goals",
+			"Juggler's Maddness by Lite Show Magic",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Juωpscare!! by coTatsu",
@@ -3333,6 +5385,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (LECTORIA by Cranky) (Pass)",
+		"category": [
+			"Goals",
+			"LECTORIA by Cranky",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LECTORIA by Cranky) (AA Rank)",
+		"category": [
+			"Goals",
+			"LECTORIA by Cranky",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LECTORIA by Cranky) (AAA Rank)",
+		"category": [
+			"Goals",
+			"LECTORIA by Cranky",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (LECTORIA by Cranky) (S Rank)",
+		"category": [
+			"Goals",
+			"LECTORIA by Cranky",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "LOVE TONIC by 影虎。",
 		"progression": true,
 		"category": [
@@ -3351,6 +5439,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Last Concerto by ke-ji) (Pass)",
+		"category": [
+			"Goals",
+			"Last Concerto by ke-ji",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Concerto by ke-ji) (AA Rank)",
+		"category": [
+			"Goals",
+			"Last Concerto by ke-ji",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Concerto by ke-ji) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Last Concerto by ke-ji",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Concerto by ke-ji) (S Rank)",
+		"category": [
+			"Goals",
+			"Last Concerto by ke-ji",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "LastΩmegA by BlackY",
 		"progression": true,
 		"category": [
@@ -3367,6 +5491,42 @@
 			"Lazurite by sazanami",
 			"Song Number 390"
 		]
+	},
+	{
+		"name": "CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (Pass)",
+		"category": [
+			"Goals",
+			"Le Fruit Défendu by モリモリあつし+Verdammt",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (AA Rank)",
+		"category": [
+			"Goals",
+			"Le Fruit Défendu by モリモリあつし+Verdammt",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Le Fruit Défendu by モリモリあつし+Verdammt",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (S Rank)",
+		"category": [
+			"Goals",
+			"Le Fruit Défendu by モリモリあつし+Verdammt",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Legendary Road by kanone",
@@ -3396,6 +5556,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Liar rain by しーけー) (Pass)",
+		"category": [
+			"Goals",
+			"Liar rain by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liar rain by しーけー) (AA Rank)",
+		"category": [
+			"Goals",
+			"Liar rain by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liar rain by しーけー) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Liar rain by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liar rain by しーけー) (S Rank)",
+		"category": [
+			"Goals",
+			"Liar rain by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Lieselotte by wa.",
 		"progression": true,
 		"category": [
@@ -3403,6 +5599,42 @@
 			"Lieselotte by wa.",
 			"Song Number 396"
 		]
+	},
+	{
+		"name": "CHAIN (Little Red Riding Hood by RoughSketch) (Pass)",
+		"category": [
+			"Goals",
+			"Little Red Riding Hood by RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Little Red Riding Hood by RoughSketch) (AA Rank)",
+		"category": [
+			"Goals",
+			"Little Red Riding Hood by RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Little Red Riding Hood by RoughSketch) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Little Red Riding Hood by RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Little Red Riding Hood by RoughSketch) (S Rank)",
+		"category": [
+			"Goals",
+			"Little Red Riding Hood by RoughSketch",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Lost Parliament by Juggernaut.",
@@ -3522,6 +5754,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Max Burning!! by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"Max Burning!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Max Burning!! by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"Max Burning!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Max Burning!! by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Max Burning!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Max Burning!! by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"Max Burning!! by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Max Burning!!(GαineN Beyond yΩu Remix) by 概念",
 		"progression": true,
 		"category": [
@@ -3576,6 +5844,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Mirrorwall by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"Mirrorwall by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Mirrorwall by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"Mirrorwall by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Mirrorwall by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Mirrorwall by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Mirrorwall by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"Mirrorwall by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "My song by 角巻わため",
 		"progression": true,
 		"category": [
@@ -3610,6 +5914,42 @@
 			"NEO GRAVITY by lapix",
 			"Song Number 422"
 		]
+	},
+	{
+		"name": "CHAIN (NEO TREASON by lapix) (Pass)",
+		"category": [
+			"Goals",
+			"NEO TREASON by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (NEO TREASON by lapix) (AA Rank)",
+		"category": [
+			"Goals",
+			"NEO TREASON by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (NEO TREASON by lapix) (AAA Rank)",
+		"category": [
+			"Goals",
+			"NEO TREASON by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (NEO TREASON by lapix) (S Rank)",
+		"category": [
+			"Goals",
+			"NEO TREASON by lapix",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "NO SURRENDER by 493Water",
@@ -3648,6 +5988,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Never Forget Evergreen by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Never Forget Evergreen by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Never Forget Evergreen by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Never Forget Evergreen by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Never Forget Evergreen by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Never Forget Evergreen by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Never Forget Evergreen by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Never Forget Evergreen by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "New Decade by Sota F.",
 		"progression": true,
 		"category": [
@@ -3664,6 +6040,42 @@
 			"New Leaf by BlackY vs. Yooh",
 			"Song Number 430"
 		]
+	},
+	{
+		"name": "CHAIN (Nexta by lapix) (Pass)",
+		"category": [
+			"Goals",
+			"Nexta by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nexta by lapix) (AA Rank)",
+		"category": [
+			"Goals",
+			"Nexta by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nexta by lapix) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Nexta by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nexta by lapix) (S Rank)",
+		"category": [
+			"Goals",
+			"Nexta by lapix",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Nhelv by Silentroom",
@@ -3738,6 +6150,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Ok!! Hug Me by はるなば) (Pass)",
+		"category": [
+			"Goals",
+			"Ok!! Hug Me by はるなば",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ok!! Hug Me by はるなば) (AA Rank)",
+		"category": [
+			"Goals",
+			"Ok!! Hug Me by はるなば",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ok!! Hug Me by はるなば) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Ok!! Hug Me by はるなば",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ok!! Hug Me by はるなば) (S Rank)",
+		"category": [
+			"Goals",
+			"Ok!! Hug Me by はるなば",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "On take SUN by Sampling Masters MEGA",
 		"progression": true,
 		"category": [
@@ -3765,6 +6213,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (Pass)",
+		"category": [
+			"Goals",
+			"Ops:Code-Rapture- by Getty vs. DJ DiA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (AA Rank)",
+		"category": [
+			"Goals",
+			"Ops:Code-Rapture- by Getty vs. DJ DiA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Ops:Code-Rapture- by Getty vs. DJ DiA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (S Rank)",
+		"category": [
+			"Goals",
+			"Ops:Code-Rapture- by Getty vs. DJ DiA",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Our Love by lapix",
 		"progression": true,
 		"category": [
@@ -3772,6 +6256,42 @@
 			"Our Love by lapix",
 			"Song Number 445"
 		]
+	},
+	{
+		"name": "CHAIN (Over The Top by Ashrount) (Pass)",
+		"category": [
+			"Goals",
+			"Over The Top by Ashrount",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Over The Top by Ashrount) (AA Rank)",
+		"category": [
+			"Goals",
+			"Over The Top by Ashrount",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Over The Top by Ashrount) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Over The Top by Ashrount",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Over The Top by Ashrount) (S Rank)",
+		"category": [
+			"Goals",
+			"Over The Top by Ashrount",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "PANIC HOLIC by C-Show",
@@ -3864,6 +6384,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (Pass)",
+		"category": [
+			"Goals",
+			"Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (S Rank)",
+		"category": [
+			"Goals",
+			"Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Petit espoir by しーけー",
 		"progression": true,
 		"category": [
@@ -3882,6 +6438,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Poochie by kors k",
 		"progression": true,
 		"category": [
@@ -3889,6 +6481,78 @@
 			"Poochie by kors k",
 			"Song Number 461"
 		]
+	},
+	{
+		"name": "CHAIN (Prayer by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"Prayer by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"Prayer by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Prayer by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"Prayer by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (Pass)",
+		"category": [
+			"Goals",
+			"Prayer by 溝口ゆうま feat. 大瀬良あい",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (AA Rank)",
+		"category": [
+			"Goals",
+			"Prayer by 溝口ゆうま feat. 大瀬良あい",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Prayer by 溝口ゆうま feat. 大瀬良あい",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (S Rank)",
+		"category": [
+			"Goals",
+			"Prayer by 溝口ゆうま feat. 大瀬良あい",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Prey by BEMANI Sound Team \"Dustup\"",
@@ -3916,6 +6580,42 @@
 			"Pulsar by はがね",
 			"Song Number 466"
 		]
+	},
+	{
+		"name": "CHAIN (Puni Puni Parade by MARON (IOSYS)) (Pass)",
+		"category": [
+			"Goals",
+			"Puni Puni Parade by MARON (IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Puni Puni Parade by MARON (IOSYS)) (AA Rank)",
+		"category": [
+			"Goals",
+			"Puni Puni Parade by MARON (IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Puni Puni Parade by MARON (IOSYS)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Puni Puni Parade by MARON (IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Puni Puni Parade by MARON (IOSYS)) (S Rank)",
+		"category": [
+			"Goals",
+			"Puni Puni Parade by MARON (IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Pure Ruby by SHIKI",
@@ -3963,6 +6663,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (REVOLVER by sky_delta) (Pass)",
+		"category": [
+			"Goals",
+			"REVOLVER by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REVOLVER by sky_delta) (AA Rank)",
+		"category": [
+			"Goals",
+			"REVOLVER by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REVOLVER by sky_delta) (AAA Rank)",
+		"category": [
+			"Goals",
+			"REVOLVER by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REVOLVER by sky_delta) (S Rank)",
+		"category": [
+			"Goals",
+			"REVOLVER by sky_delta",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "RHYZING BEAT by PHQUASE",
 		"progression": true,
 		"category": [
@@ -3997,6 +6733,42 @@
 			"Rebellio by MAX MAXIMIZER VS DJ TOTTO",
 			"Song Number 477"
 		]
+	},
+	{
+		"name": "CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (Pass)",
+		"category": [
+			"Goals",
+			"Reb∞t by BEMANI Sound Team \"TAG\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (AA Rank)",
+		"category": [
+			"Goals",
+			"Reb∞t by BEMANI Sound Team \"TAG\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (AAA Rank)",
+		"category": [
+			"Goals",
+			"Reb∞t by BEMANI Sound Team \"TAG\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (S Rank)",
+		"category": [
+			"Goals",
+			"Reb∞t by BEMANI Sound Team \"TAG\"",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Redshift by technoplanet",
@@ -4069,6 +6841,42 @@
 			"Re：End of a Dream by uma vs. モリモリあつし",
 			"Song Number 486"
 		]
+	},
+	{
+		"name": "CHAIN (Ring！Run！Nyan!! by MisomyL) (Pass)",
+		"category": [
+			"Goals",
+			"Ring！Run！Nyan!! by MisomyL",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ring！Run！Nyan!! by MisomyL) (AA Rank)",
+		"category": [
+			"Goals",
+			"Ring！Run！Nyan!! by MisomyL",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ring！Run！Nyan!! by MisomyL) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Ring！Run！Nyan!! by MisomyL",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Ring！Run！Nyan!! by MisomyL) (S Rank)",
+		"category": [
+			"Goals",
+			"Ring！Run！Nyan!! by MisomyL",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "S(TAR)²☆pistol by Mono.",
@@ -4314,6 +7122,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (SociuS by Ellim Gnirps vs よみぃ) (Pass)",
+		"category": [
+			"Goals",
+			"SociuS by Ellim Gnirps vs よみぃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SociuS by Ellim Gnirps vs よみぃ) (AA Rank)",
+		"category": [
+			"Goals",
+			"SociuS by Ellim Gnirps vs よみぃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SociuS by Ellim Gnirps vs よみぃ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"SociuS by Ellim Gnirps vs よみぃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SociuS by Ellim Gnirps vs よみぃ) (S Rank)",
+		"category": [
+			"Goals",
+			"SociuS by Ellim Gnirps vs よみぃ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Solar Storm by xi「グルーヴコースター 3 リンクフィーバー」より",
 		"progression": true,
 		"category": [
@@ -4321,6 +7165,42 @@
 			"Solar Storm by xi「グルーヴコースター 3 リンクフィーバー」より",
 			"Song Number 516"
 		]
+	},
+	{
+		"name": "CHAIN (Souhait bleu by しーけー) (Pass)",
+		"category": [
+			"Goals",
+			"Souhait bleu by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Souhait bleu by しーけー) (AA Rank)",
+		"category": [
+			"Goals",
+			"Souhait bleu by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Souhait bleu by しーけー) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Souhait bleu by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Souhait bleu by しーけー) (S Rank)",
+		"category": [
+			"Goals",
+			"Souhait bleu by しーけー",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Spirit of the Beast by ikaruga_nex fw.tcheb",
@@ -4366,6 +7246,78 @@
 			"Stylus by BEMANI Sound Team \"HuΣeR\"",
 			"Song Number 522"
 		]
+	},
+	{
+		"name": "CHAIN (Sudden Visitor by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Sudden Visitor by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sudden Visitor by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Sudden Visitor by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sudden Visitor by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Sudden Visitor by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sudden Visitor by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Sudden Visitor by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SuperMiracleEnsemble by fnylsp) (Pass)",
+		"category": [
+			"Goals",
+			"SuperMiracleEnsemble by fnylsp",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SuperMiracleEnsemble by fnylsp) (AA Rank)",
+		"category": [
+			"Goals",
+			"SuperMiracleEnsemble by fnylsp",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SuperMiracleEnsemble by fnylsp) (AAA Rank)",
+		"category": [
+			"Goals",
+			"SuperMiracleEnsemble by fnylsp",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (SuperMiracleEnsemble by fnylsp) (S Rank)",
+		"category": [
+			"Goals",
+			"SuperMiracleEnsemble by fnylsp",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Sweet Requiem by REDALiCE & aran",
@@ -4467,6 +7419,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (Test Flight by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Test Flight by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Test Flight by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Test Flight by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Test Flight by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Test Flight by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Test Flight by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Test Flight by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Teufel by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Teufel by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Teufel by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Teufel by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Teufel by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Teufel by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Teufel by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Teufel by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Thank you for your playing music by かぼちゃ feat. miko",
 		"progression": true,
 		"category": [
@@ -4519,6 +7543,42 @@
 			"The Sampling Paradise (P*Light Remix) by P*Light",
 			"Song Number 543"
 		]
+	},
+	{
+		"name": "CHAIN (The star in eclipse by しーけー) (Pass)",
+		"category": [
+			"Goals",
+			"The star in eclipse by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (The star in eclipse by しーけー) (AA Rank)",
+		"category": [
+			"Goals",
+			"The star in eclipse by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (The star in eclipse by しーけー) (AAA Rank)",
+		"category": [
+			"Goals",
+			"The star in eclipse by しーけー",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (The star in eclipse by しーけー) (S Rank)",
+		"category": [
+			"Goals",
+			"The star in eclipse by しーけー",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "The world of sound by Music by Ryuwitty, Vocal by Kuroa*",
@@ -4629,6 +7689,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (ULTRAVELOCITY by はがね) (Pass)",
+		"category": [
+			"Goals",
+			"ULTRAVELOCITY by はがね",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTRAVELOCITY by はがね) (AA Rank)",
+		"category": [
+			"Goals",
+			"ULTRAVELOCITY by はがね",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTRAVELOCITY by はがね) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ULTRAVELOCITY by はがね",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTRAVELOCITY by はがね) (S Rank)",
+		"category": [
+			"Goals",
+			"ULTRAVELOCITY by はがね",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (Pass)",
+		"category": [
+			"Goals",
+			"ULTiMATE INFLATiON by cosMo＠暴走Genocider",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (AA Rank)",
+		"category": [
+			"Goals",
+			"ULTiMATE INFLATiON by cosMo＠暴走Genocider",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ULTiMATE INFLATiON by cosMo＠暴走Genocider",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (S Rank)",
+		"category": [
+			"Goals",
+			"ULTiMATE INFLATiON by cosMo＠暴走Genocider",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Ultimate Ascension by かめりあ",
 		"progression": true,
 		"category": [
@@ -4647,6 +7779,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (UnivEarth by Antinomic Paradox) (Pass)",
+		"category": [
+			"Goals",
+			"UnivEarth by Antinomic Paradox",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (UnivEarth by Antinomic Paradox) (AA Rank)",
+		"category": [
+			"Goals",
+			"UnivEarth by Antinomic Paradox",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (UnivEarth by Antinomic Paradox) (AAA Rank)",
+		"category": [
+			"Goals",
+			"UnivEarth by Antinomic Paradox",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (UnivEarth by Antinomic Paradox) (S Rank)",
+		"category": [
+			"Goals",
+			"UnivEarth by Antinomic Paradox",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Unleashed Redness by DecisionS (kanone + nora2r)",
 		"progression": true,
 		"category": [
@@ -4663,6 +7831,42 @@
 			"V by TAKA",
 			"Song Number 563"
 		]
+	},
+	{
+		"name": "CHAIN (V Sen5eS by MasKaleido VS 709sec.) (Pass)",
+		"category": [
+			"Goals",
+			"V Sen5eS by MasKaleido VS 709sec.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (V Sen5eS by MasKaleido VS 709sec.) (AA Rank)",
+		"category": [
+			"Goals",
+			"V Sen5eS by MasKaleido VS 709sec.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (V Sen5eS by MasKaleido VS 709sec.) (AAA Rank)",
+		"category": [
+			"Goals",
+			"V Sen5eS by MasKaleido VS 709sec.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (V Sen5eS by MasKaleido VS 709sec.) (S Rank)",
+		"category": [
+			"Goals",
+			"V Sen5eS by MasKaleido VS 709sec.",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "V!LLA!N by Kaname",
@@ -4764,6 +7968,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "WARNING×WARNING×WARNING by 暁Records",
 		"progression": true,
 		"category": [
@@ -4780,6 +8020,42 @@
 			"WINNING ROAD by setu-O",
 			"Song Number 578"
 		]
+	},
+	{
+		"name": "CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (Pass)",
+		"category": [
+			"Goals",
+			"Warriors Aboot by RoughSketch vs MAD CHILD",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (AA Rank)",
+		"category": [
+			"Goals",
+			"Warriors Aboot by RoughSketch vs MAD CHILD",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Warriors Aboot by RoughSketch vs MAD CHILD",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (S Rank)",
+		"category": [
+			"Goals",
+			"Warriors Aboot by RoughSketch vs MAD CHILD",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "We Are All The Dreamer by Hommarju ft. かぼちゃ",
@@ -4836,6 +8112,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (Wings to fly high by Noah) (Pass)",
+		"category": [
+			"Goals",
+			"Wings to fly high by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wings to fly high by Noah) (AA Rank)",
+		"category": [
+			"Goals",
+			"Wings to fly high by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wings to fly high by Noah) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Wings to fly high by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wings to fly high by Noah) (S Rank)",
+		"category": [
+			"Goals",
+			"Wings to fly high by Noah",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wish upon Twin Stars by xi) (Pass)",
+		"category": [
+			"Goals",
+			"Wish upon Twin Stars by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wish upon Twin Stars by xi) (AA Rank)",
+		"category": [
+			"Goals",
+			"Wish upon Twin Stars by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wish upon Twin Stars by xi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Wish upon Twin Stars by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wish upon Twin Stars by xi) (S Rank)",
+		"category": [
+			"Goals",
+			"Wish upon Twin Stars by xi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "With It This Heaven? by technoplanet",
 		"progression": true,
 		"category": [
@@ -4854,6 +8202,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (X1GNUS by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"X1GNUS by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (X1GNUS by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"X1GNUS by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (X1GNUS by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"X1GNUS by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (X1GNUS by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"X1GNUS by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "XHAOS JUDGE by BlackYooh vs. siromaru",
 		"progression": true,
 		"category": [
@@ -4861,6 +8245,42 @@
 			"XHAOS JUDGE by BlackYooh vs. siromaru",
 			"Song Number 591"
 		]
+	},
+	{
+		"name": "CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"XROSS THE XOUL by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"XROSS THE XOUL by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"XROSS THE XOUL by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"XROSS THE XOUL by BlackY vs. Yooh",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "XXanadu#climaXX by 概念",
@@ -4971,6 +8391,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (croiX by TeamGrimoire+あま猫) (Pass)",
+		"category": [
+			"Goals",
+			"croiX by TeamGrimoire+あま猫",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (croiX by TeamGrimoire+あま猫) (AA Rank)",
+		"category": [
+			"Goals",
+			"croiX by TeamGrimoire+あま猫",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (croiX by TeamGrimoire+あま猫) (AAA Rank)",
+		"category": [
+			"Goals",
+			"croiX by TeamGrimoire+あま猫",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (croiX by TeamGrimoire+あま猫) (S Rank)",
+		"category": [
+			"Goals",
+			"croiX by TeamGrimoire+あま猫",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crossing blue by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"crossing blue by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crossing blue by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"crossing blue by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crossing blue by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"crossing blue by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crossing blue by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"crossing blue by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "eighth-slave by Yu_Asahina",
 		"progression": true,
 		"category": [
@@ -5070,6 +8562,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (party:stage by かゆき) (Pass)",
+		"category": [
+			"Goals",
+			"party:stage by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (party:stage by かゆき) (AA Rank)",
+		"category": [
+			"Goals",
+			"party:stage by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (party:stage by かゆき) (AAA Rank)",
+		"category": [
+			"Goals",
+			"party:stage by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (party:stage by かゆき) (S Rank)",
+		"category": [
+			"Goals",
+			"party:stage by かゆき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "petits fours by kamome sano",
 		"progression": true,
 		"category": [
@@ -5106,6 +8634,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (refluxio by Juggernaut.) (Pass)",
+		"category": [
+			"Goals",
+			"refluxio by Juggernaut.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (refluxio by Juggernaut.) (AA Rank)",
+		"category": [
+			"Goals",
+			"refluxio by Juggernaut.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (refluxio by Juggernaut.) (AAA Rank)",
+		"category": [
+			"Goals",
+			"refluxio by Juggernaut.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (refluxio by Juggernaut.) (S Rank)",
+		"category": [
+			"Goals",
+			"refluxio by Juggernaut.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "stellar rain by BEMANI Sound Team \"PHQUASE\"",
 		"progression": true,
 		"category": [
@@ -5131,6 +8695,42 @@
 			"trea→journey by CHUBAY",
 			"Song Number 626"
 		]
+	},
+	{
+		"name": "CHAIN (tricky trick by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"tricky trick by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (tricky trick by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"tricky trick by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (tricky trick by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"tricky trick by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (tricky trick by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"tricky trick by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "waxing and wanding by 青龍",
@@ -5259,6 +8859,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (Pass)",
+		"category": [
+			"Goals",
+			"Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (AA Rank)",
+		"category": [
+			"Goals",
+			"Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (S Rank)",
+		"category": [
+			"Goals",
+			"Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "†渚の小悪魔ラヴリィ～レイディオ† by 夏色ビキニのPrim",
 		"progression": true,
 		"category": [
@@ -5275,6 +8911,42 @@
 			"€omet popcorn by pan",
 			"Song Number 644"
 		]
+	},
+	{
+		"name": "CHAIN (↓↓↓ by 庭師) (Pass)",
+		"category": [
+			"Goals",
+			"↓↓↓ by 庭師",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (↓↓↓ by 庭師) (AA Rank)",
+		"category": [
+			"Goals",
+			"↓↓↓ by 庭師",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (↓↓↓ by 庭師) (AAA Rank)",
+		"category": [
+			"Goals",
+			"↓↓↓ by 庭師",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (↓↓↓ by 庭師) (S Rank)",
+		"category": [
+			"Goals",
+			"↓↓↓ by 庭師",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "∞vitUniverse by Lime",
@@ -5403,6 +9075,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"ばらんが!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"ばらんが!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ばらんが!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"ばらんが!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "び by 立秋 feat.ちょこ",
 		"progression": true,
 		"category": [
@@ -5430,6 +9138,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (Pass)",
+		"category": [
+			"Goals",
+			"ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (AA Rank)",
+		"category": [
+			"Goals",
+			"ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (S Rank)",
+		"category": [
+			"Goals",
+			"ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (Pass)",
+		"category": [
+			"Goals",
+			"まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (AA Rank)",
+		"category": [
+			"Goals",
+			"まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (AAA Rank)",
+		"category": [
+			"Goals",
+			"まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (S Rank)",
+		"category": [
+			"Goals",
+			"まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "めうめうぺったんたん！！ (ZAQUVA Remix) by Remixed by BEMANI Sound Team \"ZAQUVA\"",
 		"progression": true,
 		"category": [
@@ -5446,6 +9226,42 @@
 			"りむむむむむむ by 立秋 feat.ちょこ",
 			"Song Number 667"
 		]
+	},
+	{
+		"name": "CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"ゔぉるみっくす!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"ゔぉるみっくす!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ゔぉるみっくす!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"ゔぉるみっくす!!!! by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "アイの雫 by kuro",
@@ -5745,6 +9561,114 @@
 		]
 	},
 	{
+		"name": "CHAIN (ホワイトパレード by 梅干茶漬け) (Pass)",
+		"category": [
+			"Goals",
+			"ホワイトパレード by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ホワイトパレード by 梅干茶漬け) (AA Rank)",
+		"category": [
+			"Goals",
+			"ホワイトパレード by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ホワイトパレード by 梅干茶漬け) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ホワイトパレード by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ホワイトパレード by 梅干茶漬け) (S Rank)",
+		"category": [
+			"Goals",
+			"ホワイトパレード by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (Pass)",
+		"category": [
+			"Goals",
+			"ボルテ体操第一 by Kaoru feat.FG75",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (AA Rank)",
+		"category": [
+			"Goals",
+			"ボルテ体操第一 by Kaoru feat.FG75",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ボルテ体操第一 by Kaoru feat.FG75",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (S Rank)",
+		"category": [
+			"Goals",
+			"ボルテ体操第一 by Kaoru feat.FG75",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マサカリブレイド by REDALiCE) (Pass)",
+		"category": [
+			"Goals",
+			"マサカリブレイド by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マサカリブレイド by REDALiCE) (AA Rank)",
+		"category": [
+			"Goals",
+			"マサカリブレイド by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マサカリブレイド by REDALiCE) (AAA Rank)",
+		"category": [
+			"Goals",
+			"マサカリブレイド by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マサカリブレイド by REDALiCE) (S Rank)",
+		"category": [
+			"Goals",
+			"マサカリブレイド by REDALiCE",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "マツヨイナイトバグ by ビートまりおとまろん",
 		"progression": true,
 		"category": [
@@ -5761,6 +9685,42 @@
 			"ミッドナイト☆WAR by いちか",
 			"Song Number 706"
 		]
+	},
+	{
+		"name": "CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (Pass)",
+		"category": [
+			"Goals",
+			"ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (AA Rank)",
+		"category": [
+			"Goals",
+			"ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (S Rank)",
+		"category": [
+			"Goals",
+			"ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "ミュージックプレイヤー （J-pop Remix） by technoplanet feat. Risa Yuzuki",
@@ -5961,6 +9921,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (Pass)",
+		"category": [
+			"Goals",
+			"光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (AA Rank)",
+		"category": [
+			"Goals",
+			"光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (AAA Rank)",
+		"category": [
+			"Goals",
+			"光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (S Rank)",
+		"category": [
+			"Goals",
+			"光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "光風霽月 by 影虎。",
 		"progression": true,
 		"category": [
@@ -6150,6 +10146,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (星の透る夏空に願う by Yu-dachi) (Pass)",
+		"category": [
+			"Goals",
+			"星の透る夏空に願う by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (星の透る夏空に願う by Yu-dachi) (AA Rank)",
+		"category": [
+			"Goals",
+			"星の透る夏空に願う by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (星の透る夏空に願う by Yu-dachi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"星の透る夏空に願う by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (星の透る夏空に願う by Yu-dachi) (S Rank)",
+		"category": [
+			"Goals",
+			"星の透る夏空に願う by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "春告胡蝶 by BlackY feat. Risa Yuzuki",
 		"progression": true,
 		"category": [
@@ -6211,6 +10243,42 @@
 			"業焔繚乱 by BlackY",
 			"Song Number 759"
 		]
+	},
+	{
+		"name": "CHAIN (極夜、暁を望んで by めと（Metomate）) (Pass)",
+		"category": [
+			"Goals",
+			"極夜、暁を望んで by めと（Metomate）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極夜、暁を望んで by めと（Metomate）) (AA Rank)",
+		"category": [
+			"Goals",
+			"極夜、暁を望んで by めと（Metomate）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極夜、暁を望んで by めと（Metomate）) (AAA Rank)",
+		"category": [
+			"Goals",
+			"極夜、暁を望んで by めと（Metomate）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (極夜、暁を望んで by めと（Metomate）) (S Rank)",
+		"category": [
+			"Goals",
+			"極夜、暁を望んで by めと（Metomate）",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "極彩天奏 by かゆき",
@@ -6285,6 +10353,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (準備運動 by すのうまん) (Pass)",
+		"category": [
+			"Goals",
+			"準備運動 by すのうまん",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (準備運動 by すのうまん) (AA Rank)",
+		"category": [
+			"Goals",
+			"準備運動 by すのうまん",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (準備運動 by すのうまん) (AAA Rank)",
+		"category": [
+			"Goals",
+			"準備運動 by すのうまん",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (準備運動 by すのうまん) (S Rank)",
+		"category": [
+			"Goals",
+			"準備運動 by すのうまん",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "火狐之舞 by 影虎。",
 		"progression": true,
 		"category": [
@@ -6292,6 +10396,42 @@
 			"火狐之舞 by 影虎。",
 			"Song Number 770"
 		]
+	},
+	{
+		"name": "CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (Pass)",
+		"category": [
+			"Goals",
+			"灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (AA Rank)",
+		"category": [
+			"Goals",
+			"灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (AAA Rank)",
+		"category": [
+			"Goals",
+			"灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (S Rank)",
+		"category": [
+			"Goals",
+			"灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "灼熱Beach Side Bunny by DJ Mass MAD Izm*",
@@ -6357,6 +10497,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (Pass)",
+		"category": [
+			"Goals",
+			"祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (AA Rank)",
+		"category": [
+			"Goals",
+			"祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (S Rank)",
+		"category": [
+			"Goals",
+			"祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "神獄烙桜 by かゆき",
 		"progression": true,
 		"category": [
@@ -6373,6 +10549,42 @@
 			"神罰 by cosMo＠暴走P",
 			"Song Number 781"
 		]
+	},
+	{
+		"name": "CHAIN (神話に芽吹く by Cororo) (Pass)",
+		"category": [
+			"Goals",
+			"神話に芽吹く by Cororo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (神話に芽吹く by Cororo) (AA Rank)",
+		"category": [
+			"Goals",
+			"神話に芽吹く by Cororo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (神話に芽吹く by Cororo) (AAA Rank)",
+		"category": [
+			"Goals",
+			"神話に芽吹く by Cororo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (神話に芽吹く by Cororo) (S Rank)",
+		"category": [
+			"Goals",
+			"神話に芽吹く by Cororo",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "禊 by Nhato",
@@ -6490,6 +10702,78 @@
 			"諏訪大信仰 by ビートまりお＋あまね（COOL&CREATE）",
 			"Song Number 795"
 		]
+	},
+	{
+		"name": "CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (Pass)",
+		"category": [
+			"Goals",
+			"超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (AA Rank)",
+		"category": [
+			"Goals",
+			"超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (AAA Rank)",
+		"category": [
+			"Goals",
+			"超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (S Rank)",
+		"category": [
+			"Goals",
+			"超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "轟け！恋のビーンボール！！ by ダイナミック野球兄弟 v.s. クロスファイヤーPrim",
@@ -6753,6 +11037,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (AYAKASHI by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"AYAKASHI by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (AYAKASHI by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"AYAKASHI by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (AYAKASHI by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"AYAKASHI by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (AYAKASHI by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"AYAKASHI by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Adrenaline Rush by siqlo",
 		"progression": true,
 		"category": [
@@ -6843,6 +11163,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Appliqué by モリモリあつし) (Pass)",
+		"category": [
+			"Goals",
+			"Appliqué by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Appliqué by モリモリあつし) (AA Rank)",
+		"category": [
+			"Goals",
+			"Appliqué by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Appliqué by モリモリあつし) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Appliqué by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Appliqué by モリモリあつし) (S Rank)",
+		"category": [
+			"Goals",
+			"Appliqué by モリモリあつし",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Aragami by xi",
 		"progression": true,
 		"category": [
@@ -6850,6 +11206,42 @@
 			"Aragami by xi",
 			"Song Number 839"
 		]
+	},
+	{
+		"name": "CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (Pass)",
+		"category": [
+			"Goals",
+			"Arcade Prison by MAD CHILD vs. siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (AA Rank)",
+		"category": [
+			"Goals",
+			"Arcade Prison by MAD CHILD vs. siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Arcade Prison by MAD CHILD vs. siromaru",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (S Rank)",
+		"category": [
+			"Goals",
+			"Arcade Prison by MAD CHILD vs. siromaru",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Awakening Wings by 伊達朱里紗",
@@ -6888,6 +11280,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (Pass)",
+		"category": [
+			"Goals",
+			"BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (AA Rank)",
+		"category": [
+			"Goals",
+			"BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (S Rank)",
+		"category": [
+			"Goals",
+			"BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "BREAKNECK NY☆N! NY★N! by ZerA",
 		"progression": true,
 		"category": [
@@ -6913,6 +11341,78 @@
 			"Backflow by lapix",
 			"Song Number 848"
 		]
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (Pass)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (AA Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (S Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (Pass)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (AA Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (S Rank)",
+		"category": [
+			"Goals",
+			"Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Berry Go!! by Freezer feat.妃苺",
@@ -7041,6 +11541,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (CUTIE☆EX-DREAM by BlackY) (Pass)",
+		"category": [
+			"Goals",
+			"CUTIE☆EX-DREAM by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CUTIE☆EX-DREAM by BlackY) (AA Rank)",
+		"category": [
+			"Goals",
+			"CUTIE☆EX-DREAM by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CUTIE☆EX-DREAM by BlackY) (AAA Rank)",
+		"category": [
+			"Goals",
+			"CUTIE☆EX-DREAM by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (CUTIE☆EX-DREAM by BlackY) (S Rank)",
+		"category": [
+			"Goals",
+			"CUTIE☆EX-DREAM by BlackY",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Carry Me Away by lapix",
 		"progression": true,
 		"category": [
@@ -7048,6 +11584,42 @@
 			"Carry Me Away by lapix",
 			"Song Number 866"
 		]
+	},
+	{
+		"name": "CHAIN (Chakra by uma) (Pass)",
+		"category": [
+			"Goals",
+			"Chakra by uma",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Chakra by uma) (AA Rank)",
+		"category": [
+			"Goals",
+			"Chakra by uma",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Chakra by uma) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Chakra by uma",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Chakra by uma) (S Rank)",
+		"category": [
+			"Goals",
+			"Chakra by uma",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Chaotic Romance by はるなば",
@@ -7149,6 +11721,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (Cy-Bird by Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"Cy-Bird by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cy-Bird by Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"Cy-Bird by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cy-Bird by Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Cy-Bird by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Cy-Bird by Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"Cy-Bird by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (Pass)",
+		"category": [
+			"Goals",
+			"D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (AA Rank)",
+		"category": [
+			"Goals",
+			"D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (S Rank)",
+		"category": [
+			"Goals",
+			"D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "DEADLOCK XXX by BlackY",
 		"progression": true,
 		"category": [
@@ -7248,6 +11892,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Destroy by Yooh) (Pass)",
+		"category": [
+			"Goals",
+			"Destroy by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destroy by Yooh) (AA Rank)",
+		"category": [
+			"Goals",
+			"Destroy by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destroy by Yooh) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Destroy by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Destroy by Yooh) (S Rank)",
+		"category": [
+			"Goals",
+			"Destroy by Yooh",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Destruction & Qreation by polysha+inusack",
 		"progression": true,
 		"category": [
@@ -7282,6 +11962,42 @@
 			"Din Don Dan (Fusion Remix) by TAKU1175 feat.かなたん",
 			"Song Number 896"
 		]
+	},
+	{
+		"name": "CHAIN (Discloze by lapix) (Pass)",
+		"category": [
+			"Goals",
+			"Discloze by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Discloze by lapix) (AA Rank)",
+		"category": [
+			"Goals",
+			"Discloze by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Discloze by lapix) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Discloze by lapix",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Discloze by lapix) (S Rank)",
+		"category": [
+			"Goals",
+			"Discloze by lapix",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Distorted Floor by RoughSketch",
@@ -7563,6 +12279,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Follow Up by あるふぁ) (Pass)",
+		"category": [
+			"Goals",
+			"Follow Up by あるふぁ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Follow Up by あるふぁ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Follow Up by あるふぁ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Follow Up by あるふぁ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Follow Up by あるふぁ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Follow Up by あるふぁ) (S Rank)",
+		"category": [
+			"Goals",
+			"Follow Up by あるふぁ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Foolish Again by lapix",
 		"progression": true,
 		"category": [
@@ -7597,6 +12349,42 @@
 			"Four Leaves (Whitelily. remix) by Whitelily.(みーに&しろさきあや)",
 			"Song Number 933"
 		]
+	},
+	{
+		"name": "CHAIN (Fun walk!! by Enterskip) (Pass)",
+		"category": [
+			"Goals",
+			"Fun walk!! by Enterskip",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fun walk!! by Enterskip) (AA Rank)",
+		"category": [
+			"Goals",
+			"Fun walk!! by Enterskip",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fun walk!! by Enterskip) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Fun walk!! by Enterskip",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Fun walk!! by Enterskip) (S Rank)",
+		"category": [
+			"Goals",
+			"Fun walk!! by Enterskip",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Fáfnir by Aoi Sumito a.k.a. あおいひと",
@@ -7635,6 +12423,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Get back here by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Get back here by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Get back here by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Get back here by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Get back here by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Get back here by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Get back here by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Get back here by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Gimme dreamin' by BlackY feat. Risa Yuzuki",
 		"progression": true,
 		"category": [
@@ -7642,6 +12466,42 @@
 			"Gimme dreamin' by BlackY feat. Risa Yuzuki",
 			"Song Number 940"
 		]
+	},
+	{
+		"name": "CHAIN (Gott by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Gott by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gott by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Gott by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gott by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Gott by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Gott by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Gott by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Grand Chariot by xi",
@@ -7680,6 +12540,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (Pass)",
+		"category": [
+			"Goals",
+			"HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (AA Rank)",
+		"category": [
+			"Goals",
+			"HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (AAA Rank)",
+		"category": [
+			"Goals",
+			"HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (S Rank)",
+		"category": [
+			"Goals",
+			"HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Halcyon by xi",
 		"progression": true,
 		"category": [
@@ -7687,6 +12583,42 @@
 			"Halcyon by xi",
 			"Song Number 947"
 		]
+	},
+	{
+		"name": "CHAIN (Happy Sensation by IckPo) (Pass)",
+		"category": [
+			"Goals",
+			"Happy Sensation by IckPo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Happy Sensation by IckPo) (AA Rank)",
+		"category": [
+			"Goals",
+			"Happy Sensation by IckPo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Happy Sensation by IckPo) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Happy Sensation by IckPo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Happy Sensation by IckPo) (S Rank)",
+		"category": [
+			"Goals",
+			"Happy Sensation by IckPo",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Harmonia by ATSUMI UEDA",
@@ -7779,6 +12711,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (Pass)",
+		"category": [
+			"Goals",
+			"I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (AA Rank)",
+		"category": [
+			"Goals",
+			"I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (AAA Rank)",
+		"category": [
+			"Goals",
+			"I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (S Rank)",
+		"category": [
+			"Goals",
+			"I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。 by 宝鐘マリン",
 		"progression": true,
 		"category": [
@@ -7795,6 +12763,42 @@
 			"ILL-STARRED Diver by polysha",
 			"Song Number 961"
 		]
+	},
+	{
+		"name": "CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (Pass)",
+		"category": [
+			"Goals",
+			"INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (AA Rank)",
+		"category": [
+			"Goals",
+			"INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (S Rank)",
+		"category": [
+			"Goals",
+			"INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "INFINITY OVERDRIVE by DecisionS(kanone + nora2r)",
@@ -7995,6 +12999,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Last Battalion by ETIA.) (Pass)",
+		"category": [
+			"Goals",
+			"Last Battalion by ETIA.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Battalion by ETIA.) (AA Rank)",
+		"category": [
+			"Goals",
+			"Last Battalion by ETIA.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Battalion by ETIA.) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Last Battalion by ETIA.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Last Battalion by ETIA.) (S Rank)",
+		"category": [
+			"Goals",
+			"Last Battalion by ETIA.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Libera me by Cranky",
 		"progression": true,
 		"category": [
@@ -8148,6 +13188,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Made In Love by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Made In Love by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Made In Love by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Made In Love by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Made In Love by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Made In Love by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Made In Love by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Made In Love by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Mayohiga Spurt by さわわ",
 		"progression": true,
 		"category": [
@@ -8265,6 +13341,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Nofram by unatra) (Pass)",
+		"category": [
+			"Goals",
+			"Nofram by unatra",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nofram by unatra) (AA Rank)",
+		"category": [
+			"Goals",
+			"Nofram by unatra",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nofram by unatra) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Nofram by unatra",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Nofram by unatra) (S Rank)",
+		"category": [
+			"Goals",
+			"Nofram by unatra",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Non RolicK!!大冒険 by Croire",
 		"progression": true,
 		"category": [
@@ -8317,6 +13429,42 @@
 			"PIZZATIME by Tsubusare BOZZ",
 			"Song Number 1023"
 		]
+	},
+	{
+		"name": "CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (Pass)",
+		"category": [
+			"Goals",
+			"PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (AA Rank)",
+		"category": [
+			"Goals",
+			"PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (S Rank)",
+		"category": [
+			"Goals",
+			"PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "POSSESSION(Gowrock Remix) by Gowrock",
@@ -8418,6 +13566,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Poppin’Cats!! by やどりぎ) (Pass)",
+		"category": [
+			"Goals",
+			"Poppin’Cats!! by やどりぎ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poppin’Cats!! by やどりぎ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Poppin’Cats!! by やどりぎ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poppin’Cats!! by やどりぎ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Poppin’Cats!! by やどりぎ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poppin’Cats!! by やどりぎ) (S Rank)",
+		"category": [
+			"Goals",
+			"Poppin’Cats!! by やどりぎ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Princess Lily by 溝口ゆうま feat. 大瀬良あい",
 		"progression": true,
 		"category": [
@@ -8481,6 +13665,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (REGALIA by Riz) (Pass)",
+		"category": [
+			"Goals",
+			"REGALIA by Riz",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REGALIA by Riz) (AA Rank)",
+		"category": [
+			"Goals",
+			"REGALIA by Riz",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REGALIA by Riz) (AAA Rank)",
+		"category": [
+			"Goals",
+			"REGALIA by Riz",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (REGALIA by Riz) (S Rank)",
+		"category": [
+			"Goals",
+			"REGALIA by Riz",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Re:Rose Gun Shoooot! by あるふぁ",
 		"progression": true,
 		"category": [
@@ -8508,6 +13728,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Rebuilding of Paradise Lost by Laur) (Pass)",
+		"category": [
+			"Goals",
+			"Rebuilding of Paradise Lost by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Rebuilding of Paradise Lost by Laur) (AA Rank)",
+		"category": [
+			"Goals",
+			"Rebuilding of Paradise Lost by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Rebuilding of Paradise Lost by Laur) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Rebuilding of Paradise Lost by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Rebuilding of Paradise Lost by Laur) (S Rank)",
+		"category": [
+			"Goals",
+			"Rebuilding of Paradise Lost by Laur",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Record one's Dream by uma vs. モリモリあつし",
 		"progression": true,
 		"category": [
@@ -8533,6 +13789,42 @@
 			"Rejoin by BEMANI Sound Team \"HuΣeR feat.PON\"",
 			"Song Number 1051"
 		]
+	},
+	{
+		"name": "CHAIN (Resonant Gear by Endorfin.) (Pass)",
+		"category": [
+			"Goals",
+			"Resonant Gear by Endorfin.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Resonant Gear by Endorfin.) (AA Rank)",
+		"category": [
+			"Goals",
+			"Resonant Gear by Endorfin.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Resonant Gear by Endorfin.) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Resonant Gear by Endorfin.",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Resonant Gear by Endorfin.) (S Rank)",
+		"category": [
+			"Goals",
+			"Resonant Gear by Endorfin.",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Revolution by lapix",
@@ -8769,6 +14061,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Space Diver Tama by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Space Diver Tama by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Space Diver Tama by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Space Diver Tama by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Space Diver Tama by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Space Diver Tama by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Space Diver Tama by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Space Diver Tama by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Sparkle Smilin' by BEMANI Sound Team \"Qrispy Joybox\" feat.いちか",
 		"progression": true,
 		"category": [
@@ -8904,6 +14232,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (Pass)",
+		"category": [
+			"Goals",
+			"TYCOON by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (AA Rank)",
+		"category": [
+			"Goals",
+			"TYCOON by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"TYCOON by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (S Rank)",
+		"category": [
+			"Goals",
+			"TYCOON by SOUND HOLIC feat. Nana Takahashi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Technical Master by 天音 (Rolling Contact)",
 		"progression": true,
 		"category": [
@@ -8994,6 +14358,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (Pass)",
+		"category": [
+			"Goals",
+			"Twin Rocket by uno feat.ちよこ(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (AA Rank)",
+		"category": [
+			"Goals",
+			"Twin Rocket by uno feat.ちよこ(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Twin Rocket by uno feat.ちよこ(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (S Rank)",
+		"category": [
+			"Goals",
+			"Twin Rocket by uno feat.ちよこ(IOSYS)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ULTRA B+K by nora2r",
 		"progression": true,
 		"category": [
@@ -9019,6 +14419,78 @@
 			"VIVID DEBUT! by #EmoCosine",
 			"Song Number 1109"
 		]
+	},
+	{
+		"name": "CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (Pass)",
+		"category": [
+			"Goals",
+			"VIVIDWAVERS by SDVX SOUND UNION",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (AA Rank)",
+		"category": [
+			"Goals",
+			"VIVIDWAVERS by SDVX SOUND UNION",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (AAA Rank)",
+		"category": [
+			"Goals",
+			"VIVIDWAVERS by SDVX SOUND UNION",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (S Rank)",
+		"category": [
+			"Goals",
+			"VIVIDWAVERS by SDVX SOUND UNION",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (Pass)",
+		"category": [
+			"Goals",
+			"VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (AA Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (AAA Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (S Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Vampire's Territory by u-z",
@@ -9273,6 +14745,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (choux à la crème by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"choux à la crème by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (choux à la crème by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"choux à la crème by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (choux à la crème by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"choux à la crème by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (choux à la crème by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"choux à la crème by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "clear:wings by かゆき",
 		"progression": true,
 		"category": [
@@ -9381,6 +14889,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (freaky freak by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"freaky freak by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (freaky freak by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"freaky freak by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (freaky freak by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"freaky freak by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (freaky freak by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"freaky freak by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "gigadelic -stance xxxx- by Hate",
 		"progression": true,
 		"category": [
@@ -9397,6 +14941,42 @@
 			"gigadelic(m3rkAb4# R3m!x) by ikaruga_nex",
 			"Song Number 1155"
 		]
+	},
+	{
+		"name": "CHAIN (good high school by baker) (Pass)",
+		"category": [
+			"Goals",
+			"good high school by baker",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (good high school by baker) (AA Rank)",
+		"category": [
+			"Goals",
+			"good high school by baker",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (good high school by baker) (AAA Rank)",
+		"category": [
+			"Goals",
+			"good high school by baker",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (good high school by baker) (S Rank)",
+		"category": [
+			"Goals",
+			"good high school by baker",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "infinite:youniverse by かゆき",
@@ -9453,6 +15033,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (Pass)",
+		"category": [
+			"Goals",
+			"scary night by 岸田教団＆THE明星ロケッツ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (AA Rank)",
+		"category": [
+			"Goals",
+			"scary night by 岸田教団＆THE明星ロケッツ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"scary night by 岸田教団＆THE明星ロケッツ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (S Rank)",
+		"category": [
+			"Goals",
+			"scary night by 岸田教団＆THE明星ロケッツ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "sink into the dream by uma",
 		"progression": true,
 		"category": [
@@ -9471,6 +15087,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (sparky spark by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"sparky spark by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (sparky spark by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"sparky spark by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (sparky spark by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"sparky spark by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (sparky spark by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"sparky spark by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "take a step forward by uma",
 		"progression": true,
 		"category": [
@@ -9487,6 +15139,42 @@
 			"toy boxer by BEMANI Sound Team \"S-C-U & SYUNN\"",
 			"Song Number 1168"
 		]
+	},
+	{
+		"name": "CHAIN (ultra turbo by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"ultra turbo by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ultra turbo by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"ultra turbo by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ultra turbo by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ultra turbo by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ultra turbo by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"ultra turbo by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "vivid landscape by paraoka",
@@ -9597,6 +15285,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (Pass)",
+		"category": [
+			"Goals",
+			"いでぃおで結構！ by 諸星なな feat.加藤はるか",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (AA Rank)",
+		"category": [
+			"Goals",
+			"いでぃおで結構！ by 諸星なな feat.加藤はるか",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (AAA Rank)",
+		"category": [
+			"Goals",
+			"いでぃおで結構！ by 諸星なな feat.加藤はるか",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (S Rank)",
+		"category": [
+			"Goals",
+			"いでぃおで結構！ by 諸星なな feat.加藤はるか",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "うさぬこぬんぬんファンタジー！ by ARM(IOSYS) feat. 普透明度",
 		"progression": true,
 		"category": [
@@ -9669,6 +15393,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (きらきらタイム☆ by さわわ) (Pass)",
+		"category": [
+			"Goals",
+			"きらきらタイム☆ by さわわ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (きらきらタイム☆ by さわわ) (AA Rank)",
+		"category": [
+			"Goals",
+			"きらきらタイム☆ by さわわ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (きらきらタイム☆ by さわわ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"きらきらタイム☆ by さわわ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (きらきらタイム☆ by さわわ) (S Rank)",
+		"category": [
+			"Goals",
+			"きらきらタイム☆ by さわわ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ここからよろしく大作戦143 by BEMANI Sound Team \"あさき隊\"",
 		"progression": true,
 		"category": [
@@ -9676,6 +15436,42 @@
 			"ここからよろしく大作戦143 by BEMANI Sound Team \"あさき隊\"",
 			"Song Number 1192"
 		]
+	},
+	{
+		"name": "CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "すろぉもぉしょん by ピノキオピー",
@@ -10353,6 +16149,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (Pass)",
+		"category": [
+			"Goals",
+			"プラネタジャーニー by U-ske feat.棗いつき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (AA Rank)",
+		"category": [
+			"Goals",
+			"プラネタジャーニー by U-ske feat.棗いつき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (AAA Rank)",
+		"category": [
+			"Goals",
+			"プラネタジャーニー by U-ske feat.棗いつき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (S Rank)",
+		"category": [
+			"Goals",
+			"プラネタジャーニー by U-ske feat.棗いつき",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "プリュネシエル by 瀬名 feat. 音羽ことり。",
 		"progression": true,
 		"category": [
@@ -10569,6 +16401,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (Pass)",
+		"category": [
+			"Goals",
+			"伊邪那美白山姫大神 by Morrigan feat. リリィ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (AA Rank)",
+		"category": [
+			"Goals",
+			"伊邪那美白山姫大神 by Morrigan feat. リリィ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"伊邪那美白山姫大神 by Morrigan feat. リリィ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (S Rank)",
+		"category": [
+			"Goals",
+			"伊邪那美白山姫大神 by Morrigan feat. リリィ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "信仰は儚き人間の為に ～ Arr.Demetori by Demetori",
 		"progression": true,
 		"category": [
@@ -10650,6 +16518,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (君は Fantasista by 杉下 トキヤ) (Pass)",
+		"category": [
+			"Goals",
+			"君は Fantasista by 杉下 トキヤ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君は Fantasista by 杉下 トキヤ) (AA Rank)",
+		"category": [
+			"Goals",
+			"君は Fantasista by 杉下 トキヤ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君は Fantasista by 杉下 トキヤ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"君は Fantasista by 杉下 トキヤ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君は Fantasista by 杉下 トキヤ) (S Rank)",
+		"category": [
+			"Goals",
+			"君は Fantasista by 杉下 トキヤ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "地球最後の告白を by kemu feat. GUMI",
 		"progression": true,
 		"category": [
@@ -10666,6 +16570,42 @@
 			"夏色DIARY -Summer Dazzlin' Vacation miX- by 猫叉王子 feat. PHQUASE vs. MAD CHILD",
 			"Song Number 1306"
 		]
+	},
+	{
+		"name": "CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (Pass)",
+		"category": [
+			"Goals",
+			"夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (AA Rank)",
+		"category": [
+			"Goals",
+			"夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (AAA Rank)",
+		"category": [
+			"Goals",
+			"夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (S Rank)",
+		"category": [
+			"Goals",
+			"夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "夢見草奇譚 by Paradise Eve feat.しゃみお",
@@ -11145,6 +17085,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (真夏の海の修道女 by bermei.inazawa) (Pass)",
+		"category": [
+			"Goals",
+			"真夏の海の修道女 by bermei.inazawa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (真夏の海の修道女 by bermei.inazawa) (AA Rank)",
+		"category": [
+			"Goals",
+			"真夏の海の修道女 by bermei.inazawa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (真夏の海の修道女 by bermei.inazawa) (AAA Rank)",
+		"category": [
+			"Goals",
+			"真夏の海の修道女 by bermei.inazawa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (真夏の海の修道女 by bermei.inazawa) (S Rank)",
+		"category": [
+			"Goals",
+			"真夏の海の修道女 by bermei.inazawa",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "真夏の蜜と唇 fm. 希望の星は青霄に昇る by ARM (IOSYS) ft. yukina (TUMENECO)",
 		"progression": true,
 		"category": [
@@ -11197,6 +17173,42 @@
 			"竹取飛翔 by 岸田教団＆THE明星ロケッツ",
 			"Song Number 1367"
 		]
+	},
+	{
+		"name": "CHAIN (紅の剣舞 by かねこちはる) (Pass)",
+		"category": [
+			"Goals",
+			"紅の剣舞 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (紅の剣舞 by かねこちはる) (AA Rank)",
+		"category": [
+			"Goals",
+			"紅の剣舞 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (紅の剣舞 by かねこちはる) (AAA Rank)",
+		"category": [
+			"Goals",
+			"紅の剣舞 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (紅の剣舞 by かねこちはる) (S Rank)",
+		"category": [
+			"Goals",
+			"紅の剣舞 by かねこちはる",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "羅生門 by TAKU1175 × かにまゆ",
@@ -11278,6 +17290,42 @@
 			"透明声彩 by YuNi",
 			"Song Number 1377"
 		]
+	},
+	{
+		"name": "CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (Pass)",
+		"category": [
+			"Goals",
+			"運命超過乃巡合 by Aoi feat. Gra+yanshu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (AA Rank)",
+		"category": [
+			"Goals",
+			"運命超過乃巡合 by Aoi feat. Gra+yanshu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (AAA Rank)",
+		"category": [
+			"Goals",
+			"運命超過乃巡合 by Aoi feat. Gra+yanshu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (S Rank)",
+		"category": [
+			"Goals",
+			"運命超過乃巡合 by Aoi feat. Gra+yanshu",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "過食性:アイドル症候群 by スズム feat.GUMI＆MAYU",
@@ -11368,6 +17416,42 @@
 			"雪月花 -さわわRemix- by さわわ",
 			"Song Number 1388"
 		]
+	},
+	{
+		"name": "CHAIN (雲海 by 椎名　豪) (Pass)",
+		"category": [
+			"Goals",
+			"雲海 by 椎名　豪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (雲海 by 椎名　豪) (AA Rank)",
+		"category": [
+			"Goals",
+			"雲海 by 椎名　豪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (雲海 by 椎名　豪) (AAA Rank)",
+		"category": [
+			"Goals",
+			"雲海 by 椎名　豪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (雲海 by 椎名　豪) (S Rank)",
+		"category": [
+			"Goals",
+			"雲海 by 椎名　豪",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "零の位相 by kradness",
@@ -11730,6 +17814,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Dawn of Asia by ginkiha+kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"Dawn of Asia by ginkiha+kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Dawn of Asia by ginkiha+kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"Dawn of Asia by ginkiha+kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Dawn of Asia by ginkiha+kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Dawn of Asia by ginkiha+kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Dawn of Asia by ginkiha+kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"Dawn of Asia by ginkiha+kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Daydream café (Euro Hopping Mix) by Remixed by BEMANI Sound Team \"TAG\" feat. ななひら",
 		"progression": true,
 		"category": [
@@ -11973,6 +18093,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Hyper☆Chipspace by Saiph) (Pass)",
+		"category": [
+			"Goals",
+			"Hyper☆Chipspace by Saiph",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hyper☆Chipspace by Saiph) (AA Rank)",
+		"category": [
+			"Goals",
+			"Hyper☆Chipspace by Saiph",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hyper☆Chipspace by Saiph) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Hyper☆Chipspace by Saiph",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Hyper☆Chipspace by Saiph) (S Rank)",
+		"category": [
+			"Goals",
+			"Hyper☆Chipspace by Saiph",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "I'm so Happy by Ryu☆",
 		"progression": true,
 		"category": [
@@ -12142,6 +18298,42 @@
 			"Mami Mami Zone by REDALiCE feat. 野宮あゆみ",
 			"Song Number 1477"
 		]
+	},
+	{
+		"name": "CHAIN (Milkyway - memorable - by こふ) (Pass)",
+		"category": [
+			"Goals",
+			"Milkyway - memorable - by こふ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Milkyway - memorable - by こふ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Milkyway - memorable - by こふ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Milkyway - memorable - by こふ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Milkyway - memorable - by こふ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Milkyway - memorable - by こふ) (S Rank)",
+		"category": [
+			"Goals",
+			"Milkyway - memorable - by こふ",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Mind Mapping(ag Remix) by ag",
@@ -12540,6 +18732,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (Sounds Of Summer by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Sounds Of Summer by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sounds Of Summer by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Sounds Of Summer by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sounds Of Summer by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Sounds Of Summer by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sounds Of Summer by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Sounds Of Summer by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sourire by とろまる) (Pass)",
+		"category": [
+			"Goals",
+			"Sourire by とろまる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sourire by とろまる) (AA Rank)",
+		"category": [
+			"Goals",
+			"Sourire by とろまる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sourire by とろまる) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Sourire by とろまる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Sourire by とろまる) (S Rank)",
+		"category": [
+			"Goals",
+			"Sourire by とろまる",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Squeeze by VENUS feat. Mutsuhiko Izumi",
 		"progression": true,
 		"category": [
@@ -12648,6 +18912,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (TrailBlazer by cold kiss) (Pass)",
+		"category": [
+			"Goals",
+			"TrailBlazer by cold kiss",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TrailBlazer by cold kiss) (AA Rank)",
+		"category": [
+			"Goals",
+			"TrailBlazer by cold kiss",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TrailBlazer by cold kiss) (AAA Rank)",
+		"category": [
+			"Goals",
+			"TrailBlazer by cold kiss",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (TrailBlazer by cold kiss) (S Rank)",
+		"category": [
+			"Goals",
+			"TrailBlazer by cold kiss",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Blaster by polysha+tcheb) (Pass)",
+		"category": [
+			"Goals",
+			"Twin Blaster by polysha+tcheb",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Blaster by polysha+tcheb) (AA Rank)",
+		"category": [
+			"Goals",
+			"Twin Blaster by polysha+tcheb",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Blaster by polysha+tcheb) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Twin Blaster by polysha+tcheb",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Twin Blaster by polysha+tcheb) (S Rank)",
+		"category": [
+			"Goals",
+			"Twin Blaster by polysha+tcheb",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Two of Us by Sound CYCLONE",
 		"progression": true,
 		"category": [
@@ -12702,6 +19038,78 @@
 		]
 	},
 	{
+		"name": "CHAIN (VOLTEXES III by Sota Fujimori) (Pass)",
+		"category": [
+			"Goals",
+			"VOLTEXES III by Sota Fujimori",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES III by Sota Fujimori) (AA Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES III by Sota Fujimori",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES III by Sota Fujimori) (AAA Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES III by Sota Fujimori",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (VOLTEXES III by Sota Fujimori) (S Rank)",
+		"category": [
+			"Goals",
+			"VOLTEXES III by Sota Fujimori",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Violet Soul by Soleily) (Pass)",
+		"category": [
+			"Goals",
+			"Violet Soul by Soleily",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Violet Soul by Soleily) (AA Rank)",
+		"category": [
+			"Goals",
+			"Violet Soul by Soleily",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Violet Soul by Soleily) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Violet Soul by Soleily",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Violet Soul by Soleily) (S Rank)",
+		"category": [
+			"Goals",
+			"Violet Soul by Soleily",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "World Vertex by void",
 		"progression": true,
 		"category": [
@@ -12709,6 +19117,78 @@
 			"World Vertex by void",
 			"Song Number 1547"
 		]
+	},
+	{
+		"name": "CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (Pass)",
+		"category": [
+			"Goals",
+			"Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (AA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (S Rank)",
+		"category": [
+			"Goals",
+			"Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"Wuv U(pico/ustic rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U(pico/ustic rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U(pico/ustic rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"Wuv U(pico/ustic rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "You Know-SDVX EDIT- by 源屋 with Kuroa*",
@@ -12727,6 +19207,42 @@
 			"ancient garden by Cororo",
 			"Song Number 1551"
 		]
+	},
+	{
+		"name": "CHAIN (archive::zip by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"archive::zip by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (archive::zip by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"archive::zip by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (archive::zip by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"archive::zip by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (archive::zip by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"archive::zip by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "bass 2 bass [Tracy vs. Astronomical Remix] by Tracy vs. Astronomical",
@@ -12756,6 +19272,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (crêpe suzette by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"crêpe suzette by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crêpe suzette by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"crêpe suzette by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crêpe suzette by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"crêpe suzette by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (crêpe suzette by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"crêpe suzette by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "disordered asia by シイナフユキ",
 		"progression": true,
 		"category": [
@@ -12781,6 +19333,42 @@
 			"eastward -sdvx edit- by ginkiha",
 			"Song Number 1559"
 		]
+	},
+	{
+		"name": "CHAIN (eternita by cosMo＠暴走P) (Pass)",
+		"category": [
+			"Goals",
+			"eternita by cosMo＠暴走P",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (eternita by cosMo＠暴走P) (AA Rank)",
+		"category": [
+			"Goals",
+			"eternita by cosMo＠暴走P",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (eternita by cosMo＠暴走P) (AAA Rank)",
+		"category": [
+			"Goals",
+			"eternita by cosMo＠暴走P",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (eternita by cosMo＠暴走P) (S Rank)",
+		"category": [
+			"Goals",
+			"eternita by cosMo＠暴走P",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "fancy cake!! by あるふぁ",
@@ -12934,6 +19522,42 @@
 			"すきなことだけでいいです by ピノキオピー",
 			"Song Number 1577"
 		]
+	},
+	{
+		"name": "CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (Pass)",
+		"category": [
+			"Goals",
+			"ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (AA Rank)",
+		"category": [
+			"Goals",
+			"ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (S Rank)",
+		"category": [
+			"Goals",
+			"ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "つぶやき魔法少女りむる by DJ SHARPNEL feat. みらい",
@@ -13107,6 +19731,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ゴーストマスコット by はるなば feat.みかん汁",
 		"progression": true,
 		"category": [
@@ -13249,6 +19909,42 @@
 			"トラウマ催眠少女さとり！ by DJ SHARPNEL feat. 一ノ瀬月琉",
 			"Song Number 1614"
 		]
+	},
+	{
+		"name": "CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (Pass)",
+		"category": [
+			"Goals",
+			"トリコロール・ダイアリー by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (AA Rank)",
+		"category": [
+			"Goals",
+			"トリコロール・ダイアリー by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (AAA Rank)",
+		"category": [
+			"Goals",
+			"トリコロール・ダイアリー by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (S Rank)",
+		"category": [
+			"Goals",
+			"トリコロール・ダイアリー by 梅干茶漬け",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "トーキョーサマーナイト by みーに",
@@ -13411,6 +20107,42 @@
 			"モザイクロール by DECO*27",
 			"Song Number 1633"
 		]
+	},
+	{
+		"name": "CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (Pass)",
+		"category": [
+			"Goals",
+			"ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (AA Rank)",
+		"category": [
+			"Goals",
+			"ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (S Rank)",
+		"category": [
+			"Goals",
+			"ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "ユキバレ＊ぱれいど by coTatsu",
@@ -14331,6 +21063,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (Pass)",
+		"category": [
+			"Goals",
+			"Le ×××× by Orange Vox+ ft.konomi*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (AA Rank)",
+		"category": [
+			"Goals",
+			"Le ×××× by Orange Vox+ ft.konomi*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Le ×××× by Orange Vox+ ft.konomi*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (S Rank)",
+		"category": [
+			"Goals",
+			"Le ×××× by Orange Vox+ ft.konomi*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Lonly Ranunculus by Amateras Records feat.築山さえ",
 		"progression": true,
 		"category": [
@@ -14475,6 +21243,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Poison Blood by udouddo) (Pass)",
+		"category": [
+			"Goals",
+			"Poison Blood by udouddo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poison Blood by udouddo) (AA Rank)",
+		"category": [
+			"Goals",
+			"Poison Blood by udouddo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poison Blood by udouddo) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Poison Blood by udouddo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Poison Blood by udouddo) (S Rank)",
+		"category": [
+			"Goals",
+			"Poison Blood by udouddo",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Prelude-Hereafter- by 源屋",
 		"progression": true,
 		"category": [
@@ -14482,6 +21286,42 @@
 			"Prelude-Hereafter- by 源屋",
 			"Song Number 1755"
 		]
+	},
+	{
+		"name": "CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (Pass)",
+		"category": [
+			"Goals",
+			"Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (AA Rank)",
+		"category": [
+			"Goals",
+			"Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (S Rank)",
+		"category": [
+			"Goals",
+			"Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Pristine Bigband by Y*Quartet project",
@@ -14680,6 +21520,42 @@
 			"We Are The Scarlet (SDVX Edit) by 天音 (Rolling Contact)",
 			"Song Number 1778"
 		]
+	},
+	{
+		"name": "CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (Pass)",
+		"category": [
+			"Goals",
+			"Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (AA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (S Rank)",
+		"category": [
+			"Goals",
+			"Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "citrus by kamome sano",
@@ -14997,6 +21873,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (バタフライキャット by daniwell) (Pass)",
+		"category": [
+			"Goals",
+			"バタフライキャット by daniwell",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (バタフライキャット by daniwell) (AA Rank)",
+		"category": [
+			"Goals",
+			"バタフライキャット by daniwell",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (バタフライキャット by daniwell) (AAA Rank)",
+		"category": [
+			"Goals",
+			"バタフライキャット by daniwell",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (バタフライキャット by daniwell) (S Rank)",
+		"category": [
+			"Goals",
+			"バタフライキャット by daniwell",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "パンダヒーロー by ハチ",
 		"progression": true,
 		"category": [
@@ -15267,6 +22179,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (Pass)",
+		"category": [
+			"Goals",
+			"朧 (kamome sano remix) by kamome sano feat. Kuroa*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (AA Rank)",
+		"category": [
+			"Goals",
+			"朧 (kamome sano remix) by kamome sano feat. Kuroa*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (AAA Rank)",
+		"category": [
+			"Goals",
+			"朧 (kamome sano remix) by kamome sano feat. Kuroa*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (S Rank)",
+		"category": [
+			"Goals",
+			"朧 (kamome sano remix) by kamome sano feat. Kuroa*",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "水月鏡花のコノテーション by 日向美ビタースイーツ♪",
 		"progression": true,
 		"category": [
@@ -15402,6 +22350,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Goodbye-bye Planet by 黒魔) (Pass)",
+		"category": [
+			"Goals",
+			"Goodbye-bye Planet by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goodbye-bye Planet by 黒魔) (AA Rank)",
+		"category": [
+			"Goals",
+			"Goodbye-bye Planet by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goodbye-bye Planet by 黒魔) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Goodbye-bye Planet by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Goodbye-bye Planet by 黒魔) (S Rank)",
+		"category": [
+			"Goals",
+			"Goodbye-bye Planet by 黒魔",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "HAPPY HEART BEAT by ヒゲドライバー",
 		"progression": true,
 		"category": [
@@ -15508,6 +22492,78 @@
 			"disco KAWAii by uno feat.ちよこ(IOSYS)",
 			"Song Number 1874"
 		]
+	},
+	{
+		"name": "CHAIN (relegation grimoire by tsuzu) (Pass)",
+		"category": [
+			"Goals",
+			"relegation grimoire by tsuzu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (relegation grimoire by tsuzu) (AA Rank)",
+		"category": [
+			"Goals",
+			"relegation grimoire by tsuzu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (relegation grimoire by tsuzu) (AAA Rank)",
+		"category": [
+			"Goals",
+			"relegation grimoire by tsuzu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (relegation grimoire by tsuzu) (S Rank)",
+		"category": [
+			"Goals",
+			"relegation grimoire by tsuzu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (Pass)",
+		"category": [
+			"Goals",
+			"いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (AA Rank)",
+		"category": [
+			"Goals",
+			"いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (AAA Rank)",
+		"category": [
+			"Goals",
+			"いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (S Rank)",
+		"category": [
+			"Goals",
+			"いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "げきオコスティックファイナリアリティぷんぷんマスタースパーク by ARM(IOSYS) feat.ビートまりお(COOL&CREATE)",
@@ -15688,6 +22744,42 @@
 			"悪いところがひとつもない！ by 臨界モスキー党",
 			"Song Number 1896"
 		]
+	},
+	{
+		"name": "CHAIN (感情Xerography by 8284 feat. 榎楠) (Pass)",
+		"category": [
+			"Goals",
+			"感情Xerography by 8284 feat. 榎楠",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (感情Xerography by 8284 feat. 榎楠) (AA Rank)",
+		"category": [
+			"Goals",
+			"感情Xerography by 8284 feat. 榎楠",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (感情Xerography by 8284 feat. 榎楠) (AAA Rank)",
+		"category": [
+			"Goals",
+			"感情Xerography by 8284 feat. 榎楠",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (感情Xerography by 8284 feat. 榎楠) (S Rank)",
+		"category": [
+			"Goals",
+			"感情Xerography by 8284 feat. 榎楠",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "或る春の日 by 豚乙女",
@@ -15951,6 +23043,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Liming Light by negi) (Pass)",
+		"category": [
+			"Goals",
+			"Liming Light by negi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liming Light by negi) (AA Rank)",
+		"category": [
+			"Goals",
+			"Liming Light by negi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liming Light by negi) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Liming Light by negi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Liming Light by negi) (S Rank)",
+		"category": [
+			"Goals",
+			"Liming Light by negi",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Locus of Control by EastNewSound feat. 3L from NJK Record",
 		"progression": true,
 		"category": [
@@ -16176,6 +23304,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Survival Games (Hommarju Remix) by Hommarju) (Pass)",
+		"category": [
+			"Goals",
+			"Survival Games (Hommarju Remix) by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Survival Games (Hommarju Remix) by Hommarju) (AA Rank)",
+		"category": [
+			"Goals",
+			"Survival Games (Hommarju Remix) by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Survival Games (Hommarju Remix) by Hommarju) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Survival Games (Hommarju Remix) by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Survival Games (Hommarju Remix) by Hommarju) (S Rank)",
+		"category": [
+			"Goals",
+			"Survival Games (Hommarju Remix) by Hommarju",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Sweet little Lily by 奏瀬いちこ (Silver Forest)",
 		"progression": true,
 		"category": [
@@ -16273,6 +23437,42 @@
 			"bloom by Gowrock",
 			"Song Number 1964"
 		]
+	},
+	{
+		"name": "CHAIN (concon (picom'n'bass rmx) by kamome sano) (Pass)",
+		"category": [
+			"Goals",
+			"concon (picom'n'bass rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (concon (picom'n'bass rmx) by kamome sano) (AA Rank)",
+		"category": [
+			"Goals",
+			"concon (picom'n'bass rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (concon (picom'n'bass rmx) by kamome sano) (AAA Rank)",
+		"category": [
+			"Goals",
+			"concon (picom'n'bass rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (concon (picom'n'bass rmx) by kamome sano) (S Rank)",
+		"category": [
+			"Goals",
+			"concon (picom'n'bass rmx) by kamome sano",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "crescent moon by FELT",
@@ -16491,6 +23691,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (ナナイロ by otetsu) (Pass)",
+		"category": [
+			"Goals",
+			"ナナイロ by otetsu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ナナイロ by otetsu) (AA Rank)",
+		"category": [
+			"Goals",
+			"ナナイロ by otetsu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ナナイロ by otetsu) (AAA Rank)",
+		"category": [
+			"Goals",
+			"ナナイロ by otetsu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (ナナイロ by otetsu) (S Rank)",
+		"category": [
+			"Goals",
+			"ナナイロ by otetsu",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "ハッピーシンセサイザ by EasyPop",
 		"progression": true,
 		"category": [
@@ -16588,6 +23824,42 @@
 			"取り残された美術(Arranged:HiZuMi) by 幽閉サテライト feat. senya",
 			"Song Number 2001"
 		]
+	},
+	{
+		"name": "CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (Pass)",
+		"category": [
+			"Goals",
+			"君がいる場所へ by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (AA Rank)",
+		"category": [
+			"Goals",
+			"君がいる場所へ by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (AAA Rank)",
+		"category": [
+			"Goals",
+			"君がいる場所へ by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (S Rank)",
+		"category": [
+			"Goals",
+			"君がいる場所へ by VALLEYSTONE feat. 紫崎 雪",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "君と僕とその空白と by のぼる↑ feat.GUMI",
@@ -16977,6 +24249,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (Pass)",
+		"category": [
+			"Goals",
+			"Find the Answer by みゅー feat. ゆいこんぬ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (AA Rank)",
+		"category": [
+			"Goals",
+			"Find the Answer by みゅー feat. ゆいこんぬ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Find the Answer by みゅー feat. ゆいこんぬ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (S Rank)",
+		"category": [
+			"Goals",
+			"Find the Answer by みゅー feat. ゆいこんぬ",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "Fly to Next World (syzfonics Remix) by syzfonics",
 		"progression": true,
 		"category": [
@@ -17065,6 +24373,42 @@
 			"Shiny Up! by C-CLAYS",
 			"Song Number 2056"
 		]
+	},
+	{
+		"name": "CHAIN (Smile by Hommarju feat. 実谷なな) (Pass)",
+		"category": [
+			"Goals",
+			"Smile by Hommarju feat. 実谷なな",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Smile by Hommarju feat. 実谷なな) (AA Rank)",
+		"category": [
+			"Goals",
+			"Smile by Hommarju feat. 実谷なな",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Smile by Hommarju feat. 実谷なな) (AAA Rank)",
+		"category": [
+			"Goals",
+			"Smile by Hommarju feat. 実谷なな",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (Smile by Hommarju feat. 実谷なな) (S Rank)",
+		"category": [
+			"Goals",
+			"Smile by Hommarju feat. 実谷なな",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Starlight Vision by 矢鴇つかさ feat. 三澤秋 (SoundOnline)",
@@ -17355,6 +24699,42 @@
 		]
 	},
 	{
+		"name": "CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (Pass)",
+		"category": [
+			"Goals",
+			"隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (AA Rank)",
+		"category": [
+			"Goals",
+			"隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (AAA Rank)",
+		"category": [
+			"Goals",
+			"隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (S Rank)",
+		"category": [
+			"Goals",
+			"隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
 		"name": "非公開日誌 by みきとP feat.GUMI",
 		"progression": true,
 		"category": [
@@ -17587,6 +24967,78 @@
 			"エクシード仮面ちゃんのちょっと一線をえくしーどしたEXCEED講座 by ∞∞(▼∀▼)∞∞",
 			"Song Number 2116"
 		]
+	},
+	{
+		"name": "CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (Pass)",
+		"category": [
+			"Goals",
+			"グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (AA Rank)",
+		"category": [
+			"Goals",
+			"グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (AAA Rank)",
+		"category": [
+			"Goals",
+			"グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (S Rank)",
+		"category": [
+			"Goals",
+			"グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (Pass)",
+		"category": [
+			"Goals",
+			"マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (AA Rank)",
+		"category": [
+			"Goals",
+			"マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (AAA Rank)",
+		"category": [
+			"Goals",
+			"マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
+			"CHAIN"
+		],
+		"progression": true
+	},
+	{
+		"name": "CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (S Rank)",
+		"category": [
+			"Goals",
+			"マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
+			"CHAIN"
+		],
+		"progression": true
 	},
 	{
 		"name": "Swap Lazer Colors",

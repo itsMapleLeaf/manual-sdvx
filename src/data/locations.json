@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? by かめりあ",
-		"requires": "|CHAIN:80%| and |@Song Number 0|",
+		"requires": "|@CHAIN:80%| and |@Song Number 0|",
 		"category": [
 			"Goals",
 			"* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? by かめりあ",
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "*Feels Seasickness...* by かめりあ",
-		"requires": "|CHAIN:80%| and |@Song Number 1|",
+		"requires": "|@CHAIN:80%| and |@Song Number 1|",
 		"category": [
 			"Goals",
 			"*Feels Seasickness...* by かめりあ",
@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "666 by RoughSketch",
-		"requires": "|CHAIN:80%| and |@Song Number 2|",
+		"requires": "|@CHAIN:80%| and |@Song Number 2|",
 		"category": [
 			"Goals",
 			"666 by RoughSketch",
@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "APØCALYPSE RAY by xi",
-		"requires": "|CHAIN:80%| and |@Song Number 3|",
+		"requires": "|@CHAIN:80%| and |@Song Number 3|",
 		"category": [
 			"Goals",
 			"APØCALYPSE RAY by xi",
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Bl∞min' by MisoilePunch♪ -Forever-",
-		"requires": "|CHAIN:80%| and |@Song Number 4|",
+		"requires": "|@CHAIN:80%| and |@Song Number 4|",
 		"category": [
 			"Goals",
 			"Bl∞min' by MisoilePunch♪ -Forever-",
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "Don't you dare play GOD by technoplanet feat. Tamako Kinoshita",
-		"requires": "|CHAIN:80%| and |@Song Number 5|",
+		"requires": "|@CHAIN:80%| and |@Song Number 5|",
 		"category": [
 			"Goals",
 			"Don't you dare play GOD by technoplanet feat. Tamako Kinoshita",
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "FIN4LE ～終止線の彼方へ～ by カモメサノエレクトリックオーケストラ",
-		"requires": "|CHAIN:80%| and |@Song Number 6|",
+		"requires": "|@CHAIN:80%| and |@Song Number 6|",
 		"category": [
 			"Goals",
 			"FIN4LE ～終止線の彼方へ～ by カモメサノエレクトリックオーケストラ",
@@ -93,7 +93,7 @@
 	},
 	{
 		"name": "HE4VEN ～天国へようこそ～ by カモメサノエレクトリックオーケストラ",
-		"requires": "|CHAIN:80%| and |@Song Number 7|",
+		"requires": "|@CHAIN:80%| and |@Song Number 7|",
 		"category": [
 			"Goals",
 			"HE4VEN ～天国へようこそ～ by カモメサノエレクトリックオーケストラ",
@@ -105,7 +105,7 @@
 	},
 	{
 		"name": "HeaveИ's Rain by モリモリあつし",
-		"requires": "|CHAIN:80%| and |@Song Number 8|",
+		"requires": "|@CHAIN:80%| and |@Song Number 8|",
 		"category": [
 			"Goals",
 			"HeaveИ's Rain by モリモリあつし",
@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "I by 黒魔",
-		"requires": "|CHAIN:80%| and |@Song Number 9|",
+		"requires": "|@CHAIN:80%| and |@Song Number 9|",
 		"category": [
 			"Goals",
 			"I by 黒魔",
@@ -129,7 +129,7 @@
 	},
 	{
 		"name": "Lachryma《Re:Queen’M》 by かねこちはる",
-		"requires": "|CHAIN:80%| and |@Song Number 10|",
+		"requires": "|@CHAIN:80%| and |@Song Number 10|",
 		"category": [
 			"Goals",
 			"Lachryma《Re:Queen’M》 by かねこちはる",
@@ -141,7 +141,7 @@
 	},
 	{
 		"name": "MAYHEM by RoughSketch x CANVAS feat. Quimär",
-		"requires": "|CHAIN:80%| and |@Song Number 11|",
+		"requires": "|@CHAIN:80%| and |@Song Number 11|",
 		"category": [
 			"Goals",
 			"MAYHEM by RoughSketch x CANVAS feat. Quimär",
@@ -153,7 +153,7 @@
 	},
 	{
 		"name": "MixxioN by MisoilePunch♪",
-		"requires": "|CHAIN:80%| and |@Song Number 12|",
+		"requires": "|@CHAIN:80%| and |@Song Number 12|",
 		"category": [
 			"Goals",
 			"MixxioN by MisoilePunch♪",
@@ -165,7 +165,7 @@
 	},
 	{
 		"name": "NEMSYS ARENA World Hexathlon by 隣の庭は青い(庭師+Aoi)",
-		"requires": "|CHAIN:80%| and |@Song Number 13|",
+		"requires": "|@CHAIN:80%| and |@Song Number 13|",
 		"category": [
 			"Goals",
 			"NEMSYS ARENA World Hexathlon by 隣の庭は青い(庭師+Aoi)",
@@ -177,7 +177,7 @@
 	},
 	{
 		"name": "Sayonara Planet Wars by 黒魔",
-		"requires": "|CHAIN:80%| and |@Song Number 14|",
+		"requires": "|@CHAIN:80%| and |@Song Number 14|",
 		"category": [
 			"Goals",
 			"Sayonara Planet Wars by 黒魔",
@@ -189,7 +189,7 @@
 	},
 	{
 		"name": "SuddeИDeath by xi vs. モリモリあつし",
-		"requires": "|CHAIN:80%| and |@Song Number 15|",
+		"requires": "|@CHAIN:80%| and |@Song Number 15|",
 		"category": [
 			"Goals",
 			"SuddeИDeath by xi vs. モリモリあつし",
@@ -201,7 +201,7 @@
 	},
 	{
 		"name": "VVelcome!! by MisoilePunch♪",
-		"requires": "|CHAIN:80%| and |@Song Number 16|",
+		"requires": "|@CHAIN:80%| and |@Song Number 16|",
 		"category": [
 			"Goals",
 			"VVelcome!! by MisoilePunch♪",
@@ -213,7 +213,7 @@
 	},
 	{
 		"name": "WHITEOUT by かねこちはる",
-		"requires": "|CHAIN:80%| and |@Song Number 17|",
+		"requires": "|@CHAIN:80%| and |@Song Number 17|",
 		"category": [
 			"Goals",
 			"WHITEOUT by かねこちはる",
@@ -225,7 +225,7 @@
 	},
 	{
 		"name": "XHRONOXAPSULΞ by Silentroom",
-		"requires": "|CHAIN:80%| and |@Song Number 18|",
+		"requires": "|@CHAIN:80%| and |@Song Number 18|",
 		"category": [
 			"Goals",
 			"XHRONOXAPSULΞ by Silentroom",
@@ -237,7 +237,7 @@
 	},
 	{
 		"name": "Xronièr by かめりあ as \"fluX Xroisé\"",
-		"requires": "|CHAIN:80%| and |@Song Number 19|",
+		"requires": "|@CHAIN:80%| and |@Song Number 19|",
 		"category": [
 			"Goals",
 			"Xronièr by かめりあ as \"fluX Xroisé\"",
@@ -249,7 +249,7 @@
 	},
 	{
 		"name": "You Are My Best RivaL!! by cosMo＠暴走P",
-		"requires": "|CHAIN:80%| and |@Song Number 20|",
+		"requires": "|@CHAIN:80%| and |@Song Number 20|",
 		"category": [
 			"Goals",
 			"You Are My Best RivaL!! by cosMo＠暴走P",
@@ -261,7 +261,7 @@
 	},
 	{
 		"name": "iLLness LiLin by かねこちはる",
-		"requires": "|CHAIN:80%| and |@Song Number 21|",
+		"requires": "|@CHAIN:80%| and |@Song Number 21|",
 		"category": [
 			"Goals",
 			"iLLness LiLin by かねこちはる",
@@ -273,7 +273,7 @@
 	},
 	{
 		"name": "{ eXLIPXe } by { かめりあ }",
-		"requires": "|CHAIN:80%| and |@Song Number 22|",
+		"requires": "|@CHAIN:80%| and |@Song Number 22|",
 		"category": [
 			"Goals",
 			"{ eXLIPXe } by { かめりあ }",
@@ -285,7 +285,7 @@
 	},
 	{
 		"name": "Λkasha by BlackY feat. Risa Yuzuki",
-		"requires": "|CHAIN:80%| and |@Song Number 23|",
+		"requires": "|@CHAIN:80%| and |@Song Number 23|",
 		"category": [
 			"Goals",
 			"Λkasha by BlackY feat. Risa Yuzuki",
@@ -297,7 +297,7 @@
 	},
 	{
 		"name": "ΣgØ by かぼちゃ",
-		"requires": "|CHAIN:80%| and |@Song Number 24|",
+		"requires": "|@CHAIN:80%| and |@Song Number 24|",
 		"category": [
 			"Goals",
 			"ΣgØ by かぼちゃ",
@@ -309,7 +309,7 @@
 	},
 	{
 		"name": "ΣmbryØ by かぼちゃ",
-		"requires": "|CHAIN:80%| and |@Song Number 25|",
+		"requires": "|@CHAIN:80%| and |@Song Number 25|",
 		"category": [
 			"Goals",
 			"ΣmbryØ by かぼちゃ",
@@ -321,7 +321,7 @@
 	},
 	{
 		"name": "《Re:miniscence》 by かねこちはる",
-		"requires": "|CHAIN:80%| and |@Song Number 26|",
+		"requires": "|@CHAIN:80%| and |@Song Number 26|",
 		"category": [
 			"Goals",
 			"《Re:miniscence》 by かねこちはる",
@@ -333,7 +333,7 @@
 	},
 	{
 		"name": "いまきみに by Silentroom as \"少年R\"",
-		"requires": "|CHAIN:80%| and |@Song Number 27|",
+		"requires": "|@CHAIN:80%| and |@Song Number 27|",
 		"category": [
 			"Goals",
 			"いまきみに by Silentroom as \"少年R\"",
@@ -392,6 +392,9 @@
 			"(Song) 2 MINUTES FIGHTERS by P*Light",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (2 MINUTES FIGHTERS by P*Light) (Pass)"
 		]
 	},
 	{
@@ -403,6 +406,9 @@
 			"(Song) 2 MINUTES FIGHTERS by P*Light",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (2 MINUTES FIGHTERS by P*Light) (AA Rank)"
 		]
 	},
 	{
@@ -414,6 +420,9 @@
 			"(Song) 2 MINUTES FIGHTERS by P*Light",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (2 MINUTES FIGHTERS by P*Light) (AAA Rank)"
 		]
 	},
 	{
@@ -425,6 +434,9 @@
 			"(Song) 2 MINUTES FIGHTERS by P*Light",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (2 MINUTES FIGHTERS by P*Light) (S Rank)"
 		]
 	},
 	{
@@ -516,6 +528,9 @@
 			"(Song) A Lasting Promise by Laur",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (A Lasting Promise by Laur) (Pass)"
 		]
 	},
 	{
@@ -527,6 +542,9 @@
 			"(Song) A Lasting Promise by Laur",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (A Lasting Promise by Laur) (AA Rank)"
 		]
 	},
 	{
@@ -538,6 +556,9 @@
 			"(Song) A Lasting Promise by Laur",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (A Lasting Promise by Laur) (AAA Rank)"
 		]
 	},
 	{
@@ -549,6 +570,9 @@
 			"(Song) A Lasting Promise by Laur",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (A Lasting Promise by Laur) (S Rank)"
 		]
 	},
 	{
@@ -640,6 +664,9 @@
 			"(Song) Absolute Domination by Laur",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Absolute Domination by Laur) (Pass)"
 		]
 	},
 	{
@@ -651,6 +678,9 @@
 			"(Song) Absolute Domination by Laur",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Absolute Domination by Laur) (AA Rank)"
 		]
 	},
 	{
@@ -662,6 +692,9 @@
 			"(Song) Absolute Domination by Laur",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Absolute Domination by Laur) (AAA Rank)"
 		]
 	},
 	{
@@ -673,6 +706,9 @@
 			"(Song) Absolute Domination by Laur",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Absolute Domination by Laur) (S Rank)"
 		]
 	},
 	{
@@ -1204,6 +1240,9 @@
 			"(Song) Bangin' Burst by かめりあ",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Bangin' Burst by かめりあ) (Pass)"
 		]
 	},
 	{
@@ -1215,6 +1254,9 @@
 			"(Song) Bangin' Burst by かめりあ",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Bangin' Burst by かめりあ) (AA Rank)"
 		]
 	},
 	{
@@ -1226,6 +1268,9 @@
 			"(Song) Bangin' Burst by かめりあ",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Bangin' Burst by かめりあ) (AAA Rank)"
 		]
 	},
 	{
@@ -1237,6 +1282,9 @@
 			"(Song) Bangin' Burst by かめりあ",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Bangin' Burst by かめりあ) (S Rank)"
 		]
 	},
 	{
@@ -1688,6 +1736,9 @@
 			"(Song) Cross Fire by Hommarju vs RoughSketch",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Cross Fire by Hommarju vs RoughSketch) (Pass)"
 		]
 	},
 	{
@@ -1699,6 +1750,9 @@
 			"(Song) Cross Fire by Hommarju vs RoughSketch",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Cross Fire by Hommarju vs RoughSketch) (AA Rank)"
 		]
 	},
 	{
@@ -1710,6 +1764,9 @@
 			"(Song) Cross Fire by Hommarju vs RoughSketch",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Cross Fire by Hommarju vs RoughSketch) (AAA Rank)"
 		]
 	},
 	{
@@ -1721,6 +1778,9 @@
 			"(Song) Cross Fire by Hommarju vs RoughSketch",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Cross Fire by Hommarju vs RoughSketch) (S Rank)"
 		]
 	},
 	{
@@ -1812,6 +1872,9 @@
 			"(Song) DIABLOSIS::Nāga by sky_delta",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (DIABLOSIS::Nāga by sky_delta) (Pass)"
 		]
 	},
 	{
@@ -1823,6 +1886,9 @@
 			"(Song) DIABLOSIS::Nāga by sky_delta",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (DIABLOSIS::Nāga by sky_delta) (AA Rank)"
 		]
 	},
 	{
@@ -1834,6 +1900,9 @@
 			"(Song) DIABLOSIS::Nāga by sky_delta",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (DIABLOSIS::Nāga by sky_delta) (AAA Rank)"
 		]
 	},
 	{
@@ -1845,6 +1914,9 @@
 			"(Song) DIABLOSIS::Nāga by sky_delta",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (DIABLOSIS::Nāga by sky_delta) (S Rank)"
 		]
 	},
 	{
@@ -1976,6 +2048,9 @@
 			"(Song) EMPIRE OF FLAME by かめりあ",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (EMPIRE OF FLAME by かめりあ) (Pass)"
 		]
 	},
 	{
@@ -1987,6 +2062,9 @@
 			"(Song) EMPIRE OF FLAME by かめりあ",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (EMPIRE OF FLAME by かめりあ) (AA Rank)"
 		]
 	},
 	{
@@ -1998,6 +2076,9 @@
 			"(Song) EMPIRE OF FLAME by かめりあ",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (EMPIRE OF FLAME by かめりあ) (AAA Rank)"
 		]
 	},
 	{
@@ -2009,6 +2090,9 @@
 			"(Song) EMPIRE OF FLAME by かめりあ",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (EMPIRE OF FLAME by かめりあ) (S Rank)"
 		]
 	},
 	{
@@ -2220,6 +2304,9 @@
 			"(Song) Everlasting Message by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Everlasting Message by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -2231,6 +2318,9 @@
 			"(Song) Everlasting Message by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Everlasting Message by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -2242,6 +2332,9 @@
 			"(Song) Everlasting Message by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Everlasting Message by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -2253,6 +2346,9 @@
 			"(Song) Everlasting Message by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Everlasting Message by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -2305,6 +2401,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (Pass)"
 		]
 	},
 	{
@@ -2317,6 +2416,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (AA Rank)"
 		]
 	},
 	{
@@ -2329,6 +2431,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (AAA Rank)"
 		]
 	},
 	{
@@ -2341,6 +2446,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (FLügeL《Λrp:ΣggyØ》 by かねこちはる) (S Rank)"
 		]
 	},
 	{
@@ -2433,6 +2541,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fiat Lux by xi) (Pass)"
 		]
 	},
 	{
@@ -2445,6 +2556,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fiat Lux by xi) (AA Rank)"
 		]
 	},
 	{
@@ -2457,6 +2571,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fiat Lux by xi) (AAA Rank)"
 		]
 	},
 	{
@@ -2469,6 +2586,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fiat Lux by xi) (S Rank)"
 		]
 	},
 	{
@@ -2481,6 +2601,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (Pass)"
 		]
 	},
 	{
@@ -2493,6 +2616,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (AA Rank)"
 		]
 	},
 	{
@@ -2505,6 +2631,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (AAA Rank)"
 		]
 	},
 	{
@@ -2517,6 +2646,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Fin.ArcDeaR by MisoilePunch♪ ～タケノコ添え～) (S Rank)"
 		]
 	},
 	{
@@ -2528,6 +2660,9 @@
 			"(Song) Fly Like You by technoplanet",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Fly Like You by technoplanet) (Pass)"
 		]
 	},
 	{
@@ -2539,6 +2674,9 @@
 			"(Song) Fly Like You by technoplanet",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Fly Like You by technoplanet) (AA Rank)"
 		]
 	},
 	{
@@ -2550,6 +2688,9 @@
 			"(Song) Fly Like You by technoplanet",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Fly Like You by technoplanet) (AAA Rank)"
 		]
 	},
 	{
@@ -2561,6 +2702,9 @@
 			"(Song) Fly Like You by technoplanet",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Fly Like You by technoplanet) (S Rank)"
 		]
 	},
 	{
@@ -2692,6 +2836,9 @@
 			"(Song) GODHEART by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (GODHEART by BlackY) (Pass)"
 		]
 	},
 	{
@@ -2703,6 +2850,9 @@
 			"(Song) GODHEART by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (GODHEART by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -2714,6 +2864,9 @@
 			"(Song) GODHEART by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (GODHEART by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -2725,6 +2878,9 @@
 			"(Song) GODHEART by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (GODHEART by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -2896,6 +3052,9 @@
 			"(Song) Growth Memories by Hidra-Xjeil",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Growth Memories by Hidra-Xjeil) (Pass)"
 		]
 	},
 	{
@@ -2907,6 +3066,9 @@
 			"(Song) Growth Memories by Hidra-Xjeil",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Growth Memories by Hidra-Xjeil) (AA Rank)"
 		]
 	},
 	{
@@ -2918,6 +3080,9 @@
 			"(Song) Growth Memories by Hidra-Xjeil",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Growth Memories by Hidra-Xjeil) (AAA Rank)"
 		]
 	},
 	{
@@ -2929,6 +3094,9 @@
 			"(Song) Growth Memories by Hidra-Xjeil",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Growth Memories by Hidra-Xjeil) (S Rank)"
 		]
 	},
 	{
@@ -3100,6 +3268,9 @@
 			"(Song) INF-B《L-aste-R》 by かねこちはる",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (INF-B《L-aste-R》 by かねこちはる) (Pass)"
 		]
 	},
 	{
@@ -3111,6 +3282,9 @@
 			"(Song) INF-B《L-aste-R》 by かねこちはる",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (INF-B《L-aste-R》 by かねこちはる) (AA Rank)"
 		]
 	},
 	{
@@ -3122,6 +3296,9 @@
 			"(Song) INF-B《L-aste-R》 by かねこちはる",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (INF-B《L-aste-R》 by かねこちはる) (AAA Rank)"
 		]
 	},
 	{
@@ -3133,6 +3310,9 @@
 			"(Song) INF-B《L-aste-R》 by かねこちはる",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (INF-B《L-aste-R》 by かねこちはる) (S Rank)"
 		]
 	},
 	{
@@ -3224,6 +3404,9 @@
 			"(Song) Immortal saga by Noah",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Immortal saga by Noah) (Pass)"
 		]
 	},
 	{
@@ -3235,6 +3418,9 @@
 			"(Song) Immortal saga by Noah",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Immortal saga by Noah) (AA Rank)"
 		]
 	},
 	{
@@ -3246,6 +3432,9 @@
 			"(Song) Immortal saga by Noah",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Immortal saga by Noah) (AAA Rank)"
 		]
 	},
 	{
@@ -3257,6 +3446,9 @@
 			"(Song) Immortal saga by Noah",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Immortal saga by Noah) (S Rank)"
 		]
 	},
 	{
@@ -3508,6 +3700,9 @@
 			"(Song) Last Resort by xi",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Last Resort by xi) (Pass)"
 		]
 	},
 	{
@@ -3519,6 +3714,9 @@
 			"(Song) Last Resort by xi",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Last Resort by xi) (AA Rank)"
 		]
 	},
 	{
@@ -3530,6 +3728,9 @@
 			"(Song) Last Resort by xi",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Last Resort by xi) (AAA Rank)"
 		]
 	},
 	{
@@ -3541,6 +3742,9 @@
 			"(Song) Last Resort by xi",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Last Resort by xi) (S Rank)"
 		]
 	},
 	{
@@ -3592,6 +3796,9 @@
 			"(Song) LegenD. by Yooh",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (LegenD. by Yooh) (Pass)"
 		]
 	},
 	{
@@ -3603,6 +3810,9 @@
 			"(Song) LegenD. by Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (LegenD. by Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -3614,6 +3824,9 @@
 			"(Song) LegenD. by Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (LegenD. by Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -3625,6 +3838,9 @@
 			"(Song) LegenD. by Yooh",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (LegenD. by Yooh) (S Rank)"
 		]
 	},
 	{
@@ -3716,6 +3932,9 @@
 			"(Song) Lord=Crossight by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Lord=Crossight by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -3727,6 +3946,9 @@
 			"(Song) Lord=Crossight by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Lord=Crossight by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -3738,6 +3960,9 @@
 			"(Song) Lord=Crossight by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Lord=Crossight by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -3749,6 +3974,9 @@
 			"(Song) Lord=Crossight by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Lord=Crossight by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -4480,6 +4708,9 @@
 			"(Song) Staring at star by MisoilePunch♪ ～タケノコ添え～",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (Pass)"
 		]
 	},
 	{
@@ -4491,6 +4722,9 @@
 			"(Song) Staring at star by MisoilePunch♪ ～タケノコ添え～",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (AA Rank)"
 		]
 	},
 	{
@@ -4502,6 +4736,9 @@
 			"(Song) Staring at star by MisoilePunch♪ ～タケノコ添え～",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (AAA Rank)"
 		]
 	},
 	{
@@ -4513,6 +4750,9 @@
 			"(Song) Staring at star by MisoilePunch♪ ～タケノコ添え～",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Staring at star by MisoilePunch♪ ～タケノコ添え～) (S Rank)"
 		]
 	},
 	{
@@ -4644,6 +4884,9 @@
 			"(Song) TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (Pass)"
 		]
 	},
 	{
@@ -4655,6 +4898,9 @@
 			"(Song) TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (AA Rank)"
 		]
 	},
 	{
@@ -4666,6 +4912,9 @@
 			"(Song) TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (AAA Rank)"
 		]
 	},
 	{
@@ -4677,6 +4926,9 @@
 			"(Song) TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\"",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (TWO-TORIAL by BEMANI Sound Team \"PHQUASE vs DJ TOTTO\") (S Rank)"
 		]
 	},
 	{
@@ -4888,6 +5140,9 @@
 			"(Song) VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (Pass)"
 		]
 	},
 	{
@@ -4899,6 +5154,9 @@
 			"(Song) VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (AA Rank)"
 		]
 	},
 	{
@@ -4910,6 +5168,9 @@
 			"(Song) VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (AAA Rank)"
 		]
 	},
 	{
@@ -4921,6 +5182,9 @@
 			"(Song) VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\"",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VALKYRIE ASSAULT by BEMANI Sound Team \"SYUNN\") (S Rank)"
 		]
 	},
 	{
@@ -5092,6 +5356,9 @@
 			"(Song) World's end by Noah",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (World's end by Noah) (Pass)"
 		]
 	},
 	{
@@ -5103,6 +5370,9 @@
 			"(Song) World's end by Noah",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (World's end by Noah) (AA Rank)"
 		]
 	},
 	{
@@ -5114,6 +5384,9 @@
 			"(Song) World's end by Noah",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (World's end by Noah) (AAA Rank)"
 		]
 	},
 	{
@@ -5125,6 +5398,9 @@
 			"(Song) World's end by Noah",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (World's end by Noah) (S Rank)"
 		]
 	},
 	{
@@ -5136,6 +5412,9 @@
 			"(Song) XROSS INFECTION by BlackY vs. Yooh",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (XROSS INFECTION by BlackY vs. Yooh) (Pass)"
 		]
 	},
 	{
@@ -5147,6 +5426,9 @@
 			"(Song) XROSS INFECTION by BlackY vs. Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (XROSS INFECTION by BlackY vs. Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -5158,6 +5440,9 @@
 			"(Song) XROSS INFECTION by BlackY vs. Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (XROSS INFECTION by BlackY vs. Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -5169,6 +5454,9 @@
 			"(Song) XROSS INFECTION by BlackY vs. Yooh",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (XROSS INFECTION by BlackY vs. Yooh) (S Rank)"
 		]
 	},
 	{
@@ -5380,6 +5668,9 @@
 			"(Song) Xéroa by かめりあ",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Xéroa by かめりあ) (Pass)"
 		]
 	},
 	{
@@ -5391,6 +5682,9 @@
 			"(Song) Xéroa by かめりあ",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Xéroa by かめりあ) (AA Rank)"
 		]
 	},
 	{
@@ -5402,6 +5696,9 @@
 			"(Song) Xéroa by かめりあ",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Xéroa by かめりあ) (AAA Rank)"
 		]
 	},
 	{
@@ -5413,6 +5710,9 @@
 			"(Song) Xéroa by かめりあ",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Xéroa by かめりあ) (S Rank)"
 		]
 	},
 	{
@@ -5704,6 +6004,9 @@
 			"(Song) veRtrageS by Riz vs. Shiron",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (veRtrageS by Riz vs. Shiron) (Pass)"
 		]
 	},
 	{
@@ -5715,6 +6018,9 @@
 			"(Song) veRtrageS by Riz vs. Shiron",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (veRtrageS by Riz vs. Shiron) (AA Rank)"
 		]
 	},
 	{
@@ -5726,6 +6032,9 @@
 			"(Song) veRtrageS by Riz vs. Shiron",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (veRtrageS by Riz vs. Shiron) (AAA Rank)"
 		]
 	},
 	{
@@ -5737,6 +6046,9 @@
 			"(Song) veRtrageS by Riz vs. Shiron",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (veRtrageS by Riz vs. Shiron) (S Rank)"
 		]
 	},
 	{
@@ -6188,6 +6500,9 @@
 			"(Song) セイレーン ～悲壮の竪琴～ by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -6199,6 +6514,9 @@
 			"(Song) セイレーン ～悲壮の竪琴～ by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -6210,6 +6528,9 @@
 			"(Song) セイレーン ～悲壮の竪琴～ by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -6221,6 +6542,9 @@
 			"(Song) セイレーン ～悲壮の竪琴～ by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (セイレーン ～悲壮の竪琴～ by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -6592,6 +6916,9 @@
 			"(Song) 大宇宙ステージ by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (大宇宙ステージ by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -6603,6 +6930,9 @@
 			"(Song) 大宇宙ステージ by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (大宇宙ステージ by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -6614,6 +6944,9 @@
 			"(Song) 大宇宙ステージ by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (大宇宙ステージ by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -6625,6 +6958,9 @@
 			"(Song) 大宇宙ステージ by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (大宇宙ステージ by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -6716,6 +7052,9 @@
 			"(Song) 月光乱舞 by P*Light",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (月光乱舞 by P*Light) (Pass)"
 		]
 	},
 	{
@@ -6727,6 +7066,9 @@
 			"(Song) 月光乱舞 by P*Light",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (月光乱舞 by P*Light) (AA Rank)"
 		]
 	},
 	{
@@ -6738,6 +7080,9 @@
 			"(Song) 月光乱舞 by P*Light",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (月光乱舞 by P*Light) (AAA Rank)"
 		]
 	},
 	{
@@ -6749,6 +7094,9 @@
 			"(Song) 月光乱舞 by P*Light",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (月光乱舞 by P*Light) (S Rank)"
 		]
 	},
 	{
@@ -6760,6 +7108,9 @@
 			"(Song) 極圏 by cosMo VS dj TAKA",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (極圏 by cosMo VS dj TAKA) (Pass)"
 		]
 	},
 	{
@@ -6771,6 +7122,9 @@
 			"(Song) 極圏 by cosMo VS dj TAKA",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (極圏 by cosMo VS dj TAKA) (AA Rank)"
 		]
 	},
 	{
@@ -6782,6 +7136,9 @@
 			"(Song) 極圏 by cosMo VS dj TAKA",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (極圏 by cosMo VS dj TAKA) (AAA Rank)"
 		]
 	},
 	{
@@ -6793,6 +7150,9 @@
 			"(Song) 極圏 by cosMo VS dj TAKA",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (極圏 by cosMo VS dj TAKA) (S Rank)"
 		]
 	},
 	{
@@ -6804,6 +7164,9 @@
 			"(Song) 混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -6815,6 +7178,9 @@
 			"(Song) 混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -6826,6 +7192,9 @@
 			"(Song) 混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -6837,6 +7206,9 @@
 			"(Song) 混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (混乱少女♥そふらんちゃん!! by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -7128,6 +7500,9 @@
 			"(Song) 逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (Pass)"
 		]
 	},
 	{
@@ -7139,6 +7514,9 @@
 			"(Song) 逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (AA Rank)"
 		]
 	},
 	{
@@ -7150,6 +7528,9 @@
 			"(Song) 逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (AAA Rank)"
 		]
 	},
 	{
@@ -7161,6 +7542,9 @@
 			"(Song) 逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (逆月 by BEMANI Sound Team \"HuΣeR\" feat.Fernweh) (S Rank)"
 		]
 	},
 	{
@@ -7293,6 +7677,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (Pass)"
 		]
 	},
 	{
@@ -7305,6 +7692,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (AA Rank)"
 		]
 	},
 	{
@@ -7317,6 +7707,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (AAA Rank)"
 		]
 	},
 	{
@@ -7329,6 +7722,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (#Endroll by uno & D.watt (IOSYS TRAX)) (S Rank)"
 		]
 	},
 	{
@@ -7420,6 +7816,9 @@
 			"(Song) #SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (Pass)"
 		]
 	},
 	{
@@ -7431,6 +7830,9 @@
 			"(Song) #SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (AA Rank)"
 		]
 	},
 	{
@@ -7442,6 +7844,9 @@
 			"(Song) #SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (AAA Rank)"
 		]
 	},
 	{
@@ -7453,6 +7858,9 @@
 			"(Song) #SpeedyCats by RoughSketch a.k.a. uno(IOSYS)",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (#SpeedyCats by RoughSketch a.k.a. uno(IOSYS)) (S Rank)"
 		]
 	},
 	{
@@ -7664,6 +8072,9 @@
 			"(Song) Absurd Gaff by siromaru",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Absurd Gaff by siromaru) (Pass)"
 		]
 	},
 	{
@@ -7675,6 +8086,9 @@
 			"(Song) Absurd Gaff by siromaru",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Absurd Gaff by siromaru) (AA Rank)"
 		]
 	},
 	{
@@ -7686,6 +8100,9 @@
 			"(Song) Absurd Gaff by siromaru",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Absurd Gaff by siromaru) (AAA Rank)"
 		]
 	},
 	{
@@ -7697,6 +8114,9 @@
 			"(Song) Absurd Gaff by siromaru",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Absurd Gaff by siromaru) (S Rank)"
 		]
 	},
 	{
@@ -7908,6 +8328,9 @@
 			"(Song) All for One by CANVAS feat. Quimär",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (All for One by CANVAS feat. Quimär) (Pass)"
 		]
 	},
 	{
@@ -7919,6 +8342,9 @@
 			"(Song) All for One by CANVAS feat. Quimär",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (All for One by CANVAS feat. Quimär) (AA Rank)"
 		]
 	},
 	{
@@ -7930,6 +8356,9 @@
 			"(Song) All for One by CANVAS feat. Quimär",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (All for One by CANVAS feat. Quimär) (AAA Rank)"
 		]
 	},
 	{
@@ -7941,6 +8370,9 @@
 			"(Song) All for One by CANVAS feat. Quimär",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (All for One by CANVAS feat. Quimär) (S Rank)"
 		]
 	},
 	{
@@ -8279,6 +8711,9 @@
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) Voltenizer Maxima",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Aurolla by MisoilePunch♪) (Pass)"
 		]
 	},
 	{
@@ -8297,6 +8732,9 @@
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) Voltenizer Maxima",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Aurolla by MisoilePunch♪) (AA Rank)"
 		]
 	},
 	{
@@ -8315,6 +8753,9 @@
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) Voltenizer Maxima",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Aurolla by MisoilePunch♪) (AAA Rank)"
 		]
 	},
 	{
@@ -8333,6 +8774,9 @@
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) Voltenizer Maxima",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Aurolla by MisoilePunch♪) (S Rank)"
 		]
 	},
 	{
@@ -9504,6 +9948,9 @@
 			"(Song) CODE -CRiMSON- by Shiron",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (CODE -CRiMSON- by Shiron) (Pass)"
 		]
 	},
 	{
@@ -9515,6 +9962,9 @@
 			"(Song) CODE -CRiMSON- by Shiron",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (CODE -CRiMSON- by Shiron) (AA Rank)"
 		]
 	},
 	{
@@ -9526,6 +9976,9 @@
 			"(Song) CODE -CRiMSON- by Shiron",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (CODE -CRiMSON- by Shiron) (AAA Rank)"
 		]
 	},
 	{
@@ -9537,6 +9990,9 @@
 			"(Song) CODE -CRiMSON- by Shiron",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (CODE -CRiMSON- by Shiron) (S Rank)"
 		]
 	},
 	{
@@ -9788,6 +10244,9 @@
 			"(Song) Celestial stinger by Noah",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Celestial stinger by Noah) (Pass)"
 		]
 	},
 	{
@@ -9799,6 +10258,9 @@
 			"(Song) Celestial stinger by Noah",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Celestial stinger by Noah) (AA Rank)"
 		]
 	},
 	{
@@ -9810,6 +10272,9 @@
 			"(Song) Celestial stinger by Noah",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Celestial stinger by Noah) (AAA Rank)"
 		]
 	},
 	{
@@ -9821,6 +10286,9 @@
 			"(Song) Celestial stinger by Noah",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Celestial stinger by Noah) (S Rank)"
 		]
 	},
 	{
@@ -10672,6 +11140,9 @@
 			"(Song) Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (Pass)"
 		]
 	},
 	{
@@ -10683,6 +11154,9 @@
 			"(Song) Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (AA Rank)"
 		]
 	},
 	{
@@ -10694,6 +11168,9 @@
 			"(Song) Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (AAA Rank)"
 		]
 	},
 	{
@@ -10705,6 +11182,9 @@
 			"(Song) Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Demise Quartet by Shiron＋こふ×モリモリあつしと提供でお送りします。) (S Rank)"
 		]
 	},
 	{
@@ -10756,6 +11236,9 @@
 			"(Song) Destiny by Yooh",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Destiny by Yooh) (Pass)"
 		]
 	},
 	{
@@ -10767,6 +11250,9 @@
 			"(Song) Destiny by Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Destiny by Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -10778,6 +11264,9 @@
 			"(Song) Destiny by Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Destiny by Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -10789,6 +11278,9 @@
 			"(Song) Destiny by Yooh",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Destiny by Yooh) (S Rank)"
 		]
 	},
 	{
@@ -10960,6 +11452,9 @@
 			"(Song) Divine's:Bugscript by かゆき",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Divine's:Bugscript by かゆき) (Pass)"
 		]
 	},
 	{
@@ -10971,6 +11466,9 @@
 			"(Song) Divine's:Bugscript by かゆき",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Divine's:Bugscript by かゆき) (AA Rank)"
 		]
 	},
 	{
@@ -10982,6 +11480,9 @@
 			"(Song) Divine's:Bugscript by かゆき",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Divine's:Bugscript by かゆき) (AAA Rank)"
 		]
 	},
 	{
@@ -10993,6 +11494,9 @@
 			"(Song) Divine's:Bugscript by かゆき",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Divine's:Bugscript by かゆき) (S Rank)"
 		]
 	},
 	{
@@ -11644,6 +12148,9 @@
 			"(Song) Enter The Rave by Tatsunoshin",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Enter The Rave by Tatsunoshin) (Pass)"
 		]
 	},
 	{
@@ -11655,6 +12162,9 @@
 			"(Song) Enter The Rave by Tatsunoshin",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Enter The Rave by Tatsunoshin) (AA Rank)"
 		]
 	},
 	{
@@ -11666,6 +12176,9 @@
 			"(Song) Enter The Rave by Tatsunoshin",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Enter The Rave by Tatsunoshin) (AAA Rank)"
 		]
 	},
 	{
@@ -11677,6 +12190,9 @@
 			"(Song) Enter The Rave by Tatsunoshin",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Enter The Rave by Tatsunoshin) (S Rank)"
 		]
 	},
 	{
@@ -11928,6 +12444,9 @@
 			"(Song) FEEL THE FORCE by brz1128",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FEEL THE FORCE by brz1128) (Pass)"
 		]
 	},
 	{
@@ -11939,6 +12458,9 @@
 			"(Song) FEEL THE FORCE by brz1128",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FEEL THE FORCE by brz1128) (AA Rank)"
 		]
 	},
 	{
@@ -11950,6 +12472,9 @@
 			"(Song) FEEL THE FORCE by brz1128",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FEEL THE FORCE by brz1128) (AAA Rank)"
 		]
 	},
 	{
@@ -11961,6 +12486,9 @@
 			"(Song) FEEL THE FORCE by brz1128",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FEEL THE FORCE by brz1128) (S Rank)"
 		]
 	},
 	{
@@ -12092,6 +12620,9 @@
 			"(Song) FLOWER REDALiCE Remix by REDALiCE",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FLOWER REDALiCE Remix by REDALiCE) (Pass)"
 		]
 	},
 	{
@@ -12103,6 +12634,9 @@
 			"(Song) FLOWER REDALiCE Remix by REDALiCE",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FLOWER REDALiCE Remix by REDALiCE) (AA Rank)"
 		]
 	},
 	{
@@ -12114,6 +12648,9 @@
 			"(Song) FLOWER REDALiCE Remix by REDALiCE",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FLOWER REDALiCE Remix by REDALiCE) (AAA Rank)"
 		]
 	},
 	{
@@ -12125,6 +12662,9 @@
 			"(Song) FLOWER REDALiCE Remix by REDALiCE",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (FLOWER REDALiCE Remix by REDALiCE) (S Rank)"
 		]
 	},
 	{
@@ -12537,6 +13077,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (Pass)"
 		]
 	},
 	{
@@ -12549,6 +13092,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (AA Rank)"
 		]
 	},
 	{
@@ -12561,6 +13107,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (AAA Rank)"
 		]
 	},
 	{
@@ -12573,6 +13122,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (GEMINI LA2ER by ミカルコスモ(せらみかる×cosMo＠暴走P)) (S Rank)"
 		]
 	},
 	{
@@ -12744,6 +13296,9 @@
 			"(Song) GaLaXyEggPlanT by sasakure.UK",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (GaLaXyEggPlanT by sasakure.UK) (Pass)"
 		]
 	},
 	{
@@ -12755,6 +13310,9 @@
 			"(Song) GaLaXyEggPlanT by sasakure.UK",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (GaLaXyEggPlanT by sasakure.UK) (AA Rank)"
 		]
 	},
 	{
@@ -12766,6 +13324,9 @@
 			"(Song) GaLaXyEggPlanT by sasakure.UK",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (GaLaXyEggPlanT by sasakure.UK) (AAA Rank)"
 		]
 	},
 	{
@@ -12777,6 +13338,9 @@
 			"(Song) GaLaXyEggPlanT by sasakure.UK",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (GaLaXyEggPlanT by sasakure.UK) (S Rank)"
 		]
 	},
 	{
@@ -13069,6 +13633,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Goddess Bless you by winddrums) (Pass)"
 		]
 	},
 	{
@@ -13081,6 +13648,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Goddess Bless you by winddrums) (AA Rank)"
 		]
 	},
 	{
@@ -13093,6 +13663,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Goddess Bless you by winddrums) (AAA Rank)"
 		]
 	},
 	{
@@ -13105,6 +13678,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Goddess Bless you by winddrums) (S Rank)"
 		]
 	},
 	{
@@ -13156,6 +13732,9 @@
 			"(Song) Gorgetech by Shiron",
 			"(Goal) Pass",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Gorgetech by Shiron) (Pass)"
 		]
 	},
 	{
@@ -13167,6 +13746,9 @@
 			"(Song) Gorgetech by Shiron",
 			"(Goal) AA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Gorgetech by Shiron) (AA Rank)"
 		]
 	},
 	{
@@ -13178,6 +13760,9 @@
 			"(Song) Gorgetech by Shiron",
 			"(Goal) AAA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Gorgetech by Shiron) (AAA Rank)"
 		]
 	},
 	{
@@ -13189,6 +13774,9 @@
 			"(Song) Gorgetech by Shiron",
 			"(Goal) S Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Gorgetech by Shiron) (S Rank)"
 		]
 	},
 	{
@@ -13200,6 +13788,9 @@
 			"(Song) Grand-Guignol by モリモリあつし",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Grand-Guignol by モリモリあつし) (Pass)"
 		]
 	},
 	{
@@ -13211,6 +13802,9 @@
 			"(Song) Grand-Guignol by モリモリあつし",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Grand-Guignol by モリモリあつし) (AA Rank)"
 		]
 	},
 	{
@@ -13222,6 +13816,9 @@
 			"(Song) Grand-Guignol by モリモリあつし",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Grand-Guignol by モリモリあつし) (AAA Rank)"
 		]
 	},
 	{
@@ -13233,6 +13830,9 @@
 			"(Song) Grand-Guignol by モリモリあつし",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Grand-Guignol by モリモリあつし) (S Rank)"
 		]
 	},
 	{
@@ -13244,6 +13844,9 @@
 			"(Song) Grandeur by CANVAS x RoughSketch feat. Quimär",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (Pass)"
 		]
 	},
 	{
@@ -13255,6 +13858,9 @@
 			"(Song) Grandeur by CANVAS x RoughSketch feat. Quimär",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (AA Rank)"
 		]
 	},
 	{
@@ -13266,6 +13872,9 @@
 			"(Song) Grandeur by CANVAS x RoughSketch feat. Quimär",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (AAA Rank)"
 		]
 	},
 	{
@@ -13277,6 +13886,9 @@
 			"(Song) Grandeur by CANVAS x RoughSketch feat. Quimär",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Grandeur by CANVAS x RoughSketch feat. Quimär) (S Rank)"
 		]
 	},
 	{
@@ -13528,6 +14140,9 @@
 			"(Song) Hellfire by Hommarju",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Hellfire by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -13539,6 +14154,9 @@
 			"(Song) Hellfire by Hommarju",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Hellfire by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -13550,6 +14168,9 @@
 			"(Song) Hellfire by Hommarju",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Hellfire by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -13561,6 +14182,9 @@
 			"(Song) Hellfire by Hommarju",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Hellfire by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -13732,6 +14356,9 @@
 			"(Song) IKAROS DYNAMITE!!!! by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (IKAROS DYNAMITE!!!! by BlackY) (Pass)"
 		]
 	},
 	{
@@ -13743,6 +14370,9 @@
 			"(Song) IKAROS DYNAMITE!!!! by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (IKAROS DYNAMITE!!!! by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -13754,6 +14384,9 @@
 			"(Song) IKAROS DYNAMITE!!!! by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (IKAROS DYNAMITE!!!! by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -13765,6 +14398,9 @@
 			"(Song) IKAROS DYNAMITE!!!! by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (IKAROS DYNAMITE!!!! by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -14016,6 +14652,9 @@
 			"(Song) Initiating League by EmoCosine vs. nora2r",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Initiating League by EmoCosine vs. nora2r) (Pass)"
 		]
 	},
 	{
@@ -14027,6 +14666,9 @@
 			"(Song) Initiating League by EmoCosine vs. nora2r",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Initiating League by EmoCosine vs. nora2r) (AA Rank)"
 		]
 	},
 	{
@@ -14038,6 +14680,9 @@
 			"(Song) Initiating League by EmoCosine vs. nora2r",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Initiating League by EmoCosine vs. nora2r) (AAA Rank)"
 		]
 	},
 	{
@@ -14049,6 +14694,9 @@
 			"(Song) Initiating League by EmoCosine vs. nora2r",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Initiating League by EmoCosine vs. nora2r) (S Rank)"
 		]
 	},
 	{
@@ -14061,6 +14709,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Innocent by Alkome) (Pass)"
 		]
 	},
 	{
@@ -14073,6 +14724,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Innocent by Alkome) (AA Rank)"
 		]
 	},
 	{
@@ -14085,6 +14739,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Innocent by Alkome) (AAA Rank)"
 		]
 	},
 	{
@@ -14097,6 +14754,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Innocent by Alkome) (S Rank)"
 		]
 	},
 	{
@@ -14188,6 +14848,9 @@
 			"(Song) JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (Pass)"
 		]
 	},
 	{
@@ -14199,6 +14862,9 @@
 			"(Song) JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (AA Rank)"
 		]
 	},
 	{
@@ -14210,6 +14876,9 @@
 			"(Song) JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (AAA Rank)"
 		]
 	},
 	{
@@ -14221,6 +14890,9 @@
 			"(Song) JUNKIE FLAVOR by yaseta + Hidra-Xjeil",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (JUNKIE FLAVOR by yaseta + Hidra-Xjeil) (S Rank)"
 		]
 	},
 	{
@@ -14352,6 +15024,9 @@
 			"(Song) Juggler's Maddness by Lite Show Magic",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Juggler's Maddness by Lite Show Magic) (Pass)"
 		]
 	},
 	{
@@ -14363,6 +15038,9 @@
 			"(Song) Juggler's Maddness by Lite Show Magic",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Juggler's Maddness by Lite Show Magic) (AA Rank)"
 		]
 	},
 	{
@@ -14374,6 +15052,9 @@
 			"(Song) Juggler's Maddness by Lite Show Magic",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Juggler's Maddness by Lite Show Magic) (AAA Rank)"
 		]
 	},
 	{
@@ -14385,6 +15066,9 @@
 			"(Song) Juggler's Maddness by Lite Show Magic",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Juggler's Maddness by Lite Show Magic) (S Rank)"
 		]
 	},
 	{
@@ -14916,6 +15600,9 @@
 			"(Song) LECTORIA by Cranky",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (LECTORIA by Cranky) (Pass)"
 		]
 	},
 	{
@@ -14927,6 +15614,9 @@
 			"(Song) LECTORIA by Cranky",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (LECTORIA by Cranky) (AA Rank)"
 		]
 	},
 	{
@@ -14938,6 +15628,9 @@
 			"(Song) LECTORIA by Cranky",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (LECTORIA by Cranky) (AAA Rank)"
 		]
 	},
 	{
@@ -14949,6 +15642,9 @@
 			"(Song) LECTORIA by Cranky",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (LECTORIA by Cranky) (S Rank)"
 		]
 	},
 	{
@@ -15040,6 +15736,9 @@
 			"(Song) Last Concerto by ke-ji",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Concerto by ke-ji) (Pass)"
 		]
 	},
 	{
@@ -15051,6 +15750,9 @@
 			"(Song) Last Concerto by ke-ji",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Concerto by ke-ji) (AA Rank)"
 		]
 	},
 	{
@@ -15062,6 +15764,9 @@
 			"(Song) Last Concerto by ke-ji",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Concerto by ke-ji) (AAA Rank)"
 		]
 	},
 	{
@@ -15073,6 +15778,9 @@
 			"(Song) Last Concerto by ke-ji",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Concerto by ke-ji) (S Rank)"
 		]
 	},
 	{
@@ -15164,6 +15872,9 @@
 			"(Song) Le Fruit Défendu by モリモリあつし+Verdammt",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (Pass)"
 		]
 	},
 	{
@@ -15175,6 +15886,9 @@
 			"(Song) Le Fruit Défendu by モリモリあつし+Verdammt",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (AA Rank)"
 		]
 	},
 	{
@@ -15186,6 +15900,9 @@
 			"(Song) Le Fruit Défendu by モリモリあつし+Verdammt",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (AAA Rank)"
 		]
 	},
 	{
@@ -15197,6 +15914,9 @@
 			"(Song) Le Fruit Défendu by モリモリあつし+Verdammt",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le Fruit Défendu by モリモリあつし+Verdammt) (S Rank)"
 		]
 	},
 	{
@@ -15328,6 +16048,9 @@
 			"(Song) Liar rain by しーけー",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Liar rain by しーけー) (Pass)"
 		]
 	},
 	{
@@ -15339,6 +16062,9 @@
 			"(Song) Liar rain by しーけー",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Liar rain by しーけー) (AA Rank)"
 		]
 	},
 	{
@@ -15350,6 +16076,9 @@
 			"(Song) Liar rain by しーけー",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Liar rain by しーけー) (AAA Rank)"
 		]
 	},
 	{
@@ -15361,6 +16090,9 @@
 			"(Song) Liar rain by しーけー",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Liar rain by しーけー) (S Rank)"
 		]
 	},
 	{
@@ -15412,6 +16144,9 @@
 			"(Song) Little Red Riding Hood by RoughSketch",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Little Red Riding Hood by RoughSketch) (Pass)"
 		]
 	},
 	{
@@ -15423,6 +16158,9 @@
 			"(Song) Little Red Riding Hood by RoughSketch",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Little Red Riding Hood by RoughSketch) (AA Rank)"
 		]
 	},
 	{
@@ -15434,6 +16172,9 @@
 			"(Song) Little Red Riding Hood by RoughSketch",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Little Red Riding Hood by RoughSketch) (AAA Rank)"
 		]
 	},
 	{
@@ -15445,6 +16186,9 @@
 			"(Song) Little Red Riding Hood by RoughSketch",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Little Red Riding Hood by RoughSketch) (S Rank)"
 		]
 	},
 	{
@@ -15976,6 +16720,9 @@
 			"(Song) Max Burning!! by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Max Burning!! by BlackY) (Pass)"
 		]
 	},
 	{
@@ -15987,6 +16734,9 @@
 			"(Song) Max Burning!! by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Max Burning!! by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -15998,6 +16748,9 @@
 			"(Song) Max Burning!! by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Max Burning!! by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -16009,6 +16762,9 @@
 			"(Song) Max Burning!! by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Max Burning!! by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -16260,6 +17016,9 @@
 			"(Song) Mirrorwall by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Mirrorwall by BlackY) (Pass)"
 		]
 	},
 	{
@@ -16271,6 +17030,9 @@
 			"(Song) Mirrorwall by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Mirrorwall by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -16282,6 +17044,9 @@
 			"(Song) Mirrorwall by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Mirrorwall by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -16293,6 +17058,9 @@
 			"(Song) Mirrorwall by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Mirrorwall by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -16465,6 +17233,9 @@
 			"(Goal) Pass",
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (NEO TREASON by lapix) (Pass)"
 		]
 	},
 	{
@@ -16477,6 +17248,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (NEO TREASON by lapix) (AA Rank)"
 		]
 	},
 	{
@@ -16489,6 +17263,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (NEO TREASON by lapix) (AAA Rank)"
 		]
 	},
 	{
@@ -16501,6 +17278,9 @@
 			"(Goal) S Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (NEO TREASON by lapix) (S Rank)"
 		]
 	},
 	{
@@ -16672,6 +17452,9 @@
 			"(Song) Never Forget Evergreen by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Never Forget Evergreen by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -16683,6 +17466,9 @@
 			"(Song) Never Forget Evergreen by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Never Forget Evergreen by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -16694,6 +17480,9 @@
 			"(Song) Never Forget Evergreen by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Never Forget Evergreen by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -16705,6 +17494,9 @@
 			"(Song) Never Forget Evergreen by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Never Forget Evergreen by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -16797,6 +17589,9 @@
 			"(Goal) Pass",
 			"(Navigator) GRACE",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nexta by lapix) (Pass)"
 		]
 	},
 	{
@@ -16809,6 +17604,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nexta by lapix) (AA Rank)"
 		]
 	},
 	{
@@ -16821,6 +17619,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nexta by lapix) (AAA Rank)"
 		]
 	},
 	{
@@ -16833,6 +17634,9 @@
 			"(Goal) S Rank",
 			"(Navigator) GRACE",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nexta by lapix) (S Rank)"
 		]
 	},
 	{
@@ -17164,6 +17968,9 @@
 			"(Song) Ok!! Hug Me by はるなば",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ok!! Hug Me by はるなば) (Pass)"
 		]
 	},
 	{
@@ -17175,6 +17982,9 @@
 			"(Song) Ok!! Hug Me by はるなば",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ok!! Hug Me by はるなば) (AA Rank)"
 		]
 	},
 	{
@@ -17186,6 +17996,9 @@
 			"(Song) Ok!! Hug Me by はるなば",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ok!! Hug Me by はるなば) (AAA Rank)"
 		]
 	},
 	{
@@ -17197,6 +18010,9 @@
 			"(Song) Ok!! Hug Me by はるなば",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ok!! Hug Me by はるなば) (S Rank)"
 		]
 	},
 	{
@@ -17329,6 +18145,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (Pass)"
 		]
 	},
 	{
@@ -17341,6 +18160,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (AA Rank)"
 		]
 	},
 	{
@@ -17353,6 +18175,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (AAA Rank)"
 		]
 	},
 	{
@@ -17365,6 +18190,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Ops:Code-Rapture- by Getty vs. DJ DiA) (S Rank)"
 		]
 	},
 	{
@@ -17416,6 +18244,9 @@
 			"(Song) Over The Top by Ashrount",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Over The Top by Ashrount) (Pass)"
 		]
 	},
 	{
@@ -17427,6 +18258,9 @@
 			"(Song) Over The Top by Ashrount",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Over The Top by Ashrount) (AA Rank)"
 		]
 	},
 	{
@@ -17438,6 +18272,9 @@
 			"(Song) Over The Top by Ashrount",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Over The Top by Ashrount) (AAA Rank)"
 		]
 	},
 	{
@@ -17449,6 +18286,9 @@
 			"(Song) Over The Top by Ashrount",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Over The Top by Ashrount) (S Rank)"
 		]
 	},
 	{
@@ -17860,6 +18700,9 @@
 			"(Song) Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (Pass)"
 		]
 	},
 	{
@@ -17871,6 +18714,9 @@
 			"(Song) Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (AA Rank)"
 		]
 	},
 	{
@@ -17882,6 +18728,9 @@
 			"(Song) Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (AAA Rank)"
 		]
 	},
 	{
@@ -17893,6 +18742,9 @@
 			"(Song) Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (Perfect Ultimate Celebration!! by 2時間でPUCされたかぼちゃ) (S Rank)"
 		]
 	},
 	{
@@ -17984,6 +18836,9 @@
 			"(Song) Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -17995,6 +18850,9 @@
 			"(Song) Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -18006,6 +18864,9 @@
 			"(Song) Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -18017,6 +18878,9 @@
 			"(Song) Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Pon-Pon-Pompoko Dai-Sen-Saw! by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -18068,6 +18932,9 @@
 			"(Song) Prayer by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -18079,6 +18946,9 @@
 			"(Song) Prayer by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -18090,6 +18960,9 @@
 			"(Song) Prayer by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -18101,6 +18974,9 @@
 			"(Song) Prayer by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -18112,6 +18988,9 @@
 			"(Song) Prayer by 溝口ゆうま feat. 大瀬良あい",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (Pass)"
 		]
 	},
 	{
@@ -18123,6 +19002,9 @@
 			"(Song) Prayer by 溝口ゆうま feat. 大瀬良あい",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (AA Rank)"
 		]
 	},
 	{
@@ -18134,6 +19016,9 @@
 			"(Song) Prayer by 溝口ゆうま feat. 大瀬良あい",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (AAA Rank)"
 		]
 	},
 	{
@@ -18145,6 +19030,9 @@
 			"(Song) Prayer by 溝口ゆうま feat. 大瀬良あい",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Prayer by 溝口ゆうま feat. 大瀬良あい) (S Rank)"
 		]
 	},
 	{
@@ -18276,6 +19164,9 @@
 			"(Song) Puni Puni Parade by MARON (IOSYS)",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Puni Puni Parade by MARON (IOSYS)) (Pass)"
 		]
 	},
 	{
@@ -18287,6 +19178,9 @@
 			"(Song) Puni Puni Parade by MARON (IOSYS)",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Puni Puni Parade by MARON (IOSYS)) (AA Rank)"
 		]
 	},
 	{
@@ -18298,6 +19192,9 @@
 			"(Song) Puni Puni Parade by MARON (IOSYS)",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Puni Puni Parade by MARON (IOSYS)) (AAA Rank)"
 		]
 	},
 	{
@@ -18309,6 +19206,9 @@
 			"(Song) Puni Puni Parade by MARON (IOSYS)",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Puni Puni Parade by MARON (IOSYS)) (S Rank)"
 		]
 	},
 	{
@@ -18520,6 +19420,9 @@
 			"(Song) REVOLVER by sky_delta",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (REVOLVER by sky_delta) (Pass)"
 		]
 	},
 	{
@@ -18531,6 +19434,9 @@
 			"(Song) REVOLVER by sky_delta",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (REVOLVER by sky_delta) (AA Rank)"
 		]
 	},
 	{
@@ -18542,6 +19448,9 @@
 			"(Song) REVOLVER by sky_delta",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (REVOLVER by sky_delta) (AAA Rank)"
 		]
 	},
 	{
@@ -18553,6 +19462,9 @@
 			"(Song) REVOLVER by sky_delta",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (REVOLVER by sky_delta) (S Rank)"
 		]
 	},
 	{
@@ -18724,6 +19636,9 @@
 			"(Song) Reb∞t by BEMANI Sound Team \"TAG\"",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (Pass)"
 		]
 	},
 	{
@@ -18735,6 +19650,9 @@
 			"(Song) Reb∞t by BEMANI Sound Team \"TAG\"",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (AA Rank)"
 		]
 	},
 	{
@@ -18746,6 +19664,9 @@
 			"(Song) Reb∞t by BEMANI Sound Team \"TAG\"",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (AAA Rank)"
 		]
 	},
 	{
@@ -18757,6 +19678,9 @@
 			"(Song) Reb∞t by BEMANI Sound Team \"TAG\"",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Reb∞t by BEMANI Sound Team \"TAG\") (S Rank)"
 		]
 	},
 	{
@@ -19088,6 +20012,9 @@
 			"(Song) Ring！Run！Nyan!! by MisomyL",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ring！Run！Nyan!! by MisomyL) (Pass)"
 		]
 	},
 	{
@@ -19099,6 +20026,9 @@
 			"(Song) Ring！Run！Nyan!! by MisomyL",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ring！Run！Nyan!! by MisomyL) (AA Rank)"
 		]
 	},
 	{
@@ -19110,6 +20040,9 @@
 			"(Song) Ring！Run！Nyan!! by MisomyL",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ring！Run！Nyan!! by MisomyL) (AAA Rank)"
 		]
 	},
 	{
@@ -19121,6 +20054,9 @@
 			"(Song) Ring！Run！Nyan!! by MisomyL",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Ring！Run！Nyan!! by MisomyL) (S Rank)"
 		]
 	},
 	{
@@ -20213,6 +21149,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (SociuS by Ellim Gnirps vs よみぃ) (Pass)"
 		]
 	},
 	{
@@ -20225,6 +21164,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (SociuS by Ellim Gnirps vs よみぃ) (AA Rank)"
 		]
 	},
 	{
@@ -20237,6 +21179,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (SociuS by Ellim Gnirps vs よみぃ) (AAA Rank)"
 		]
 	},
 	{
@@ -20249,6 +21194,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (SociuS by Ellim Gnirps vs よみぃ) (S Rank)"
 		]
 	},
 	{
@@ -20300,6 +21248,9 @@
 			"(Song) Souhait bleu by しーけー",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Souhait bleu by しーけー) (Pass)"
 		]
 	},
 	{
@@ -20311,6 +21262,9 @@
 			"(Song) Souhait bleu by しーけー",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Souhait bleu by しーけー) (AA Rank)"
 		]
 	},
 	{
@@ -20322,6 +21276,9 @@
 			"(Song) Souhait bleu by しーけー",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Souhait bleu by しーけー) (AAA Rank)"
 		]
 	},
 	{
@@ -20333,6 +21290,9 @@
 			"(Song) Souhait bleu by しーけー",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Souhait bleu by しーけー) (S Rank)"
 		]
 	},
 	{
@@ -20544,6 +21504,9 @@
 			"(Song) Sudden Visitor by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Sudden Visitor by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -20555,6 +21518,9 @@
 			"(Song) Sudden Visitor by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Sudden Visitor by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -20566,6 +21532,9 @@
 			"(Song) Sudden Visitor by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Sudden Visitor by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -20577,6 +21546,9 @@
 			"(Song) Sudden Visitor by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Sudden Visitor by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -20588,6 +21560,9 @@
 			"(Song) SuperMiracleEnsemble by fnylsp",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (SuperMiracleEnsemble by fnylsp) (Pass)"
 		]
 	},
 	{
@@ -20599,6 +21574,9 @@
 			"(Song) SuperMiracleEnsemble by fnylsp",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (SuperMiracleEnsemble by fnylsp) (AA Rank)"
 		]
 	},
 	{
@@ -20610,6 +21588,9 @@
 			"(Song) SuperMiracleEnsemble by fnylsp",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (SuperMiracleEnsemble by fnylsp) (AAA Rank)"
 		]
 	},
 	{
@@ -20621,6 +21602,9 @@
 			"(Song) SuperMiracleEnsemble by fnylsp",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (SuperMiracleEnsemble by fnylsp) (S Rank)"
 		]
 	},
 	{
@@ -21072,6 +22056,9 @@
 			"(Song) Test Flight by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Test Flight by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -21083,6 +22070,9 @@
 			"(Song) Test Flight by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Test Flight by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -21094,6 +22084,9 @@
 			"(Song) Test Flight by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Test Flight by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -21105,6 +22098,9 @@
 			"(Song) Test Flight by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Test Flight by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -21117,6 +22113,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Teufel by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -21129,6 +22128,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Teufel by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -21141,6 +22143,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Teufel by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -21153,6 +22158,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Teufel by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -21404,6 +22412,9 @@
 			"(Song) The star in eclipse by しーけー",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (The star in eclipse by しーけー) (Pass)"
 		]
 	},
 	{
@@ -21415,6 +22426,9 @@
 			"(Song) The star in eclipse by しーけー",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (The star in eclipse by しーけー) (AA Rank)"
 		]
 	},
 	{
@@ -21426,6 +22440,9 @@
 			"(Song) The star in eclipse by しーけー",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (The star in eclipse by しーけー) (AAA Rank)"
 		]
 	},
 	{
@@ -21437,6 +22454,9 @@
 			"(Song) The star in eclipse by しーけー",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (The star in eclipse by しーけー) (S Rank)"
 		]
 	},
 	{
@@ -21928,6 +22948,9 @@
 			"(Song) ULTRAVELOCITY by はがね",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ULTRAVELOCITY by はがね) (Pass)"
 		]
 	},
 	{
@@ -21939,6 +22962,9 @@
 			"(Song) ULTRAVELOCITY by はがね",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ULTRAVELOCITY by はがね) (AA Rank)"
 		]
 	},
 	{
@@ -21950,6 +22976,9 @@
 			"(Song) ULTRAVELOCITY by はがね",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ULTRAVELOCITY by はがね) (AAA Rank)"
 		]
 	},
 	{
@@ -21961,6 +22990,9 @@
 			"(Song) ULTRAVELOCITY by はがね",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ULTRAVELOCITY by はがね) (S Rank)"
 		]
 	},
 	{
@@ -21972,6 +23004,9 @@
 			"(Song) ULTiMATE INFLATiON by cosMo＠暴走Genocider",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (Pass)"
 		]
 	},
 	{
@@ -21983,6 +23018,9 @@
 			"(Song) ULTiMATE INFLATiON by cosMo＠暴走Genocider",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (AA Rank)"
 		]
 	},
 	{
@@ -21994,6 +23032,9 @@
 			"(Song) ULTiMATE INFLATiON by cosMo＠暴走Genocider",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (AAA Rank)"
 		]
 	},
 	{
@@ -22005,6 +23046,9 @@
 			"(Song) ULTiMATE INFLATiON by cosMo＠暴走Genocider",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ULTiMATE INFLATiON by cosMo＠暴走Genocider) (S Rank)"
 		]
 	},
 	{
@@ -22096,6 +23140,9 @@
 			"(Song) UnivEarth by Antinomic Paradox",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (UnivEarth by Antinomic Paradox) (Pass)"
 		]
 	},
 	{
@@ -22107,6 +23154,9 @@
 			"(Song) UnivEarth by Antinomic Paradox",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (UnivEarth by Antinomic Paradox) (AA Rank)"
 		]
 	},
 	{
@@ -22118,6 +23168,9 @@
 			"(Song) UnivEarth by Antinomic Paradox",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (UnivEarth by Antinomic Paradox) (AAA Rank)"
 		]
 	},
 	{
@@ -22129,6 +23182,9 @@
 			"(Song) UnivEarth by Antinomic Paradox",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (UnivEarth by Antinomic Paradox) (S Rank)"
 		]
 	},
 	{
@@ -22221,6 +23277,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (V Sen5eS by MasKaleido VS 709sec.) (Pass)"
 		]
 	},
 	{
@@ -22233,6 +23292,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (V Sen5eS by MasKaleido VS 709sec.) (AA Rank)"
 		]
 	},
 	{
@@ -22245,6 +23307,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (V Sen5eS by MasKaleido VS 709sec.) (AAA Rank)"
 		]
 	},
 	{
@@ -22257,6 +23322,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (V Sen5eS by MasKaleido VS 709sec.) (S Rank)"
 		]
 	},
 	{
@@ -22708,6 +23776,9 @@
 			"(Song) Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -22719,6 +23790,9 @@
 			"(Song) Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -22730,6 +23804,9 @@
 			"(Song) Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -22741,6 +23818,9 @@
 			"(Song) Voice 7 Voice!!!!!!! by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (Voice 7 Voice!!!!!!! by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -22832,6 +23912,9 @@
 			"(Song) Warriors Aboot by RoughSketch vs MAD CHILD",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (Pass)"
 		]
 	},
 	{
@@ -22843,6 +23926,9 @@
 			"(Song) Warriors Aboot by RoughSketch vs MAD CHILD",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (AA Rank)"
 		]
 	},
 	{
@@ -22854,6 +23940,9 @@
 			"(Song) Warriors Aboot by RoughSketch vs MAD CHILD",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (AAA Rank)"
 		]
 	},
 	{
@@ -22865,6 +23954,9 @@
 			"(Song) Warriors Aboot by RoughSketch vs MAD CHILD",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Warriors Aboot by RoughSketch vs MAD CHILD) (S Rank)"
 		]
 	},
 	{
@@ -23116,6 +24208,9 @@
 			"(Song) Wings to fly high by Noah",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Wings to fly high by Noah) (Pass)"
 		]
 	},
 	{
@@ -23127,6 +24222,9 @@
 			"(Song) Wings to fly high by Noah",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Wings to fly high by Noah) (AA Rank)"
 		]
 	},
 	{
@@ -23138,6 +24236,9 @@
 			"(Song) Wings to fly high by Noah",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Wings to fly high by Noah) (AAA Rank)"
 		]
 	},
 	{
@@ -23149,6 +24250,9 @@
 			"(Song) Wings to fly high by Noah",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Wings to fly high by Noah) (S Rank)"
 		]
 	},
 	{
@@ -23160,6 +24264,9 @@
 			"(Song) Wish upon Twin Stars by xi",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Wish upon Twin Stars by xi) (Pass)"
 		]
 	},
 	{
@@ -23171,6 +24278,9 @@
 			"(Song) Wish upon Twin Stars by xi",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Wish upon Twin Stars by xi) (AA Rank)"
 		]
 	},
 	{
@@ -23182,6 +24292,9 @@
 			"(Song) Wish upon Twin Stars by xi",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Wish upon Twin Stars by xi) (AAA Rank)"
 		]
 	},
 	{
@@ -23193,6 +24306,9 @@
 			"(Song) Wish upon Twin Stars by xi",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Wish upon Twin Stars by xi) (S Rank)"
 		]
 	},
 	{
@@ -23284,6 +24400,9 @@
 			"(Song) X1GNUS by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (X1GNUS by BlackY) (Pass)"
 		]
 	},
 	{
@@ -23295,6 +24414,9 @@
 			"(Song) X1GNUS by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (X1GNUS by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -23306,6 +24428,9 @@
 			"(Song) X1GNUS by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (X1GNUS by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -23317,6 +24442,9 @@
 			"(Song) X1GNUS by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (X1GNUS by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -23368,6 +24496,9 @@
 			"(Song) XROSS THE XOUL by BlackY vs. Yooh",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (Pass)"
 		]
 	},
 	{
@@ -23379,6 +24510,9 @@
 			"(Song) XROSS THE XOUL by BlackY vs. Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -23390,6 +24524,9 @@
 			"(Song) XROSS THE XOUL by BlackY vs. Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -23401,6 +24538,9 @@
 			"(Song) XROSS THE XOUL by BlackY vs. Yooh",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (XROSS THE XOUL by BlackY vs. Yooh) (S Rank)"
 		]
 	},
 	{
@@ -23893,6 +25033,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (croiX by TeamGrimoire+あま猫) (Pass)"
 		]
 	},
 	{
@@ -23905,6 +25048,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (croiX by TeamGrimoire+あま猫) (AA Rank)"
 		]
 	},
 	{
@@ -23917,6 +25063,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (croiX by TeamGrimoire+あま猫) (AAA Rank)"
 		]
 	},
 	{
@@ -23929,6 +25078,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (croiX by TeamGrimoire+あま猫) (S Rank)"
 		]
 	},
 	{
@@ -23940,6 +25092,9 @@
 			"(Song) crossing blue by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (crossing blue by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -23951,6 +25106,9 @@
 			"(Song) crossing blue by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (crossing blue by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -23962,6 +25120,9 @@
 			"(Song) crossing blue by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (crossing blue by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -23973,6 +25134,9 @@
 			"(Song) crossing blue by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (crossing blue by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -24424,6 +25588,9 @@
 			"(Song) party:stage by かゆき",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (party:stage by かゆき) (Pass)"
 		]
 	},
 	{
@@ -24435,6 +25602,9 @@
 			"(Song) party:stage by かゆき",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (party:stage by かゆき) (AA Rank)"
 		]
 	},
 	{
@@ -24446,6 +25616,9 @@
 			"(Song) party:stage by かゆき",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (party:stage by かゆき) (AAA Rank)"
 		]
 	},
 	{
@@ -24457,6 +25630,9 @@
 			"(Song) party:stage by かゆき",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (party:stage by かゆき) (S Rank)"
 		]
 	},
 	{
@@ -24628,6 +25804,9 @@
 			"(Song) refluxio by Juggernaut.",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (refluxio by Juggernaut.) (Pass)"
 		]
 	},
 	{
@@ -24639,6 +25818,9 @@
 			"(Song) refluxio by Juggernaut.",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (refluxio by Juggernaut.) (AA Rank)"
 		]
 	},
 	{
@@ -24650,6 +25832,9 @@
 			"(Song) refluxio by Juggernaut.",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (refluxio by Juggernaut.) (AAA Rank)"
 		]
 	},
 	{
@@ -24661,6 +25846,9 @@
 			"(Song) refluxio by Juggernaut.",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (refluxio by Juggernaut.) (S Rank)"
 		]
 	},
 	{
@@ -24792,6 +25980,9 @@
 			"(Song) tricky trick by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (tricky trick by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -24803,6 +25994,9 @@
 			"(Song) tricky trick by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (tricky trick by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -24814,6 +26008,9 @@
 			"(Song) tricky trick by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (tricky trick by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -24825,6 +26022,9 @@
 			"(Song) tricky trick by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (tricky trick by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -25396,6 +26596,9 @@
 			"(Song) Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (Pass)"
 		]
 	},
 	{
@@ -25407,6 +26610,9 @@
 			"(Song) Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (AA Rank)"
 		]
 	},
 	{
@@ -25418,6 +26624,9 @@
 			"(Song) Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (AAA Rank)"
 		]
 	},
 	{
@@ -25429,6 +26638,9 @@
 			"(Song) Яe:son D'être by SCHOOL CASTE(石見＆とおる)",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Яe:son D'être by SCHOOL CASTE(石見＆とおる)) (S Rank)"
 		]
 	},
 	{
@@ -25520,6 +26732,9 @@
 			"(Song) ↓↓↓ by 庭師",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (↓↓↓ by 庭師) (Pass)"
 		]
 	},
 	{
@@ -25531,6 +26746,9 @@
 			"(Song) ↓↓↓ by 庭師",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (↓↓↓ by 庭師) (AA Rank)"
 		]
 	},
 	{
@@ -25542,6 +26760,9 @@
 			"(Song) ↓↓↓ by 庭師",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (↓↓↓ by 庭師) (AAA Rank)"
 		]
 	},
 	{
@@ -25553,6 +26774,9 @@
 			"(Song) ↓↓↓ by 庭師",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (↓↓↓ by 庭師) (S Rank)"
 		]
 	},
 	{
@@ -26124,6 +27348,9 @@
 			"(Song) ばらんが!!!! by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -26135,6 +27362,9 @@
 			"(Song) ばらんが!!!! by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -26146,6 +27376,9 @@
 			"(Song) ばらんが!!!! by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -26157,6 +27390,9 @@
 			"(Song) ばらんが!!!! by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ばらんが!!!! by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -26288,6 +27524,9 @@
 			"(Song) ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (Pass)"
 		]
 	},
 	{
@@ -26299,6 +27538,9 @@
 			"(Song) ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (AA Rank)"
 		]
 	},
 	{
@@ -26310,6 +27552,9 @@
 			"(Song) ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (AAA Rank)"
 		]
 	},
 	{
@@ -26321,6 +27566,9 @@
 			"(Song) ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～ by KAH feat.こにゃばた) (S Rank)"
 		]
 	},
 	{
@@ -26332,6 +27580,9 @@
 			"(Song) まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (Pass)"
 		]
 	},
 	{
@@ -26343,6 +27594,9 @@
 			"(Song) まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (AA Rank)"
 		]
 	},
 	{
@@ -26354,6 +27608,9 @@
 			"(Song) まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (AAA Rank)"
 		]
 	},
 	{
@@ -26365,6 +27622,9 @@
 			"(Song) まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄 by かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\") (S Rank)"
 		]
 	},
 	{
@@ -26456,6 +27716,9 @@
 			"(Song) ゔぉるみっくす!!!! by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -26467,6 +27730,9 @@
 			"(Song) ゔぉるみっくす!!!! by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -26478,6 +27744,9 @@
 			"(Song) ゔぉるみっくす!!!! by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -26489,6 +27758,9 @@
 			"(Song) ゔぉるみっくす!!!! by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ゔぉるみっくす!!!! by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -27820,6 +29092,9 @@
 			"(Song) ホワイトパレード by 梅干茶漬け",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ホワイトパレード by 梅干茶漬け) (Pass)"
 		]
 	},
 	{
@@ -27831,6 +29106,9 @@
 			"(Song) ホワイトパレード by 梅干茶漬け",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ホワイトパレード by 梅干茶漬け) (AA Rank)"
 		]
 	},
 	{
@@ -27842,6 +29120,9 @@
 			"(Song) ホワイトパレード by 梅干茶漬け",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ホワイトパレード by 梅干茶漬け) (AAA Rank)"
 		]
 	},
 	{
@@ -27853,6 +29134,9 @@
 			"(Song) ホワイトパレード by 梅干茶漬け",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ホワイトパレード by 梅干茶漬け) (S Rank)"
 		]
 	},
 	{
@@ -27866,6 +29150,9 @@
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (Pass)"
 		]
 	},
 	{
@@ -27879,6 +29166,9 @@
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (AA Rank)"
 		]
 	},
 	{
@@ -27892,6 +29182,9 @@
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (AAA Rank)"
 		]
 	},
 	{
@@ -27905,6 +29198,9 @@
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (ボルテ体操第一 by Kaoru feat.FG75) (S Rank)"
 		]
 	},
 	{
@@ -27916,6 +29212,9 @@
 			"(Song) マサカリブレイド by REDALiCE",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マサカリブレイド by REDALiCE) (Pass)"
 		]
 	},
 	{
@@ -27927,6 +29226,9 @@
 			"(Song) マサカリブレイド by REDALiCE",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マサカリブレイド by REDALiCE) (AA Rank)"
 		]
 	},
 	{
@@ -27938,6 +29240,9 @@
 			"(Song) マサカリブレイド by REDALiCE",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マサカリブレイド by REDALiCE) (AAA Rank)"
 		]
 	},
 	{
@@ -27949,6 +29254,9 @@
 			"(Song) マサカリブレイド by REDALiCE",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マサカリブレイド by REDALiCE) (S Rank)"
 		]
 	},
 	{
@@ -28040,6 +29348,9 @@
 			"(Song) ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (Pass)"
 		]
 	},
 	{
@@ -28051,6 +29362,9 @@
 			"(Song) ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (AA Rank)"
 		]
 	},
 	{
@@ -28062,6 +29376,9 @@
 			"(Song) ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (AAA Rank)"
 		]
 	},
 	{
@@ -28073,6 +29390,9 @@
 			"(Song) ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (ミュージックプレイヤー by Retropolitaliens(Ms.+駄々子)) (S Rank)"
 		]
 	},
 	{
@@ -28964,6 +30284,9 @@
 			"(Song) 光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (Pass)"
 		]
 	},
 	{
@@ -28975,6 +30298,9 @@
 			"(Song) 光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (AA Rank)"
 		]
 	},
 	{
@@ -28986,6 +30312,9 @@
 			"(Song) 光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (AAA Rank)"
 		]
 	},
 	{
@@ -28997,6 +30326,9 @@
 			"(Song) 光射す澪のユズリハ by Cororo feat.Yuria Miyazono",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (光射す澪のユズリハ by Cororo feat.Yuria Miyazono) (S Rank)"
 		]
 	},
 	{
@@ -29848,6 +31180,9 @@
 			"(Song) 星の透る夏空に願う by Yu-dachi",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (星の透る夏空に願う by Yu-dachi) (Pass)"
 		]
 	},
 	{
@@ -29859,6 +31194,9 @@
 			"(Song) 星の透る夏空に願う by Yu-dachi",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (星の透る夏空に願う by Yu-dachi) (AA Rank)"
 		]
 	},
 	{
@@ -29870,6 +31208,9 @@
 			"(Song) 星の透る夏空に願う by Yu-dachi",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (星の透る夏空に願う by Yu-dachi) (AAA Rank)"
 		]
 	},
 	{
@@ -29881,6 +31222,9 @@
 			"(Song) 星の透る夏空に願う by Yu-dachi",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (星の透る夏空に願う by Yu-dachi) (S Rank)"
 		]
 	},
 	{
@@ -30172,6 +31516,9 @@
 			"(Song) 極夜、暁を望んで by めと（Metomate）",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (極夜、暁を望んで by めと（Metomate）) (Pass)"
 		]
 	},
 	{
@@ -30183,6 +31530,9 @@
 			"(Song) 極夜、暁を望んで by めと（Metomate）",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (極夜、暁を望んで by めと（Metomate）) (AA Rank)"
 		]
 	},
 	{
@@ -30194,6 +31544,9 @@
 			"(Song) 極夜、暁を望んで by めと（Metomate）",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (極夜、暁を望んで by めと（Metomate）) (AAA Rank)"
 		]
 	},
 	{
@@ -30205,6 +31558,9 @@
 			"(Song) 極夜、暁を望んで by めと（Metomate）",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (極夜、暁を望んで by めと（Metomate）) (S Rank)"
 		]
 	},
 	{
@@ -30536,6 +31892,9 @@
 			"(Song) 準備運動 by すのうまん",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (準備運動 by すのうまん) (Pass)"
 		]
 	},
 	{
@@ -30547,6 +31906,9 @@
 			"(Song) 準備運動 by すのうまん",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (準備運動 by すのうまん) (AA Rank)"
 		]
 	},
 	{
@@ -30558,6 +31920,9 @@
 			"(Song) 準備運動 by すのうまん",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (準備運動 by すのうまん) (AAA Rank)"
 		]
 	},
 	{
@@ -30569,6 +31934,9 @@
 			"(Song) 準備運動 by すのうまん",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (準備運動 by すのうまん) (S Rank)"
 		]
 	},
 	{
@@ -30620,6 +31988,9 @@
 			"(Song) 灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (Pass)"
 		]
 	},
 	{
@@ -30631,6 +32002,9 @@
 			"(Song) 灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (AA Rank)"
 		]
 	},
 	{
@@ -30642,6 +32016,9 @@
 			"(Song) 灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (AAA Rank)"
 		]
 	},
 	{
@@ -30653,6 +32030,9 @@
 			"(Song) 灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (灼ナル刃、破カヰ譜 by Symholic feat.狛茉璃奈) (S Rank)"
 		]
 	},
 	{
@@ -30944,6 +32324,9 @@
 			"(Song) 祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (Pass)"
 		]
 	},
 	{
@@ -30955,6 +32338,9 @@
 			"(Song) 祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (AA Rank)"
 		]
 	},
 	{
@@ -30966,6 +32352,9 @@
 			"(Song) 祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (AAA Rank)"
 		]
 	},
 	{
@@ -30977,6 +32366,9 @@
 			"(Song) 祝福の色彩は想い結ぶ君たち迄 by Yu-dachi",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (祝福の色彩は想い結ぶ君たち迄 by Yu-dachi) (S Rank)"
 		]
 	},
 	{
@@ -31068,6 +32460,9 @@
 			"(Song) 神話に芽吹く by Cororo",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (神話に芽吹く by Cororo) (Pass)"
 		]
 	},
 	{
@@ -31079,6 +32474,9 @@
 			"(Song) 神話に芽吹く by Cororo",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (神話に芽吹く by Cororo) (AA Rank)"
 		]
 	},
 	{
@@ -31090,6 +32488,9 @@
 			"(Song) 神話に芽吹く by Cororo",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (神話に芽吹く by Cororo) (AAA Rank)"
 		]
 	},
 	{
@@ -31101,6 +32502,9 @@
 			"(Song) 神話に芽吹く by Cororo",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (神話に芽吹く by Cororo) (S Rank)"
 		]
 	},
 	{
@@ -31632,6 +33036,9 @@
 			"(Song) 超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -31643,6 +33050,9 @@
 			"(Song) 超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -31654,6 +33064,9 @@
 			"(Song) 超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -31665,6 +33078,9 @@
 			"(Song) 超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -31676,6 +33092,9 @@
 			"(Song) 超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (Pass)"
 		]
 	},
 	{
@@ -31687,6 +33106,9 @@
 			"(Song) 超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (AA Rank)"
 		]
 	},
 	{
@@ -31698,6 +33120,9 @@
 			"(Song) 超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (AAA Rank)"
 		]
 	},
 	{
@@ -31709,6 +33134,9 @@
 			"(Song) 超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (超越してしまった彼女と其を生み落した理由 by Ayatsugu_Otowa) (S Rank)"
 		]
 	},
 	{
@@ -32880,6 +34308,9 @@
 			"(Song) AYAKASHI by Hommarju",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (AYAKASHI by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -32891,6 +34322,9 @@
 			"(Song) AYAKASHI by Hommarju",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (AYAKASHI by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -32902,6 +34336,9 @@
 			"(Song) AYAKASHI by Hommarju",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (AYAKASHI by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -32913,6 +34350,9 @@
 			"(Song) AYAKASHI by Hommarju",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (AYAKASHI by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -33324,6 +34764,9 @@
 			"(Song) Appliqué by モリモリあつし",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Appliqué by モリモリあつし) (Pass)"
 		]
 	},
 	{
@@ -33335,6 +34778,9 @@
 			"(Song) Appliqué by モリモリあつし",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Appliqué by モリモリあつし) (AA Rank)"
 		]
 	},
 	{
@@ -33346,6 +34792,9 @@
 			"(Song) Appliqué by モリモリあつし",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Appliqué by モリモリあつし) (AAA Rank)"
 		]
 	},
 	{
@@ -33357,6 +34806,9 @@
 			"(Song) Appliqué by モリモリあつし",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Appliqué by モリモリあつし) (S Rank)"
 		]
 	},
 	{
@@ -33408,6 +34860,9 @@
 			"(Song) Arcade Prison by MAD CHILD vs. siromaru",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (Pass)"
 		]
 	},
 	{
@@ -33419,6 +34874,9 @@
 			"(Song) Arcade Prison by MAD CHILD vs. siromaru",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (AA Rank)"
 		]
 	},
 	{
@@ -33430,6 +34888,9 @@
 			"(Song) Arcade Prison by MAD CHILD vs. siromaru",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (AAA Rank)"
 		]
 	},
 	{
@@ -33441,6 +34902,9 @@
 			"(Song) Arcade Prison by MAD CHILD vs. siromaru",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Arcade Prison by MAD CHILD vs. siromaru) (S Rank)"
 		]
 	},
 	{
@@ -33612,6 +35076,9 @@
 			"(Song) BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (Pass)"
 		]
 	},
 	{
@@ -33623,6 +35090,9 @@
 			"(Song) BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (AA Rank)"
 		]
 	},
 	{
@@ -33634,6 +35104,9 @@
 			"(Song) BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)"
 		]
 	},
 	{
@@ -33645,6 +35118,9 @@
 			"(Song) BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (BLIZZARD BEAT by SOUND HOLIC feat. Nana Takahashi) (S Rank)"
 		]
 	},
 	{
@@ -33776,6 +35252,9 @@
 			"(Song) Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (Pass)"
 		]
 	},
 	{
@@ -33787,6 +35266,9 @@
 			"(Song) Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (AA Rank)"
 		]
 	},
 	{
@@ -33798,6 +35280,9 @@
 			"(Song) Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (AAA Rank)"
 		]
 	},
 	{
@@ -33809,6 +35294,9 @@
 			"(Song) Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {GRA5P WAVES} by GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）) (S Rank)"
 		]
 	},
 	{
@@ -33820,6 +35308,9 @@
 			"(Song) Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (Pass)"
 		]
 	},
 	{
@@ -33831,6 +35322,9 @@
 			"(Song) Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (AA Rank)"
 		]
 	},
 	{
@@ -33842,6 +35336,9 @@
 			"(Song) Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (AAA Rank)"
 		]
 	},
 	{
@@ -33853,6 +35350,9 @@
 			"(Song) Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Believe (y)our Wings {V:IVID RAYS} by RASIS COLORS（かめりあ ft. 紫崎 雪、ぁゅ、かぼちゃ、Kuroa*、SOPHY、みかん汁、みゅい）) (S Rank)"
 		]
 	},
 	{
@@ -34424,6 +35924,9 @@
 			"(Song) CUTIE☆EX-DREAM by BlackY",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (CUTIE☆EX-DREAM by BlackY) (Pass)"
 		]
 	},
 	{
@@ -34435,6 +35938,9 @@
 			"(Song) CUTIE☆EX-DREAM by BlackY",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (CUTIE☆EX-DREAM by BlackY) (AA Rank)"
 		]
 	},
 	{
@@ -34446,6 +35952,9 @@
 			"(Song) CUTIE☆EX-DREAM by BlackY",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (CUTIE☆EX-DREAM by BlackY) (AAA Rank)"
 		]
 	},
 	{
@@ -34457,6 +35966,9 @@
 			"(Song) CUTIE☆EX-DREAM by BlackY",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (CUTIE☆EX-DREAM by BlackY) (S Rank)"
 		]
 	},
 	{
@@ -34508,6 +36020,9 @@
 			"(Song) Chakra by uma",
 			"(Goal) Pass",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Chakra by uma) (Pass)"
 		]
 	},
 	{
@@ -34519,6 +36034,9 @@
 			"(Song) Chakra by uma",
 			"(Goal) AA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Chakra by uma) (AA Rank)"
 		]
 	},
 	{
@@ -34530,6 +36048,9 @@
 			"(Song) Chakra by uma",
 			"(Goal) AAA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Chakra by uma) (AAA Rank)"
 		]
 	},
 	{
@@ -34541,6 +36062,9 @@
 			"(Song) Chakra by uma",
 			"(Goal) S Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (Chakra by uma) (S Rank)"
 		]
 	},
 	{
@@ -34992,6 +36516,9 @@
 			"(Song) Cy-Bird by Yooh",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Cy-Bird by Yooh) (Pass)"
 		]
 	},
 	{
@@ -35003,6 +36530,9 @@
 			"(Song) Cy-Bird by Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Cy-Bird by Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -35014,6 +36544,9 @@
 			"(Song) Cy-Bird by Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Cy-Bird by Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -35025,6 +36558,9 @@
 			"(Song) Cy-Bird by Yooh",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Cy-Bird by Yooh) (S Rank)"
 		]
 	},
 	{
@@ -35036,6 +36572,9 @@
 			"(Song) D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (Pass)"
 		]
 	},
 	{
@@ -35047,6 +36586,9 @@
 			"(Song) D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (AA Rank)"
 		]
 	},
 	{
@@ -35058,6 +36600,9 @@
 			"(Song) D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (AAA Rank)"
 		]
 	},
 	{
@@ -35069,6 +36614,9 @@
 			"(Song) D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (D1g1t1ze b0dy by シルクパラソル（yoa＆かゆき） feat. まめこ) (S Rank)"
 		]
 	},
 	{
@@ -35520,6 +37068,9 @@
 			"(Song) Destroy by Yooh",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Destroy by Yooh) (Pass)"
 		]
 	},
 	{
@@ -35531,6 +37082,9 @@
 			"(Song) Destroy by Yooh",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Destroy by Yooh) (AA Rank)"
 		]
 	},
 	{
@@ -35542,6 +37096,9 @@
 			"(Song) Destroy by Yooh",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Destroy by Yooh) (AAA Rank)"
 		]
 	},
 	{
@@ -35553,6 +37110,9 @@
 			"(Song) Destroy by Yooh",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Destroy by Yooh) (S Rank)"
 		]
 	},
 	{
@@ -35724,6 +37284,9 @@
 			"(Song) Discloze by lapix",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Discloze by lapix) (Pass)"
 		]
 	},
 	{
@@ -35735,6 +37298,9 @@
 			"(Song) Discloze by lapix",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Discloze by lapix) (AA Rank)"
 		]
 	},
 	{
@@ -35746,6 +37312,9 @@
 			"(Song) Discloze by lapix",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Discloze by lapix) (AAA Rank)"
 		]
 	},
 	{
@@ -35757,6 +37326,9 @@
 			"(Song) Discloze by lapix",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Discloze by lapix) (S Rank)"
 		]
 	},
 	{
@@ -37008,6 +38580,9 @@
 			"(Song) Follow Up by あるふぁ",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Follow Up by あるふぁ) (Pass)"
 		]
 	},
 	{
@@ -37019,6 +38594,9 @@
 			"(Song) Follow Up by あるふぁ",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Follow Up by あるふぁ) (AA Rank)"
 		]
 	},
 	{
@@ -37030,6 +38608,9 @@
 			"(Song) Follow Up by あるふぁ",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Follow Up by あるふぁ) (AAA Rank)"
 		]
 	},
 	{
@@ -37041,6 +38622,9 @@
 			"(Song) Follow Up by あるふぁ",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Follow Up by あるふぁ) (S Rank)"
 		]
 	},
 	{
@@ -37212,6 +38796,9 @@
 			"(Song) Fun walk!! by Enterskip",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Fun walk!! by Enterskip) (Pass)"
 		]
 	},
 	{
@@ -37223,6 +38810,9 @@
 			"(Song) Fun walk!! by Enterskip",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Fun walk!! by Enterskip) (AA Rank)"
 		]
 	},
 	{
@@ -37234,6 +38824,9 @@
 			"(Song) Fun walk!! by Enterskip",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Fun walk!! by Enterskip) (AAA Rank)"
 		]
 	},
 	{
@@ -37245,6 +38838,9 @@
 			"(Song) Fun walk!! by Enterskip",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Fun walk!! by Enterskip) (S Rank)"
 		]
 	},
 	{
@@ -37417,6 +39013,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Get back here by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -37429,6 +39028,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Get back here by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -37441,6 +39043,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Get back here by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -37453,6 +39058,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Get back here by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -37505,6 +39113,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Gott by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -37517,6 +39128,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Gott by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -37529,6 +39143,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Gott by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -37541,6 +39158,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Gott by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -37713,6 +39333,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (Pass)"
 		]
 	},
 	{
@@ -37725,6 +39348,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (AA Rank)"
 		]
 	},
 	{
@@ -37737,6 +39363,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (AAA Rank)"
 		]
 	},
 	{
@@ -37749,6 +39378,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (HEAVENLY SMILE by VALLEYSTONE feat. 紫崎 雪) (S Rank)"
 		]
 	},
 	{
@@ -37800,6 +39432,9 @@
 			"(Song) Happy Sensation by IckPo",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Happy Sensation by IckPo) (Pass)"
 		]
 	},
 	{
@@ -37811,6 +39446,9 @@
 			"(Song) Happy Sensation by IckPo",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Happy Sensation by IckPo) (AA Rank)"
 		]
 	},
 	{
@@ -37822,6 +39460,9 @@
 			"(Song) Happy Sensation by IckPo",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Happy Sensation by IckPo) (AAA Rank)"
 		]
 	},
 	{
@@ -37833,6 +39474,9 @@
 			"(Song) Happy Sensation by IckPo",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Happy Sensation by IckPo) (S Rank)"
 		]
 	},
 	{
@@ -38244,6 +39888,9 @@
 			"(Song) I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (Pass)"
 		]
 	},
 	{
@@ -38255,6 +39902,9 @@
 			"(Song) I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (AA Rank)"
 		]
 	},
 	{
@@ -38266,6 +39916,9 @@
 			"(Song) I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (AAA Rank)"
 		]
 	},
 	{
@@ -38277,6 +39930,9 @@
 			"(Song) I Left for my Right by あの日字数制限に負けて追い出された「ゃ」",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (I Left for my Right by あの日字数制限に負けて追い出された「ゃ」) (S Rank)"
 		]
 	},
 	{
@@ -38369,6 +40025,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (Pass)"
 		]
 	},
 	{
@@ -38381,6 +40040,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (AA Rank)"
 		]
 	},
 	{
@@ -38393,6 +40055,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)"
 		]
 	},
 	{
@@ -38405,6 +40070,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (INDEPENDENT SKY by SOUND HOLIC feat. Nana Takahashi) (S Rank)"
 		]
 	},
 	{
@@ -39297,6 +40965,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Battalion by ETIA.) (Pass)"
 		]
 	},
 	{
@@ -39309,6 +40980,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Battalion by ETIA.) (AA Rank)"
 		]
 	},
 	{
@@ -39321,6 +40995,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Battalion by ETIA.) (AAA Rank)"
 		]
 	},
 	{
@@ -39333,6 +41010,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Last Battalion by ETIA.) (S Rank)"
 		]
 	},
 	{
@@ -40024,6 +41704,9 @@
 			"(Song) Made In Love by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Made In Love by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -40035,6 +41718,9 @@
 			"(Song) Made In Love by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Made In Love by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -40046,6 +41732,9 @@
 			"(Song) Made In Love by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Made In Love by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -40057,6 +41746,9 @@
 			"(Song) Made In Love by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Made In Love by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -40588,6 +42280,9 @@
 			"(Song) Nofram by unatra",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nofram by unatra) (Pass)"
 		]
 	},
 	{
@@ -40599,6 +42294,9 @@
 			"(Song) Nofram by unatra",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nofram by unatra) (AA Rank)"
 		]
 	},
 	{
@@ -40610,6 +42308,9 @@
 			"(Song) Nofram by unatra",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nofram by unatra) (AAA Rank)"
 		]
 	},
 	{
@@ -40621,6 +42322,9 @@
 			"(Song) Nofram by unatra",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Nofram by unatra) (S Rank)"
 		]
 	},
 	{
@@ -40872,6 +42576,9 @@
 			"(Song) PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (Pass)"
 		]
 	},
 	{
@@ -40883,6 +42590,9 @@
 			"(Song) PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (AA Rank)"
 		]
 	},
 	{
@@ -40894,6 +42604,9 @@
 			"(Song) PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)"
 		]
 	},
 	{
@@ -40905,6 +42618,9 @@
 			"(Song) PLANISPHERE by SOUND HOLIC feat. Nana Takahashi",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (PLANISPHERE by SOUND HOLIC feat. Nana Takahashi) (S Rank)"
 		]
 	},
 	{
@@ -41357,6 +43073,9 @@
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Poppin’Cats!! by やどりぎ) (Pass)"
 		]
 	},
 	{
@@ -41369,6 +43088,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Poppin’Cats!! by やどりぎ) (AA Rank)"
 		]
 	},
 	{
@@ -41381,6 +43103,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Poppin’Cats!! by やどりぎ) (AAA Rank)"
 		]
 	},
 	{
@@ -41393,6 +43118,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Poppin’Cats!! by やどりぎ) (S Rank)"
 		]
 	},
 	{
@@ -41684,6 +43412,9 @@
 			"(Song) REGALIA by Riz",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (REGALIA by Riz) (Pass)"
 		]
 	},
 	{
@@ -41695,6 +43426,9 @@
 			"(Song) REGALIA by Riz",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (REGALIA by Riz) (AA Rank)"
 		]
 	},
 	{
@@ -41706,6 +43440,9 @@
 			"(Song) REGALIA by Riz",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (REGALIA by Riz) (AAA Rank)"
 		]
 	},
 	{
@@ -41717,6 +43454,9 @@
 			"(Song) REGALIA by Riz",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (REGALIA by Riz) (S Rank)"
 		]
 	},
 	{
@@ -41849,6 +43589,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Rebuilding of Paradise Lost by Laur) (Pass)"
 		]
 	},
 	{
@@ -41861,6 +43604,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Rebuilding of Paradise Lost by Laur) (AA Rank)"
 		]
 	},
 	{
@@ -41873,6 +43619,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Rebuilding of Paradise Lost by Laur) (AAA Rank)"
 		]
 	},
 	{
@@ -41885,6 +43634,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Rebuilding of Paradise Lost by Laur) (S Rank)"
 		]
 	},
 	{
@@ -42016,6 +43768,9 @@
 			"(Song) Resonant Gear by Endorfin.",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Resonant Gear by Endorfin.) (Pass)"
 		]
 	},
 	{
@@ -42027,6 +43782,9 @@
 			"(Song) Resonant Gear by Endorfin.",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Resonant Gear by Endorfin.) (AA Rank)"
 		]
 	},
 	{
@@ -42038,6 +43796,9 @@
 			"(Song) Resonant Gear by Endorfin.",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Resonant Gear by Endorfin.) (AAA Rank)"
 		]
 	},
 	{
@@ -42049,6 +43810,9 @@
 			"(Song) Resonant Gear by Endorfin.",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (Resonant Gear by Endorfin.) (S Rank)"
 		]
 	},
 	{
@@ -43100,6 +44864,9 @@
 			"(Song) Space Diver Tama by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Space Diver Tama by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -43111,6 +44878,9 @@
 			"(Song) Space Diver Tama by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Space Diver Tama by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -43122,6 +44892,9 @@
 			"(Song) Space Diver Tama by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Space Diver Tama by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -43133,6 +44906,9 @@
 			"(Song) Space Diver Tama by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Space Diver Tama by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -43745,6 +45521,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (Pass)"
 		]
 	},
 	{
@@ -43757,6 +45536,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (AA Rank)"
 		]
 	},
 	{
@@ -43769,6 +45551,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (AAA Rank)"
 		]
 	},
 	{
@@ -43781,6 +45566,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (TYCOON by SOUND HOLIC feat. Nana Takahashi) (S Rank)"
 		]
 	},
 	{
@@ -44192,6 +45980,9 @@
 			"(Song) Twin Rocket by uno feat.ちよこ(IOSYS)",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (Pass)"
 		]
 	},
 	{
@@ -44203,6 +45994,9 @@
 			"(Song) Twin Rocket by uno feat.ちよこ(IOSYS)",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (AA Rank)"
 		]
 	},
 	{
@@ -44214,6 +46008,9 @@
 			"(Song) Twin Rocket by uno feat.ちよこ(IOSYS)",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (AAA Rank)"
 		]
 	},
 	{
@@ -44225,6 +46022,9 @@
 			"(Song) Twin Rocket by uno feat.ちよこ(IOSYS)",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Twin Rocket by uno feat.ちよこ(IOSYS)) (S Rank)"
 		]
 	},
 	{
@@ -44357,6 +46157,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (Pass)"
 		]
 	},
 	{
@@ -44369,6 +46172,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (AA Rank)"
 		]
 	},
 	{
@@ -44381,6 +46187,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (AAA Rank)"
 		]
 	},
 	{
@@ -44393,6 +46202,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (VIVIDWAVERS by SDVX SOUND UNION) (S Rank)"
 		]
 	},
 	{
@@ -44404,6 +46216,9 @@
 			"(Song) VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (Pass)"
 		]
 	},
 	{
@@ -44415,6 +46230,9 @@
 			"(Song) VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (AA Rank)"
 		]
 	},
 	{
@@ -44426,6 +46244,9 @@
 			"(Song) VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (AAA Rank)"
 		]
 	},
 	{
@@ -44437,6 +46258,9 @@
 			"(Song) VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\"",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES IV by BEMANI Sound Team \"Sota Fujimori\") (S Rank)"
 		]
 	},
 	{
@@ -45568,6 +47392,9 @@
 			"(Song) choux à la crème by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (choux à la crème by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -45579,6 +47406,9 @@
 			"(Song) choux à la crème by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (choux à la crème by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -45590,6 +47420,9 @@
 			"(Song) choux à la crème by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (choux à la crème by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -45601,6 +47434,9 @@
 			"(Song) choux à la crème by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (choux à la crème by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -46092,6 +47928,9 @@
 			"(Song) freaky freak by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (freaky freak by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -46103,6 +47942,9 @@
 			"(Song) freaky freak by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (freaky freak by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -46114,6 +47956,9 @@
 			"(Song) freaky freak by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (freaky freak by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -46125,6 +47970,9 @@
 			"(Song) freaky freak by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (freaky freak by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -46216,6 +48064,9 @@
 			"(Song) good high school by baker",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (good high school by baker) (Pass)"
 		]
 	},
 	{
@@ -46227,6 +48078,9 @@
 			"(Song) good high school by baker",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (good high school by baker) (AA Rank)"
 		]
 	},
 	{
@@ -46238,6 +48092,9 @@
 			"(Song) good high school by baker",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (good high school by baker) (AAA Rank)"
 		]
 	},
 	{
@@ -46249,6 +48106,9 @@
 			"(Song) good high school by baker",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (good high school by baker) (S Rank)"
 		]
 	},
 	{
@@ -46500,6 +48360,9 @@
 			"(Song) scary night by 岸田教団＆THE明星ロケッツ",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (Pass)"
 		]
 	},
 	{
@@ -46511,6 +48374,9 @@
 			"(Song) scary night by 岸田教団＆THE明星ロケッツ",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (AA Rank)"
 		]
 	},
 	{
@@ -46522,6 +48388,9 @@
 			"(Song) scary night by 岸田教団＆THE明星ロケッツ",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (AAA Rank)"
 		]
 	},
 	{
@@ -46533,6 +48402,9 @@
 			"(Song) scary night by 岸田教団＆THE明星ロケッツ",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (scary night by 岸田教団＆THE明星ロケッツ) (S Rank)"
 		]
 	},
 	{
@@ -46624,6 +48496,9 @@
 			"(Song) sparky spark by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (sparky spark by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -46635,6 +48510,9 @@
 			"(Song) sparky spark by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (sparky spark by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -46646,6 +48524,9 @@
 			"(Song) sparky spark by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (sparky spark by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -46657,6 +48538,9 @@
 			"(Song) sparky spark by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (sparky spark by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -46748,6 +48632,9 @@
 			"(Song) ultra turbo by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (ultra turbo by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -46759,6 +48646,9 @@
 			"(Song) ultra turbo by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (ultra turbo by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -46770,6 +48660,9 @@
 			"(Song) ultra turbo by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (ultra turbo by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -46781,6 +48674,9 @@
 			"(Song) ultra turbo by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (ultra turbo by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -47272,6 +49168,9 @@
 			"(Song) いでぃおで結構！ by 諸星なな feat.加藤はるか",
 			"(Goal) Pass",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (Pass)"
 		]
 	},
 	{
@@ -47283,6 +49182,9 @@
 			"(Song) いでぃおで結構！ by 諸星なな feat.加藤はるか",
 			"(Goal) AA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (AA Rank)"
 		]
 	},
 	{
@@ -47294,6 +49196,9 @@
 			"(Song) いでぃおで結構！ by 諸星なな feat.加藤はるか",
 			"(Goal) AAA Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (AAA Rank)"
 		]
 	},
 	{
@@ -47305,6 +49210,9 @@
 			"(Song) いでぃおで結構！ by 諸星なな feat.加藤はるか",
 			"(Goal) S Rank",
 			"(Navigator) Lyric Rishuna"
+		],
+		"place_item": [
+			"CHAIN (いでぃおで結構！ by 諸星なな feat.加藤はるか) (S Rank)"
 		]
 	},
 	{
@@ -47636,6 +49544,9 @@
 			"(Song) きらきらタイム☆ by さわわ",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (きらきらタイム☆ by さわわ) (Pass)"
 		]
 	},
 	{
@@ -47647,6 +49558,9 @@
 			"(Song) きらきらタイム☆ by さわわ",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (きらきらタイム☆ by さわわ) (AA Rank)"
 		]
 	},
 	{
@@ -47658,6 +49572,9 @@
 			"(Song) きらきらタイム☆ by さわわ",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (きらきらタイム☆ by さわわ) (AAA Rank)"
 		]
 	},
 	{
@@ -47669,6 +49586,9 @@
 			"(Song) きらきらタイム☆ by さわわ",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (きらきらタイム☆ by さわわ) (S Rank)"
 		]
 	},
 	{
@@ -47720,6 +49640,9 @@
 			"(Song) じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -47731,6 +49654,9 @@
 			"(Song) じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -47742,6 +49668,9 @@
 			"(Song) じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -47753,6 +49682,9 @@
 			"(Song) じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -50764,6 +52696,9 @@
 			"(Song) プラネタジャーニー by U-ske feat.棗いつき",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (Pass)"
 		]
 	},
 	{
@@ -50775,6 +52710,9 @@
 			"(Song) プラネタジャーニー by U-ske feat.棗いつき",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (AA Rank)"
 		]
 	},
 	{
@@ -50786,6 +52724,9 @@
 			"(Song) プラネタジャーニー by U-ske feat.棗いつき",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (AAA Rank)"
 		]
 	},
 	{
@@ -50797,6 +52738,9 @@
 			"(Song) プラネタジャーニー by U-ske feat.棗いつき",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (プラネタジャーニー by U-ske feat.棗いつき) (S Rank)"
 		]
 	},
 	{
@@ -51768,6 +53712,9 @@
 			"(Song) 伊邪那美白山姫大神 by Morrigan feat. リリィ",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (Pass)"
 		]
 	},
 	{
@@ -51779,6 +53726,9 @@
 			"(Song) 伊邪那美白山姫大神 by Morrigan feat. リリィ",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (AA Rank)"
 		]
 	},
 	{
@@ -51790,6 +53740,9 @@
 			"(Song) 伊邪那美白山姫大神 by Morrigan feat. リリィ",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (AAA Rank)"
 		]
 	},
 	{
@@ -51801,6 +53754,9 @@
 			"(Song) 伊邪那美白山姫大神 by Morrigan feat. リリィ",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (伊邪那美白山姫大神 by Morrigan feat. リリィ) (S Rank)"
 		]
 	},
 	{
@@ -52172,6 +54128,9 @@
 			"(Song) 君は Fantasista by 杉下 トキヤ",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (君は Fantasista by 杉下 トキヤ) (Pass)"
 		]
 	},
 	{
@@ -52183,6 +54142,9 @@
 			"(Song) 君は Fantasista by 杉下 トキヤ",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (君は Fantasista by 杉下 トキヤ) (AA Rank)"
 		]
 	},
 	{
@@ -52194,6 +54156,9 @@
 			"(Song) 君は Fantasista by 杉下 トキヤ",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (君は Fantasista by 杉下 トキヤ) (AAA Rank)"
 		]
 	},
 	{
@@ -52205,6 +54170,9 @@
 			"(Song) 君は Fantasista by 杉下 トキヤ",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (君は Fantasista by 杉下 トキヤ) (S Rank)"
 		]
 	},
 	{
@@ -52296,6 +54264,9 @@
 			"(Song) 夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (Pass)"
 		]
 	},
 	{
@@ -52307,6 +54278,9 @@
 			"(Song) 夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (AA Rank)"
 		]
 	},
 	{
@@ -52318,6 +54292,9 @@
 			"(Song) 夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (AAA Rank)"
 		]
 	},
 	{
@@ -52329,6 +54306,9 @@
 			"(Song) 夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (夢の終わり、世界のはじまり。 by TAKU1175 ft.駄々子) (S Rank)"
 		]
 	},
 	{
@@ -54460,6 +56440,9 @@
 			"(Song) 真夏の海の修道女 by bermei.inazawa",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (真夏の海の修道女 by bermei.inazawa) (Pass)"
 		]
 	},
 	{
@@ -54471,6 +56454,9 @@
 			"(Song) 真夏の海の修道女 by bermei.inazawa",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (真夏の海の修道女 by bermei.inazawa) (AA Rank)"
 		]
 	},
 	{
@@ -54482,6 +56468,9 @@
 			"(Song) 真夏の海の修道女 by bermei.inazawa",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (真夏の海の修道女 by bermei.inazawa) (AAA Rank)"
 		]
 	},
 	{
@@ -54493,6 +56482,9 @@
 			"(Song) 真夏の海の修道女 by bermei.inazawa",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (真夏の海の修道女 by bermei.inazawa) (S Rank)"
 		]
 	},
 	{
@@ -54744,6 +56736,9 @@
 			"(Song) 紅の剣舞 by かねこちはる",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (紅の剣舞 by かねこちはる) (Pass)"
 		]
 	},
 	{
@@ -54755,6 +56750,9 @@
 			"(Song) 紅の剣舞 by かねこちはる",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (紅の剣舞 by かねこちはる) (AA Rank)"
 		]
 	},
 	{
@@ -54766,6 +56764,9 @@
 			"(Song) 紅の剣舞 by かねこちはる",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (紅の剣舞 by かねこちはる) (AAA Rank)"
 		]
 	},
 	{
@@ -54777,6 +56778,9 @@
 			"(Song) 紅の剣舞 by かねこちはる",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (紅の剣舞 by かねこちはる) (S Rank)"
 		]
 	},
 	{
@@ -55148,6 +57152,9 @@
 			"(Song) 運命超過乃巡合 by Aoi feat. Gra+yanshu",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (Pass)"
 		]
 	},
 	{
@@ -55159,6 +57166,9 @@
 			"(Song) 運命超過乃巡合 by Aoi feat. Gra+yanshu",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (AA Rank)"
 		]
 	},
 	{
@@ -55170,6 +57180,9 @@
 			"(Song) 運命超過乃巡合 by Aoi feat. Gra+yanshu",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (AAA Rank)"
 		]
 	},
 	{
@@ -55181,6 +57194,9 @@
 			"(Song) 運命超過乃巡合 by Aoi feat. Gra+yanshu",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (運命超過乃巡合 by Aoi feat. Gra+yanshu) (S Rank)"
 		]
 	},
 	{
@@ -55592,6 +57608,9 @@
 			"(Song) 雲海 by 椎名　豪",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (雲海 by 椎名　豪) (Pass)"
 		]
 	},
 	{
@@ -55603,6 +57622,9 @@
 			"(Song) 雲海 by 椎名　豪",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (雲海 by 椎名　豪) (AA Rank)"
 		]
 	},
 	{
@@ -55614,6 +57636,9 @@
 			"(Song) 雲海 by 椎名　豪",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (雲海 by 椎名　豪) (AAA Rank)"
 		]
 	},
 	{
@@ -55625,6 +57650,9 @@
 			"(Song) 雲海 by 椎名　豪",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (雲海 by 椎名　豪) (S Rank)"
 		]
 	},
 	{
@@ -57236,6 +59264,9 @@
 			"(Song) Dawn of Asia by ginkiha+kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Dawn of Asia by ginkiha+kamome sano) (Pass)"
 		]
 	},
 	{
@@ -57247,6 +59278,9 @@
 			"(Song) Dawn of Asia by ginkiha+kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Dawn of Asia by ginkiha+kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -57258,6 +59292,9 @@
 			"(Song) Dawn of Asia by ginkiha+kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Dawn of Asia by ginkiha+kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -57269,6 +59306,9 @@
 			"(Song) Dawn of Asia by ginkiha+kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Dawn of Asia by ginkiha+kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -58360,6 +60400,9 @@
 			"(Song) Hyper☆Chipspace by Saiph",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Hyper☆Chipspace by Saiph) (Pass)"
 		]
 	},
 	{
@@ -58371,6 +60414,9 @@
 			"(Song) Hyper☆Chipspace by Saiph",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Hyper☆Chipspace by Saiph) (AA Rank)"
 		]
 	},
 	{
@@ -58382,6 +60428,9 @@
 			"(Song) Hyper☆Chipspace by Saiph",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Hyper☆Chipspace by Saiph) (AAA Rank)"
 		]
 	},
 	{
@@ -58393,6 +60442,9 @@
 			"(Song) Hyper☆Chipspace by Saiph",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Hyper☆Chipspace by Saiph) (S Rank)"
 		]
 	},
 	{
@@ -59164,6 +61216,9 @@
 			"(Song) Milkyway - memorable - by こふ",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Milkyway - memorable - by こふ) (Pass)"
 		]
 	},
 	{
@@ -59175,6 +61230,9 @@
 			"(Song) Milkyway - memorable - by こふ",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Milkyway - memorable - by こふ) (AA Rank)"
 		]
 	},
 	{
@@ -59186,6 +61244,9 @@
 			"(Song) Milkyway - memorable - by こふ",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Milkyway - memorable - by こふ) (AAA Rank)"
 		]
 	},
 	{
@@ -59197,6 +61258,9 @@
 			"(Song) Milkyway - memorable - by こふ",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (Milkyway - memorable - by こふ) (S Rank)"
 		]
 	},
 	{
@@ -60968,6 +63032,9 @@
 			"(Song) Sounds Of Summer by Hommarju",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Sounds Of Summer by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -60979,6 +63046,9 @@
 			"(Song) Sounds Of Summer by Hommarju",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Sounds Of Summer by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -60990,6 +63060,9 @@
 			"(Song) Sounds Of Summer by Hommarju",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Sounds Of Summer by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -61001,6 +63074,9 @@
 			"(Song) Sounds Of Summer by Hommarju",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Sounds Of Summer by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -61012,6 +63088,9 @@
 			"(Song) Sourire by とろまる",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Sourire by とろまる) (Pass)"
 		]
 	},
 	{
@@ -61023,6 +63102,9 @@
 			"(Song) Sourire by とろまる",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Sourire by とろまる) (AA Rank)"
 		]
 	},
 	{
@@ -61034,6 +63116,9 @@
 			"(Song) Sourire by とろまる",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Sourire by とろまる) (AAA Rank)"
 		]
 	},
 	{
@@ -61045,6 +63130,9 @@
 			"(Song) Sourire by とろまる",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Sourire by とろまる) (S Rank)"
 		]
 	},
 	{
@@ -61537,6 +63625,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (TrailBlazer by cold kiss) (Pass)"
 		]
 	},
 	{
@@ -61549,6 +63640,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (TrailBlazer by cold kiss) (AA Rank)"
 		]
 	},
 	{
@@ -61561,6 +63655,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (TrailBlazer by cold kiss) (AAA Rank)"
 		]
 	},
 	{
@@ -61573,6 +63670,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (TrailBlazer by cold kiss) (S Rank)"
 		]
 	},
 	{
@@ -61585,6 +63685,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Twin Blaster by polysha+tcheb) (Pass)"
 		]
 	},
 	{
@@ -61597,6 +63700,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Twin Blaster by polysha+tcheb) (AA Rank)"
 		]
 	},
 	{
@@ -61609,6 +63715,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Twin Blaster by polysha+tcheb) (AAA Rank)"
 		]
 	},
 	{
@@ -61621,6 +63730,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Twin Blaster by polysha+tcheb) (S Rank)"
 		]
 	},
 	{
@@ -61872,6 +63984,9 @@
 			"(Song) VOLTEXES III by Sota Fujimori",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES III by Sota Fujimori) (Pass)"
 		]
 	},
 	{
@@ -61883,6 +63998,9 @@
 			"(Song) VOLTEXES III by Sota Fujimori",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES III by Sota Fujimori) (AA Rank)"
 		]
 	},
 	{
@@ -61894,6 +64012,9 @@
 			"(Song) VOLTEXES III by Sota Fujimori",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES III by Sota Fujimori) (AAA Rank)"
 		]
 	},
 	{
@@ -61905,6 +64026,9 @@
 			"(Song) VOLTEXES III by Sota Fujimori",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (VOLTEXES III by Sota Fujimori) (S Rank)"
 		]
 	},
 	{
@@ -61917,6 +64041,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Violet Soul by Soleily) (Pass)"
 		]
 	},
 	{
@@ -61929,6 +64056,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Violet Soul by Soleily) (AA Rank)"
 		]
 	},
 	{
@@ -61941,6 +64071,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Violet Soul by Soleily) (AAA Rank)"
 		]
 	},
 	{
@@ -61953,6 +64086,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Violet Soul by Soleily) (S Rank)"
 		]
 	},
 	{
@@ -62004,6 +64140,9 @@
 			"(Song) Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (Pass)"
 		]
 	},
 	{
@@ -62015,6 +64154,9 @@
 			"(Song) Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (AA Rank)"
 		]
 	},
 	{
@@ -62026,6 +64168,9 @@
 			"(Song) Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (AAA Rank)"
 		]
 	},
 	{
@@ -62037,6 +64182,9 @@
 			"(Song) Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U (Colorful QT3 nekomix) by ねこみりん feat.えみゅう。×みゆ×小宮真央) (S Rank)"
 		]
 	},
 	{
@@ -62048,6 +64196,9 @@
 			"(Song) Wuv U(pico/ustic rmx) by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -62059,6 +64210,9 @@
 			"(Song) Wuv U(pico/ustic rmx) by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -62070,6 +64224,9 @@
 			"(Song) Wuv U(pico/ustic rmx) by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -62081,6 +64238,9 @@
 			"(Song) Wuv U(pico/ustic rmx) by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U(pico/ustic rmx) by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -62172,6 +64332,9 @@
 			"(Song) archive::zip by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (archive::zip by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -62183,6 +64346,9 @@
 			"(Song) archive::zip by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (archive::zip by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -62194,6 +64360,9 @@
 			"(Song) archive::zip by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (archive::zip by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -62205,6 +64374,9 @@
 			"(Song) archive::zip by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH"
+		],
+		"place_item": [
+			"CHAIN (archive::zip by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -62336,6 +64508,9 @@
 			"(Song) crêpe suzette by kamome sano",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (crêpe suzette by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -62347,6 +64522,9 @@
 			"(Song) crêpe suzette by kamome sano",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (crêpe suzette by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -62358,6 +64536,9 @@
 			"(Song) crêpe suzette by kamome sano",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (crêpe suzette by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -62369,6 +64550,9 @@
 			"(Song) crêpe suzette by kamome sano",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (crêpe suzette by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -62500,6 +64684,9 @@
 			"(Song) eternita by cosMo＠暴走P",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (eternita by cosMo＠暴走P) (Pass)"
 		]
 	},
 	{
@@ -62511,6 +64698,9 @@
 			"(Song) eternita by cosMo＠暴走P",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (eternita by cosMo＠暴走P) (AA Rank)"
 		]
 	},
 	{
@@ -62522,6 +64712,9 @@
 			"(Song) eternita by cosMo＠暴走P",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (eternita by cosMo＠暴走P) (AAA Rank)"
 		]
 	},
 	{
@@ -62533,6 +64726,9 @@
 			"(Song) eternita by cosMo＠暴走P",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (eternita by cosMo＠暴走P) (S Rank)"
 		]
 	},
 	{
@@ -63224,6 +65420,9 @@
 			"(Song) ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (Pass)"
 		]
 	},
 	{
@@ -63235,6 +65434,9 @@
 			"(Song) ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (AA Rank)"
 		]
 	},
 	{
@@ -63246,6 +65448,9 @@
 			"(Song) ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (AAA Rank)"
 		]
 	},
 	{
@@ -63257,6 +65462,9 @@
 			"(Song) ちぇいす いん ざ さんしゃいん！！！ by ぺのれり",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (ちぇいす いん ざ さんしゃいん！！！ by ぺのれり) (S Rank)"
 		]
 	},
 	{
@@ -64029,6 +66237,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -64041,6 +66252,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -64053,6 +66267,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -64065,6 +66282,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\" by かめりあ feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -64716,6 +66936,9 @@
 			"(Song) トリコロール・ダイアリー by 梅干茶漬け",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (Pass)"
 		]
 	},
 	{
@@ -64727,6 +66950,9 @@
 			"(Song) トリコロール・ダイアリー by 梅干茶漬け",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (AA Rank)"
 		]
 	},
 	{
@@ -64738,6 +66964,9 @@
 			"(Song) トリコロール・ダイアリー by 梅干茶漬け",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (AAA Rank)"
 		]
 	},
 	{
@@ -64749,6 +66978,9 @@
 			"(Song) トリコロール・ダイアリー by 梅干茶漬け",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (トリコロール・ダイアリー by 梅干茶漬け) (S Rank)"
 		]
 	},
 	{
@@ -65480,6 +67712,9 @@
 			"(Song) ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
 			"(Goal) Pass",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (Pass)"
 		]
 	},
 	{
@@ -65491,6 +67726,9 @@
 			"(Song) ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
 			"(Goal) AA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (AA Rank)"
 		]
 	},
 	{
@@ -65502,6 +67740,9 @@
 			"(Song) ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
 			"(Goal) AAA Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (AAA Rank)"
 		]
 	},
 	{
@@ -65513,6 +67754,9 @@
 			"(Song) ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら",
 			"(Goal) S Rank",
 			"(Navigator) Kanade Yamashina"
+		],
+		"place_item": [
+			"CHAIN (ヤサイマシ☆ニンニクアブラオオメ by azuma feat. ななひら) (S Rank)"
 		]
 	},
 	{
@@ -69604,6 +71848,9 @@
 			"(Song) Le ×××× by Orange Vox+ ft.konomi*",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (Pass)"
 		]
 	},
 	{
@@ -69615,6 +71862,9 @@
 			"(Song) Le ×××× by Orange Vox+ ft.konomi*",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (AA Rank)"
 		]
 	},
 	{
@@ -69626,6 +71876,9 @@
 			"(Song) Le ×××× by Orange Vox+ ft.konomi*",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (AAA Rank)"
 		]
 	},
 	{
@@ -69637,6 +71890,9 @@
 			"(Song) Le ×××× by Orange Vox+ ft.konomi*",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (Le ×××× by Orange Vox+ ft.konomi*) (S Rank)"
 		]
 	},
 	{
@@ -70288,6 +72544,9 @@
 			"(Song) Poison Blood by udouddo",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Poison Blood by udouddo) (Pass)"
 		]
 	},
 	{
@@ -70299,6 +72558,9 @@
 			"(Song) Poison Blood by udouddo",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Poison Blood by udouddo) (AA Rank)"
 		]
 	},
 	{
@@ -70310,6 +72572,9 @@
 			"(Song) Poison Blood by udouddo",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Poison Blood by udouddo) (AAA Rank)"
 		]
 	},
 	{
@@ -70321,6 +72586,9 @@
 			"(Song) Poison Blood by udouddo",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Poison Blood by udouddo) (S Rank)"
 		]
 	},
 	{
@@ -70372,6 +72640,9 @@
 			"(Song) Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (Pass)"
 		]
 	},
 	{
@@ -70383,6 +72654,9 @@
 			"(Song) Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (AA Rank)"
 		]
 	},
 	{
@@ -70394,6 +72668,9 @@
 			"(Song) Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (AAA Rank)"
 		]
 	},
 	{
@@ -70405,6 +72682,9 @@
 			"(Song) Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left"
+		],
+		"place_item": [
+			"CHAIN (Princessどうかお願い!! by 20文字と言う字数制限に挑み続けるかぼち) (S Rank)"
 		]
 	},
 	{
@@ -71296,6 +73576,9 @@
 			"(Song) Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (Pass)"
 		]
 	},
 	{
@@ -71307,6 +73590,9 @@
 			"(Song) Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (AA Rank)"
 		]
 	},
 	{
@@ -71318,6 +73604,9 @@
 			"(Song) Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (AAA Rank)"
 		]
 	},
 	{
@@ -71329,6 +73618,9 @@
 			"(Song) Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (Wuv U -More2 HAPPY Re-Mix Special- by Yu_Asahina) (S Rank)"
 		]
 	},
 	{
@@ -72740,6 +75032,9 @@
 			"(Song) バタフライキャット by daniwell",
 			"(Goal) Pass",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (バタフライキャット by daniwell) (Pass)"
 		]
 	},
 	{
@@ -72751,6 +75046,9 @@
 			"(Song) バタフライキャット by daniwell",
 			"(Goal) AA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (バタフライキャット by daniwell) (AA Rank)"
 		]
 	},
 	{
@@ -72762,6 +75060,9 @@
 			"(Song) バタフライキャット by daniwell",
 			"(Goal) AAA Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (バタフライキャット by daniwell) (AAA Rank)"
 		]
 	},
 	{
@@ -72773,6 +75074,9 @@
 			"(Song) バタフライキャット by daniwell",
 			"(Goal) S Rank",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (バタフライキャット by daniwell) (S Rank)"
 		]
 	},
 	{
@@ -73984,6 +76288,9 @@
 			"(Song) 朧 (kamome sano remix) by kamome sano feat. Kuroa*",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (Pass)"
 		]
 	},
 	{
@@ -73995,6 +76302,9 @@
 			"(Song) 朧 (kamome sano remix) by kamome sano feat. Kuroa*",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (AA Rank)"
 		]
 	},
 	{
@@ -74006,6 +76316,9 @@
 			"(Song) 朧 (kamome sano remix) by kamome sano feat. Kuroa*",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (AAA Rank)"
 		]
 	},
 	{
@@ -74017,6 +76330,9 @@
 			"(Song) 朧 (kamome sano remix) by kamome sano feat. Kuroa*",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (朧 (kamome sano remix) by kamome sano feat. Kuroa*) (S Rank)"
 		]
 	},
 	{
@@ -74628,6 +76944,9 @@
 			"(Song) Goodbye-bye Planet by 黒魔",
 			"(Goal) Pass",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Goodbye-bye Planet by 黒魔) (Pass)"
 		]
 	},
 	{
@@ -74639,6 +76958,9 @@
 			"(Song) Goodbye-bye Planet by 黒魔",
 			"(Goal) AA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Goodbye-bye Planet by 黒魔) (AA Rank)"
 		]
 	},
 	{
@@ -74650,6 +76972,9 @@
 			"(Song) Goodbye-bye Planet by 黒魔",
 			"(Goal) AAA Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Goodbye-bye Planet by 黒魔) (AAA Rank)"
 		]
 	},
 	{
@@ -74661,6 +76986,9 @@
 			"(Song) Goodbye-bye Planet by 黒魔",
 			"(Goal) S Rank",
 			"(Navigator) TAMA-chan & TAMANEKO"
+		],
+		"place_item": [
+			"CHAIN (Goodbye-bye Planet by 黒魔) (S Rank)"
 		]
 	},
 	{
@@ -75152,6 +77480,9 @@
 			"(Song) relegation grimoire by tsuzu",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (relegation grimoire by tsuzu) (Pass)"
 		]
 	},
 	{
@@ -75163,6 +77494,9 @@
 			"(Song) relegation grimoire by tsuzu",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (relegation grimoire by tsuzu) (AA Rank)"
 		]
 	},
 	{
@@ -75174,6 +77508,9 @@
 			"(Song) relegation grimoire by tsuzu",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (relegation grimoire by tsuzu) (AAA Rank)"
 		]
 	},
 	{
@@ -75185,6 +77522,9 @@
 			"(Song) relegation grimoire by tsuzu",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (relegation grimoire by tsuzu) (S Rank)"
 		]
 	},
 	{
@@ -75197,6 +77537,9 @@
 			"(Goal) Pass",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (Pass)"
 		]
 	},
 	{
@@ -75209,6 +77552,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (AA Rank)"
 		]
 	},
 	{
@@ -75221,6 +77567,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (AAA Rank)"
 		]
 	},
 	{
@@ -75233,6 +77582,9 @@
 			"(Goal) S Rank",
 			"(Navigator) RASIS",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (いつかの夢、またねの約束。 by TAKU1175 ft. 駄々子) (S Rank)"
 		]
 	},
 	{
@@ -76044,6 +78396,9 @@
 			"(Song) 感情Xerography by 8284 feat. 榎楠",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (感情Xerography by 8284 feat. 榎楠) (Pass)"
 		]
 	},
 	{
@@ -76055,6 +78410,9 @@
 			"(Song) 感情Xerography by 8284 feat. 榎楠",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (感情Xerography by 8284 feat. 榎楠) (AA Rank)"
 		]
 	},
 	{
@@ -76066,6 +78424,9 @@
 			"(Song) 感情Xerography by 8284 feat. 榎楠",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (感情Xerography by 8284 feat. 榎楠) (AAA Rank)"
 		]
 	},
 	{
@@ -76077,6 +78438,9 @@
 			"(Song) 感情Xerography by 8284 feat. 榎楠",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (感情Xerography by 8284 feat. 榎楠) (S Rank)"
 		]
 	},
 	{
@@ -77248,6 +79612,9 @@
 			"(Song) Liming Light by negi",
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Liming Light by negi) (Pass)"
 		]
 	},
 	{
@@ -77259,6 +79626,9 @@
 			"(Song) Liming Light by negi",
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Liming Light by negi) (AA Rank)"
 		]
 	},
 	{
@@ -77270,6 +79640,9 @@
 			"(Song) Liming Light by negi",
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Liming Light by negi) (AAA Rank)"
 		]
 	},
 	{
@@ -77281,6 +79654,9 @@
 			"(Song) Liming Light by negi",
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Liming Light by negi) (S Rank)"
 		]
 	},
 	{
@@ -78293,6 +80669,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Survival Games (Hommarju Remix) by Hommarju) (Pass)"
 		]
 	},
 	{
@@ -78305,6 +80684,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Survival Games (Hommarju Remix) by Hommarju) (AA Rank)"
 		]
 	},
 	{
@@ -78317,6 +80699,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Survival Games (Hommarju Remix) by Hommarju) (AAA Rank)"
 		]
 	},
 	{
@@ -78329,6 +80714,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (Survival Games (Hommarju Remix) by Hommarju) (S Rank)"
 		]
 	},
 	{
@@ -78781,6 +81169,9 @@
 			"(Goal) Pass",
 			"(Navigator) NEAR & NOAH",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (concon (picom'n'bass rmx) by kamome sano) (Pass)"
 		]
 	},
 	{
@@ -78793,6 +81184,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) NEAR & NOAH",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (concon (picom'n'bass rmx) by kamome sano) (AA Rank)"
 		]
 	},
 	{
@@ -78805,6 +81199,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) NEAR & NOAH",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (concon (picom'n'bass rmx) by kamome sano) (AAA Rank)"
 		]
 	},
 	{
@@ -78817,6 +81214,9 @@
 			"(Goal) S Rank",
 			"(Navigator) NEAR & NOAH",
 			"(Navigator) Hina, Ao, Momo"
+		],
+		"place_item": [
+			"CHAIN (concon (picom'n'bass rmx) by kamome sano) (S Rank)"
 		]
 	},
 	{
@@ -79788,6 +82188,9 @@
 			"(Song) ナナイロ by otetsu",
 			"(Goal) Pass",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (ナナイロ by otetsu) (Pass)"
 		]
 	},
 	{
@@ -79799,6 +82202,9 @@
 			"(Song) ナナイロ by otetsu",
 			"(Goal) AA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (ナナイロ by otetsu) (AA Rank)"
 		]
 	},
 	{
@@ -79810,6 +82216,9 @@
 			"(Song) ナナイロ by otetsu",
 			"(Goal) AAA Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (ナナイロ by otetsu) (AAA Rank)"
 		]
 	},
 	{
@@ -79821,6 +82230,9 @@
 			"(Song) ナナイロ by otetsu",
 			"(Goal) S Rank",
 			"(Navigator) Kougei Ciel Nana"
+		],
+		"place_item": [
+			"CHAIN (ナナイロ by otetsu) (S Rank)"
 		]
 	},
 	{
@@ -80275,6 +82687,9 @@
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (Pass)"
 		]
 	},
 	{
@@ -80289,6 +82704,9 @@
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (AA Rank)"
 		]
 	},
 	{
@@ -80303,6 +82721,9 @@
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (AAA Rank)"
 		]
 	},
 	{
@@ -80317,6 +82738,9 @@
 			"(Navigator) GRACE",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (君がいる場所へ by VALLEYSTONE feat. 紫崎 雪) (S Rank)"
 		]
 	},
 	{
@@ -82048,6 +84472,9 @@
 			"(Song) Find the Answer by みゅー feat. ゆいこんぬ",
 			"(Goal) Pass",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (Pass)"
 		]
 	},
 	{
@@ -82059,6 +84486,9 @@
 			"(Song) Find the Answer by みゅー feat. ゆいこんぬ",
 			"(Goal) AA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (AA Rank)"
 		]
 	},
 	{
@@ -82070,6 +84500,9 @@
 			"(Song) Find the Answer by みゅー feat. ゆいこんぬ",
 			"(Goal) AAA Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (AAA Rank)"
 		]
 	},
 	{
@@ -82081,6 +84514,9 @@
 			"(Song) Find the Answer by みゅー feat. ゆいこんぬ",
 			"(Goal) S Rank",
 			"(Navigator) RASIS"
+		],
+		"place_item": [
+			"CHAIN (Find the Answer by みゅー feat. ゆいこんぬ) (S Rank)"
 		]
 	},
 	{
@@ -82492,6 +84928,9 @@
 			"(Song) Smile by Hommarju feat. 実谷なな",
 			"(Goal) Pass",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Smile by Hommarju feat. 実谷なな) (Pass)"
 		]
 	},
 	{
@@ -82503,6 +84942,9 @@
 			"(Song) Smile by Hommarju feat. 実谷なな",
 			"(Goal) AA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Smile by Hommarju feat. 実谷なな) (AA Rank)"
 		]
 	},
 	{
@@ -82514,6 +84956,9 @@
 			"(Song) Smile by Hommarju feat. 実谷なな",
 			"(Goal) AAA Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Smile by Hommarju feat. 実谷なな) (AAA Rank)"
 		]
 	},
 	{
@@ -82525,6 +84970,9 @@
 			"(Song) Smile by Hommarju feat. 実谷なな",
 			"(Goal) S Rank",
 			"(Navigator) Kureha"
+		],
+		"place_item": [
+			"CHAIN (Smile by Hommarju feat. 実谷なな) (S Rank)"
 		]
 	},
 	{
@@ -83817,6 +86265,9 @@
 			"(Goal) Pass",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (Pass)"
 		]
 	},
 	{
@@ -83829,6 +86280,9 @@
 			"(Goal) AA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (AA Rank)"
 		]
 	},
 	{
@@ -83841,6 +86295,9 @@
 			"(Goal) AAA Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (AAA Rank)"
 		]
 	},
 	{
@@ -83853,6 +86310,9 @@
 			"(Goal) S Rank",
 			"(Navigator) Tsumabuki Left",
 			"(Navigator) Tsumabuki Right"
+		],
+		"place_item": [
+			"CHAIN (隅田川夏恋歌 (I/O Angel mix) by Daisuke Ohnuma(大福P)) (S Rank)"
 		]
 	},
 	{
@@ -84904,6 +87364,9 @@
 			"(Song) グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
 			"(Goal) Pass",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (Pass)"
 		]
 	},
 	{
@@ -84915,6 +87378,9 @@
 			"(Song) グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
 			"(Goal) AA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (AA Rank)"
 		]
 	},
 	{
@@ -84926,6 +87392,9 @@
 			"(Song) グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
 			"(Goal) AAA Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (AAA Rank)"
 		]
 	},
 	{
@@ -84937,6 +87406,9 @@
 			"(Song) グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞",
 			"(Goal) S Rank",
 			"(Navigator) GRACE"
+		],
+		"place_item": [
+			"CHAIN (グレイスちゃんの超～絶!!グラビティ講座w by ∞∞(σ∀σ*)∞∞) (S Rank)"
 		]
 	},
 	{
@@ -84948,6 +87420,9 @@
 			"(Song) マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
 			"(Goal) Pass",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (Pass)"
 		]
 	},
 	{
@@ -84959,6 +87434,9 @@
 			"(Song) マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
 			"(Goal) AA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (AA Rank)"
 		]
 	},
 	{
@@ -84970,6 +87448,9 @@
 			"(Song) マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
 			"(Goal) AAA Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (AAA Rank)"
 		]
 	},
 	{
@@ -84981,6 +87462,9 @@
 			"(Song) マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX",
 			"(Goal) S Rank",
 			"(Navigator) Voltenizer Maxima"
+		],
+		"place_item": [
+			"CHAIN (マキシマ先生の満開!!ヘヴンリー講座♥ by 体で覚えるSOUND VOLTEX) (S Rank)"
 		]
 	},
 	{
