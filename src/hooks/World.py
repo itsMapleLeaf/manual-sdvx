@@ -86,7 +86,7 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
         has_valid_difficulty = False
         for chart in song_charts:
             difficulty = song_charts[chart]
-            if difficulty >= min_difficulty and difficulty <= max_difficulty:
+            if min_difficulty <= difficulty <= max_difficulty:
                 has_valid_difficulty = True
                 break
 
