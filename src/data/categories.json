@@ -2,6 +2,9 @@
 	"Goals": {
 		"hidden": true
 	},
+	"Consumables": {
+		"hidden": true
+	},
 	"Navigator Access for RASIS": {
 		"hidden": true
 	},
