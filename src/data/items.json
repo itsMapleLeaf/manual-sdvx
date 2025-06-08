@@ -17658,25 +17658,11 @@
 		]
 	},
 	{
-		"name": "Swap Lazer Colors (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Hard Timing Window",
 		"count": 5,
 		"trap": true,
 		"category": [
 			"Traps"
-		]
-	},
-	{
-		"name": "Hard Timing Window (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17688,25 +17674,11 @@
 		]
 	},
 	{
-		"name": "Rate +1.1 (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Random",
 		"count": 5,
 		"trap": true,
 		"category": [
 			"Traps"
-		]
-	},
-	{
-		"name": "Random (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17718,25 +17690,11 @@
 		]
 	},
 	{
-		"name": "Excessive Rate (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Play Latest Nautica Chart",
 		"count": 5,
 		"trap": true,
 		"category": [
 			"Traps"
-		]
-	},
-	{
-		"name": "Play Latest Nautica Chart (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17748,25 +17706,11 @@
 		]
 	},
 	{
-		"name": "Pass a 20 (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Slowjam (Speed 3.0)",
 		"count": 5,
 		"trap": true,
 		"category": [
 			"Traps"
-		]
-	},
-	{
-		"name": "Slowjam (Speed 3.0) (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17778,25 +17722,11 @@
 		]
 	},
 	{
-		"name": "Speedjam (Speed 9.0) (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Score +5.0000",
 		"count": 20,
 		"useful": true,
 		"category": [
 			"Helpers"
-		]
-	},
-	{
-		"name": "Score +5.0000 (Used)",
-		"count": 20,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17808,25 +17738,11 @@
 		]
 	},
 	{
-		"name": "Score +10.0000 (Used)",
-		"count": 10,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Score +20.0000",
 		"count": 5,
 		"useful": true,
 		"category": [
 			"Helpers"
-		]
-	},
-	{
-		"name": "Score +20.0000 (Used)",
-		"count": 5,
-		"category": [
-			"Consumables"
 		]
 	},
 	{
@@ -17838,13 +17754,6 @@
 		]
 	},
 	{
-		"name": "Score +50.0000 (Used)",
-		"count": 3,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Score +100.0000",
 		"count": 1,
 		"useful": true,
@@ -17853,25 +17762,11 @@
 		]
 	},
 	{
-		"name": "Score +100.0000 (Used)",
-		"count": 1,
-		"category": [
-			"Consumables"
-		]
-	},
-	{
 		"name": "Cancel Trap",
 		"count": 10,
 		"useful": true,
 		"category": [
 			"Helpers"
-		]
-	},
-	{
-		"name": "Cancel Trap (Used)",
-		"count": 10,
-		"category": [
-			"Consumables"
 		]
 	},
 	{

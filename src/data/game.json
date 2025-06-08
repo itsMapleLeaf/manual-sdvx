@@ -2,7 +2,7 @@
     "$schema": "../../schemas/Manual.game.schema.json",
     "game": "SDVX",
     "creator": "MapleLeaf",
-    "filler_item_name": "I love Camellia (feat. Nanahira)",
+    "filler_item_name": "Score +0.1000 (you tried)",
     "starting_items": [
         {
             "item_categories": ["Songs"],
