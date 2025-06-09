@@ -205,22 +205,21 @@ if __name__ == "__main__":
                 )
 
     items += [
-        Item(name="Swap Lazer Colors", count=5, trap=True, category=["Traps"]),
-        Item(name="Hard Timing Window", count=5, trap=True, category=["Traps"]),
-        Item(name="Rate +1.1", count=5, trap=True, category=["Traps"]),
-        Item(name="Random", count=5, trap=True, category=["Traps"]),
-        Item(name="Excessive Rate", count=5, trap=True, category=["Traps"]),
-        Item(name="Pass Latest Nautica Chart", count=5, trap=True, category=["Traps"]),
-        Item(name="Pass a 20", count=5, trap=True, category=["Traps"]),
-        Item(name="Slowjam (Speed 3.0)", count=5, trap=True, category=["Traps"]),
-        Item(name="Speedjam (Speed 9.0)", count=5, trap=True, category=["Traps"]),
+        Item(name="Swap Lazer Colors", count=3, trap=True, category=["Traps"]),
+        Item(name="Hard Timing Window", count=3, trap=True, category=["Traps"]),
+        Item(name="Rate +1.1", count=3, trap=True, category=["Traps"]),
+        Item(name="Random", count=3, trap=True, category=["Traps"]),
+        Item(name="Pass Latest Nautica Chart", count=3, trap=True, category=["Traps"]),
+        Item(name="Pass a 20", count=3, trap=True, category=["Traps"]),
+        Item(name="Slowjam (Speed 3.0)", count=3, trap=True, category=["Traps"]),
+        Item(name="Speedjam (Speed 9.0)", count=3, trap=True, category=["Traps"]),
         Item(name="Score +5.0000", count=20, useful=True, category=["Helpers"]),
         Item(name="Score +10.0000", count=10, useful=True, category=["Helpers"]),
         Item(name="Score +20.0000", count=5, useful=True, category=["Helpers"]),
         Item(name="Score +50.0000", count=3, useful=True, category=["Helpers"]),
         Item(name="Score +100.0000", count=1, useful=True, category=["Helpers"]),
-        Item(name="Cancel Trap", count=10, useful=True, category=["Helpers"]),
-        Item(name="Downlevel", count=10, useful=True, category=["Helpers"]),
+        Item(name="Cancel Trap", count=12, useful=True, category=["Helpers"]),
+        Item(name="Downlevel", count=12, useful=True, category=["Helpers"]),
     ]
 
     gauge_levels = [
