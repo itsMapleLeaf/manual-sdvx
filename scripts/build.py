@@ -2,36 +2,36 @@ import json
 import os
 import zipfile
 from pathlib import Path
-from typing import Dict, List, Optional, Union, TypedDict
+from typing import Dict, List, NotRequired, Union, TypedDict
 
 from .songs import ALL_SONGS
 from .navigators import navigators
 from .paths import manual_data_path
 
 
-class Item(TypedDict, total=False):
+class Item(TypedDict):
     name: str
-    category: Optional[List[str]]
-    count: Optional[int]
-    value: Optional[Dict[str, Union[str, int]]]
-    progression: Optional[bool]
-    progression_skip_balancing: Optional[bool]
-    useful: Optional[bool]
-    trap: Optional[bool]
+    category: NotRequired[List[str]]
+    count: NotRequired[int]
+    value: NotRequired[Dict[str, Union[str, int]]]
+    progression: NotRequired[bool]
+    progression_skip_balancing: NotRequired[bool]
+    useful: NotRequired[bool]
+    trap: NotRequired[bool]
 
 
-class Location(TypedDict, total=False):
+class Location(TypedDict):
     name: str
-    category: Optional[List[str]]
-    requires: Optional[str]
-    place_item: Optional[List[str]]
-    place_item_category: Optional[List[str]]
-    victory: Optional[bool]
+    category: NotRequired[List[str]]
+    requires: NotRequired[str]
+    place_item: NotRequired[List[str]]
+    place_item_category: NotRequired[List[str]]
+    victory: NotRequired[bool]
 
 
-class Category(TypedDict, total=False):
-    hidden: Optional[bool]
-    yaml_option: Optional[List[str]]
+class Category(TypedDict):
+    hidden: NotRequired[bool]
+    yaml_option: NotRequired[List[str]]
 
 
 def song_number_category_for(song_number: int) -> str:
@@ -43,8 +43,6 @@ def navigator_key_category_for(navigator: str) -> str:
 
 
 if __name__ == "__main__":
-    script_dir = Path(__file__).parent
-
     locations: List[Location] = [
         {
             "name": "PERFECT ULTIMATE CHAIN",
@@ -206,34 +204,24 @@ if __name__ == "__main__":
                     )
                 )
 
-    generic_items = [
-        {"name": "Swap Lazer Colors", "count": 5, "type": "trap"},
-        {"name": "Hard Timing Window", "count": 5, "type": "trap"},
-        {"name": "Rate +1.1", "count": 5, "type": "trap"},
-        {"name": "Random", "count": 5, "type": "trap"},
-        {"name": "Excessive Rate", "count": 5, "type": "trap"},
-        {"name": "Pass Latest Nautica Chart", "count": 5, "type": "trap"},
-        {"name": "Pass a 20", "count": 5, "type": "trap"},
-        {"name": "Slowjam (Speed 3.0)", "count": 5, "type": "trap"},
-        {"name": "Speedjam (Speed 9.0)", "count": 5, "type": "trap"},
-        {"name": "Score +5.0000", "count": 20, "type": "helper"},
-        {"name": "Score +10.0000", "count": 10, "type": "helper"},
-        {"name": "Score +20.0000", "count": 5, "type": "helper"},
-        {"name": "Score +50.0000", "count": 3, "type": "helper"},
-        {"name": "Score +100.0000", "count": 1, "type": "helper"},
-        {"name": "Cancel Trap", "count": 10, "type": "helper"},
+    items += [
+        Item(name="Swap Lazer Colors", count=5, trap=True, category=["Traps"]),
+        Item(name="Hard Timing Window", count=5, trap=True, category=["Traps"]),
+        Item(name="Rate +1.1", count=5, trap=True, category=["Traps"]),
+        Item(name="Random", count=5, trap=True, category=["Traps"]),
+        Item(name="Excessive Rate", count=5, trap=True, category=["Traps"]),
+        Item(name="Pass Latest Nautica Chart", count=5, trap=True, category=["Traps"]),
+        Item(name="Pass a 20", count=5, trap=True, category=["Traps"]),
+        Item(name="Slowjam (Speed 3.0)", count=5, trap=True, category=["Traps"]),
+        Item(name="Speedjam (Speed 9.0)", count=5, trap=True, category=["Traps"]),
+        Item(name="Score +5.0000", count=20, useful=True, category=["Helpers"]),
+        Item(name="Score +10.0000", count=10, useful=True, category=["Helpers"]),
+        Item(name="Score +20.0000", count=5, useful=True, category=["Helpers"]),
+        Item(name="Score +50.0000", count=3, useful=True, category=["Helpers"]),
+        Item(name="Score +100.0000", count=1, useful=True, category=["Helpers"]),
+        Item(name="Cancel Trap", count=10, useful=True, category=["Helpers"]),
+        Item(name="Downlevel", count=10, useful=True, category=["Helpers"]),
     ]
-
-    for item_data in generic_items:
-        items.append(
-            Item(
-                name=item_data["name"],
-                count=item_data["count"],
-                trap=True if item_data["type"] == "trap" else None,
-                useful=True if item_data["type"] == "helper" else None,
-                category=["Traps" if item_data["type"] == "trap" else "Helpers"],
-            )
-        )
 
     gauge_levels = [
         # start at Blastive 2.5,
@@ -244,14 +232,14 @@ if __name__ == "__main__":
         "Effective",
     ]
 
-    items.append(
+    items += [
         Item(
             name="Progressive Gauge",
             count=len(gauge_levels) + 3,
             progression=True,
             category=["Progressive Gauge"],
         )
-    )
+    ]
 
     for index, rate in enumerate(gauge_levels):
         locations.append(
@@ -279,6 +267,7 @@ if __name__ == "__main__":
     print("Generated")
 
     world_file_name = "manual_SDVX_MapleLeaf"
+    script_dir = Path(__file__).parent
 
     apworld_folder = Path(
         os.environ.get("APWORLD_OUTPUT_FOLDER") or script_dir.parent.parent / "dist"

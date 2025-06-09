@@ -17653,7 +17653,6 @@
         "name": "Swap Lazer Colors",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17662,7 +17661,6 @@
         "name": "Hard Timing Window",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17671,7 +17669,6 @@
         "name": "Rate +1.1",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17680,7 +17677,6 @@
         "name": "Random",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17689,7 +17685,6 @@
         "name": "Excessive Rate",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17698,7 +17693,6 @@
         "name": "Pass Latest Nautica Chart",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17707,7 +17701,6 @@
         "name": "Pass a 20",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17716,7 +17709,6 @@
         "name": "Slowjam (Speed 3.0)",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17725,7 +17717,6 @@
         "name": "Speedjam (Speed 9.0)",
         "count": 5,
         "trap": true,
-        "useful": null,
         "category": [
             "Traps"
         ]
@@ -17733,7 +17724,6 @@
     {
         "name": "Score +5.0000",
         "count": 20,
-        "trap": null,
         "useful": true,
         "category": [
             "Helpers"
@@ -17742,7 +17732,6 @@
     {
         "name": "Score +10.0000",
         "count": 10,
-        "trap": null,
         "useful": true,
         "category": [
             "Helpers"
@@ -17751,7 +17740,6 @@
     {
         "name": "Score +20.0000",
         "count": 5,
-        "trap": null,
         "useful": true,
         "category": [
             "Helpers"
@@ -17760,7 +17748,6 @@
     {
         "name": "Score +50.0000",
         "count": 3,
-        "trap": null,
         "useful": true,
         "category": [
             "Helpers"
@@ -17769,7 +17756,6 @@
     {
         "name": "Score +100.0000",
         "count": 1,
-        "trap": null,
         "useful": true,
         "category": [
             "Helpers"
@@ -17778,7 +17764,14 @@
     {
         "name": "Cancel Trap",
         "count": 10,
-        "trap": null,
+        "useful": true,
+        "category": [
+            "Helpers"
+        ]
+    },
+    {
+        "name": "Downlevel",
+        "count": 10,
         "useful": true,
         "category": [
             "Helpers"
