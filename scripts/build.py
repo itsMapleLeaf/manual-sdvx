@@ -249,7 +249,7 @@ if __name__ == "__main__":
             name="Progressive Gauge",
             count=len(gauge_levels) + 3,
             progression=True,
-            category=["Progressive Guage"],
+            category=["Progressive Gauge"],
         )
     )
 
