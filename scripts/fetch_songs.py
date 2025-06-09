@@ -17,8 +17,10 @@ async def fetch_all_songs(page_count: int):
             fetch_page_songs(session, page_index + 1)
             for page_index in range(page_count)
         ]
-        for page_songs in await asyncio.gather(*tasks):
+        for result_index, page_songs in enumerate(await asyncio.gather(*tasks)):
             songs += page_songs
+            # todo: print this on future finish
+            print(f"fetched {len(songs)} songs ({result_index+1}/{page_count})")
 
     return songs
 
@@ -28,8 +30,6 @@ async def fetch_page_songs(session: aiohttp.ClientSession, page_number: int):
 
     async with session.get(url) as response:
         html_content = await response.text()
-
-    print(f"fetched page {page_number}")
 
     soup = BeautifulSoup(html_content, "html5lib")
     return [parse_song(row) for row in soup.select("#song-table-body > tr")]
