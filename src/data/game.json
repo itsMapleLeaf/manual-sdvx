@@ -1,13 +1,14 @@
 {
-    "$schema": "../../schemas/Manual.game.schema.json",
-    "game": "SDVX",
-    "creator": "MapleLeaf",
-    "filler_item_name": "Score +0.1000 (you tried)",
-    "starting_items": [
-        {
-            "item_categories": ["Songs"],
-            "random": 5
-        }
-    ],
-    "death_link": false
+	"game": "SDVX_dev",
+	"creator": "MapleLeaf",
+	"filler_item_name": "Score +0.1000 (you tried)",
+	"death_link": false,
+	"starting_items": [
+		{
+			"item_categories": [
+				"Songs"
+			],
+			"random": 5
+		}
+	]
 }

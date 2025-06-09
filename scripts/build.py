@@ -1,8 +1,9 @@
 import json
+from logging import warning
 import os
 import zipfile
 from pathlib import Path
-from typing import Dict, List, NotRequired, Union, TypedDict
+from typing import Dict, List, Literal, NotRequired, Union, TypedDict
 
 from .lib.songs import ALL_SONGS
 from .lib.navigators import navigators
@@ -32,6 +33,20 @@ class Location(TypedDict):
 class Category(TypedDict):
     hidden: NotRequired[bool]
     yaml_option: NotRequired[List[str]]
+
+
+class StartingItemInfo(TypedDict):
+    items: NotRequired[list[str]]
+    item_categories: NotRequired[list[str]]
+    random: NotRequired[int]
+
+
+class GameInfo(TypedDict):
+    game: str
+    creator: str
+    filler_item_name: str
+    death_link: bool
+    starting_items: list[StartingItemInfo]
 
 
 def song_number_category_for(song_number: int) -> str:
@@ -266,9 +281,25 @@ class SoundVoltexWorld:
 
 
 if __name__ == "__main__":
+    is_dev = True
+    if os.getenv("DEV") == False:
+        is_dev = False
+
+    if is_dev:
+        warning("Building a development world suffixed with '_dev'")
+        warning("Set the envionment variable DEV=false to generate without _dev suffix")
+
+    game_info = GameInfo(
+        game="SDVX" + ("_dev" if is_dev else ""),
+        creator="MapleLeaf",
+        filler_item_name="Score +0.1000 (you tried)",
+        death_link=False,
+        starting_items=[{"item_categories": ["Songs"], "random": 5}],
+    )
+
     world = SoundVoltexWorld()
 
-    world_file_name = "manual_SDVX_MapleLeaf"
+    world_file_name = f"manual_{game_info['game']}_{game_info['creator']}"
     script_dir = Path(__file__).parent
 
     apworld_folder = Path(
@@ -278,22 +309,37 @@ if __name__ == "__main__":
 
     zip_path = apworld_folder / f"{world_file_name}.apworld"
 
+    class JsonDumpArgs(TypedDict):
+        ensure_ascii: NotRequired[bool]
+        indent: NotRequired[str | int]
+
+    json_dump_args = JsonDumpArgs(ensure_ascii=False)
+    if is_dev:
+        json_dump_args["indent"] = "\t"
+
+    print(f"Game: {game_info['game']}")
+    print(f"Creator: {game_info['creator']}")
+
     print(f"Generated {world.item_count} items")
     print(f"Generated {len(world.locations)} locations")
     print(f"Configured {len(world.categories)} categories")
     print(f"World path: {zip_path}")
 
+    print("Saving game info...")
+    with open(manual_data_path("game.json"), "w", encoding="utf-8") as file:
+        json.dump(game_info, file, **json_dump_args)
+
     print("Saving items...")
     with open(manual_data_path("items.json"), "w", encoding="utf-8") as file:
-        json.dump(world.items, file, indent="\t", ensure_ascii=False)
+        json.dump(world.items, file, **json_dump_args)
 
     print("Saving locations...")
     with open(manual_data_path("locations.json"), "w", encoding="utf-8") as file:
-        json.dump(world.locations, file, indent="\t", ensure_ascii=False)
+        json.dump(world.locations, file, **json_dump_args)
 
     print("Saving categories...")
     with open(manual_data_path("categories.json"), "w", encoding="utf-8") as file:
-        json.dump(world.categories, file, indent="\t", ensure_ascii=False)
+        json.dump(world.categories, file, **json_dump_args)
 
     print("Saving apworld...")
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zip_file:
