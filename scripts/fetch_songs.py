@@ -4,7 +4,7 @@ from pathlib import Path
 import aiohttp
 from bs4 import BeautifulSoup, Tag
 
-from .songs import Song
+from .lib.songs import Song
 
 
 async def fetch_all_songs(page_count: int):

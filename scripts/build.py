@@ -4,9 +4,9 @@ import zipfile
 from pathlib import Path
 from typing import Dict, List, NotRequired, Union, TypedDict
 
-from .songs import ALL_SONGS
-from .navigators import navigators
-from .paths import manual_data_path
+from .lib.songs import ALL_SONGS
+from .lib.navigators import navigators
+from .lib.paths import manual_data_path
 
 
 class Item(TypedDict):
