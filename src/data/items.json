@@ -66,7 +66,7 @@
 		}
 	},
 	{
-		"name": "RASIS [ACCESS]",
+		"name": "RASIS [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-		"name": "GRACE [ACCESS]",
+		"name": "GRACE [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -82,7 +82,7 @@
 		]
 	},
 	{
-		"name": "Tsumabuki Left [ACCESS]",
+		"name": "Tsumabuki Left [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -90,7 +90,7 @@
 		]
 	},
 	{
-		"name": "Tsumabuki Right [ACCESS]",
+		"name": "Tsumabuki Right [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -98,7 +98,7 @@
 		]
 	},
 	{
-		"name": "NEAR & NOAH [ACCESS]",
+		"name": "NEAR & NOAH [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -106,7 +106,7 @@
 		]
 	},
 	{
-		"name": "Kureha [ACCESS]",
+		"name": "Kureha [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -114,7 +114,7 @@
 		]
 	},
 	{
-		"name": "Hina, Ao, Momo [ACCESS]",
+		"name": "Hina, Ao, Momo [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -122,7 +122,7 @@
 		]
 	},
 	{
-		"name": "Voltenizer Maxima [ACCESS]",
+		"name": "Voltenizer Maxima [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -130,7 +130,7 @@
 		]
 	},
 	{
-		"name": "Kougei Ciel Nana [ACCESS]",
+		"name": "Kougei Ciel Nana [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -138,7 +138,7 @@
 		]
 	},
 	{
-		"name": "Kanade Yamashina [ACCESS]",
+		"name": "Kanade Yamashina [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -146,7 +146,7 @@
 		]
 	},
 	{
-		"name": "Lyric Rishuna [ACCESS]",
+		"name": "Lyric Rishuna [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -154,7 +154,7 @@
 		]
 	},
 	{
-		"name": "TAMA-chan & TAMANEKO [ACCESS]",
+		"name": "TAMA-chan & TAMANEKO [NAVIGATOR ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",

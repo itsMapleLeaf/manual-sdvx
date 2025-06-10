@@ -128,16 +128,9 @@ class SoundVoltexWorld:
             )
             self.items += [
                 Item(
-                    name=f"{navigator} [ACCESS]",
+                    name=f"{navigator} [NAVIGATOR ACCESS]",
                     progression=True,
                     category=["Navigator Keys", navigator_key_category_for(navigator)],
-                )
-            ]
-            self.locations += [
-                Location(
-                    name=f"{navigator} [RESCUE]",
-                    category=[f"((Navigator Rescue))"],
-                    requires=f"|@{navigator_key_category_for(navigator)}|",
                 )
             ]
 
