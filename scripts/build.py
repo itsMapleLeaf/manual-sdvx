@@ -243,6 +243,10 @@ class SoundVoltexWorld:
             Item(name="Score +100.0000", count=1, useful=True, category=["Helpers"]),
             Item(name="Cancel Trap", count=12, useful=True, category=["Helpers"]),
             Item(name="Downlevel", count=12, useful=True, category=["Helpers"]),
+            Item(name="Gauge +1%", count=15, useful=True, category=["Helpers"]),
+            Item(name="Gauge +5%", count=8, useful=True, category=["Helpers"]),
+            Item(name="Gauge +10%", count=5, useful=True, category=["Helpers"]),
+            Item(name="Gauge +25%", count=3, useful=True, category=["Helpers"]),
         ]
 
         gauge_levels = [

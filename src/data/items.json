@@ -17762,6 +17762,38 @@
 		]
 	},
 	{
+		"name": "Gauge +1%",
+		"count": 15,
+		"useful": true,
+		"category": [
+			"Helpers"
+		]
+	},
+	{
+		"name": "Gauge +5%",
+		"count": 8,
+		"useful": true,
+		"category": [
+			"Helpers"
+		]
+	},
+	{
+		"name": "Gauge +10%",
+		"count": 5,
+		"useful": true,
+		"category": [
+			"Helpers"
+		]
+	},
+	{
+		"name": "Gauge +25%",
+		"count": 3,
+		"useful": true,
+		"category": [
+			"Helpers"
+		]
+	},
+	{
 		"name": "Progressive Gauge",
 		"count": 8,
 		"progression": true,
