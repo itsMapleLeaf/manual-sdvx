@@ -1,7 +1,7 @@
 {
 	"game": "SDVX_dev",
 	"creator": "MapleLeaf",
-	"filler_item_name": "Score +0.1000 (you tried)",
+	"filler_item_name": "you tried (Score +0.1000)",
 	"death_link": false,
 	"starting_items": [
 		{

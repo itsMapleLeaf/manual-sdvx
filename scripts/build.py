@@ -292,7 +292,7 @@ if __name__ == "__main__":
     game_info = GameInfo(
         game="SDVX" + ("_dev" if is_dev else ""),
         creator="MapleLeaf",
-        filler_item_name="Score +0.1000 (you tried)",
+        filler_item_name="you tried (Score +0.1000)",
         death_link=False,
         starting_items=[{"item_categories": ["Songs"], "random": 5}],
     )
