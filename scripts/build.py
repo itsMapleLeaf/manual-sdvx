@@ -146,7 +146,7 @@ class SoundVoltexWorld:
                 if song.title in navigator_songs
             ]
 
-            goals = ["Pass", "AA Rank", "AAA Rank", "S Rank"]
+            goals = ["Track Clear", "AA Rank", "AAA Rank", "S Rank"]
             is_boss = any(level >= 20 for level in song.charts.values())
 
             if is_boss:
