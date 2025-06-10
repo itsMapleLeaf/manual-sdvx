@@ -66,7 +66,7 @@
 		}
 	},
 	{
-		"name": "RASIS [NAVIGATOR ACCESS]",
+		"name": "RASIS [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-		"name": "GRACE [NAVIGATOR ACCESS]",
+		"name": "GRACE [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -82,7 +82,7 @@
 		]
 	},
 	{
-		"name": "Tsumabuki Left [NAVIGATOR ACCESS]",
+		"name": "Tsumabuki Left [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -90,7 +90,7 @@
 		]
 	},
 	{
-		"name": "Tsumabuki Right [NAVIGATOR ACCESS]",
+		"name": "Tsumabuki Right [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -98,7 +98,7 @@
 		]
 	},
 	{
-		"name": "NEAR & NOAH [NAVIGATOR ACCESS]",
+		"name": "NEAR & NOAH [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -106,7 +106,7 @@
 		]
 	},
 	{
-		"name": "Kureha [NAVIGATOR ACCESS]",
+		"name": "Kureha [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -114,7 +114,7 @@
 		]
 	},
 	{
-		"name": "Hina, Ao, Momo [NAVIGATOR ACCESS]",
+		"name": "Hina, Ao, Momo [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -122,7 +122,7 @@
 		]
 	},
 	{
-		"name": "Voltenizer Maxima [NAVIGATOR ACCESS]",
+		"name": "Voltenizer Maxima [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -130,7 +130,7 @@
 		]
 	},
 	{
-		"name": "Kougei Ciel Nana [NAVIGATOR ACCESS]",
+		"name": "Kougei Ciel Nana [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -138,7 +138,7 @@
 		]
 	},
 	{
-		"name": "Kanade Yamashina [NAVIGATOR ACCESS]",
+		"name": "Kanade Yamashina [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -146,7 +146,7 @@
 		]
 	},
 	{
-		"name": "Lyric Rishuna [NAVIGATOR ACCESS]",
+		"name": "Lyric Rishuna [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -154,7 +154,7 @@
 		]
 	},
 	{
-		"name": "TAMA-chan & TAMANEKO [NAVIGATOR ACCESS]",
+		"name": "TAMA-chan & TAMANEKO [ACCESS]",
 		"progression": true,
 		"category": [
 			"Navigator Keys",
@@ -17675,14 +17675,6 @@
 	},
 	{
 		"name": "Random",
-		"count": 3,
-		"trap": true,
-		"category": [
-			"Traps"
-		]
-	},
-	{
-		"name": "Pass Latest Nautica Chart",
 		"count": 3,
 		"trap": true,
 		"category": [

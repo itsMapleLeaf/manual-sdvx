@@ -123,16 +123,23 @@ class SoundVoltexWorld:
         }
 
         for navigator in navigators:
-            self.items.append(
-                Item(
-                    name=f"{navigator} [NAVIGATOR ACCESS]",
-                    progression=True,
-                    category=["Navigator Keys", navigator_key_category_for(navigator)],
-                )
-            )
             self.categories[navigator_key_category_for(navigator)] = Category(
                 hidden=True
             )
+            self.items += [
+                Item(
+                    name=f"{navigator} [ACCESS]",
+                    progression=True,
+                    category=["Navigator Keys", navigator_key_category_for(navigator)],
+                )
+            ]
+            self.locations += [
+                Location(
+                    name=f"{navigator} [RESCUE]",
+                    category=[f"((Navigator Rescue))"],
+                    requires=f"|@{navigator_key_category_for(navigator)}|",
+                )
+            ]
 
         for song_number, song in enumerate(ALL_SONGS):
             self.categories[song.identifier] = Category(hidden=True)
@@ -233,9 +240,6 @@ class SoundVoltexWorld:
             Item(name="Hard Timing Window", count=3, trap=True, category=["Traps"]),
             Item(name="Rate +1.1", count=3, trap=True, category=["Traps"]),
             Item(name="Random", count=3, trap=True, category=["Traps"]),
-            Item(
-                name="Pass Latest Nautica Chart", count=3, trap=True, category=["Traps"]
-            ),
             Item(name="Pass a 20", count=3, trap=True, category=["Traps"]),
             Item(name="Slowjam (Speed 3.0)", count=3, trap=True, category=["Traps"]),
             Item(name="Speedjam (Speed 9.0)", count=3, trap=True, category=["Traps"]),
