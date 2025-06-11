@@ -1,3 +1,4 @@
+from dataclasses import dataclass
 import json
 from logging import warning
 import os
@@ -74,47 +75,20 @@ class SoundVoltexWorld:
 
         self.items = [
             Item(
-                name="CHAIN",
+                name=f"CHAIN {"%03d" % amount}",
                 category=["CHAIN"],
                 progression=True,
-                count=20,
-                value={"chain": 1},
-            ),
-            Item(
-                name="5 CHAIN",
-                category=["CHAIN"],
-                progression=True,
-                count=10,
-                value={"chain": 5},
-            ),
-            Item(
-                name="10 CHAIN",
-                category=["CHAIN"],
-                progression=True,
-                count=5,
-                value={"chain": 10},
-            ),
-            Item(
-                name="20 CHAIN",
-                category=["CHAIN"],
-                progression=True,
-                count=3,
-                value={"chain": 20},
-            ),
-            Item(
-                name="50 CHAIN",
-                category=["CHAIN"],
-                progression=True,
-                count=2,
-                value={"chain": 50},
-            ),
-            Item(
-                name="100 CHAIN",
-                category=["CHAIN"],
-                progression=True,
-                count=1,
-                value={"chain": 100},
-            ),
+                count=count,
+                value={"chain": amount},
+            )
+            for amount, count in [
+                (100, 1),
+                (50, 2),
+                (20, 3),
+                (10, 5),
+                (5, 10),
+                (1, 20),
+            ]
         ]
 
         self.categories = {
@@ -228,25 +202,95 @@ class SoundVoltexWorld:
                         )
                     )
 
+        # set the current lazer color, which ever came latest
+        # they're all traps because any of them could give you awkward combinations,
+        # like reversed colors, same colors,
+        # or non-normal colors that are reversed from the previous non-normal colors
+        # that you got used to (lol)
         self.items += [
-            Item(name="Swap Lazer Colors", count=3, trap=True, category=["Traps"]),
-            Item(name="Hard Timing Window", count=3, trap=True, category=["Traps"]),
-            Item(name="Rate +1.1", count=3, trap=True, category=["Traps"]),
-            Item(name="Random", count=3, trap=True, category=["Traps"]),
-            Item(name="Pass a 20", count=3, trap=True, category=["Traps"]),
-            Item(name="Slowjam (Speed 3.0)", count=3, trap=True, category=["Traps"]),
-            Item(name="Speedjam (Speed 9.0)", count=3, trap=True, category=["Traps"]),
-            Item(name="Score +5.0000", count=20, useful=True, category=["Helpers"]),
-            Item(name="Score +10.0000", count=10, useful=True, category=["Helpers"]),
-            Item(name="Score +20.0000", count=5, useful=True, category=["Helpers"]),
-            Item(name="Score +50.0000", count=3, useful=True, category=["Helpers"]),
-            Item(name="Score +100.0000", count=1, useful=True, category=["Helpers"]),
-            Item(name="Cancel Trap", count=12, useful=True, category=["Helpers"]),
-            Item(name="Downlevel", count=12, useful=True, category=["Helpers"]),
-            Item(name="Gauge +1%", count=15, useful=True, category=["Helpers"]),
-            Item(name="Gauge +5%", count=8, useful=True, category=["Helpers"]),
-            Item(name="Gauge +10%", count=5, useful=True, category=["Helpers"]),
-            Item(name="Gauge +25%", count=3, useful=True, category=["Helpers"]),
+            Item(
+                name=f"{side} Lazer: {color}",
+                count=2,
+                trap=True,
+                category=["(Traps) Lazer Color"],
+            )
+            for side in ["Left", "Right"]
+            for color in ["Red", "Yellow", "Green", "Blue"]
+        ]
+
+        # set the current timing window, whichever came latest
+        self.items += [
+            Item(
+                name="Timing Window: Hard",
+                count=5,
+                trap=True,
+                category=["(Traps) Timing Window"],
+            ),
+            Item(
+                name="Timing Window: Normal",
+                count=5,
+                useful=True,
+                category=["(Traps) Timing Window"],
+            ),
+        ]
+
+        # alter speed (1.0x === CMod/MMod 100)
+        # set base speed at the start of the game
+        # current speed is the sum of all
+        # all are traps; slow or fast are both bad, but they can balance out!
+        self.items += [
+            Item(name="Speed +0.2", count=8, trap=True, category=["(Traps) Speed"]),
+            Item(name="Speed -0.2", count=8, trap=True, category=["(Traps) Speed"]),
+        ]
+
+        # set the random mod, whichever came latest
+        self.items += [
+            Item(name="Random On", count=3, trap=True, category=["(Traps) Random"]),
+            Item(name="Random Off", count=3, useful=True, category=["(Traps) Random"]),
+        ]
+
+        # progressive hidden/sudden, current is sum of all
+        self.items += [
+            Item(name="Hidden +5%", count=8, trap=True, category=["(Traps) Hidden"]),
+            Item(name="Hidden -5%", count=8, useful=True, category=["(Traps) Hidden"]),
+            Item(name="Sudden +5%", count=8, trap=True, category=["(Traps) Sudden"]),
+            Item(name="Sudden -5%", count=8, useful=True, category=["(Traps) Sudden"]),
+        ]
+
+        self.items += [
+            Item(
+                name=f"Score +{bonus}",
+                count=count,
+                useful=True,
+                category=["(Helpers) Score Gauge"],
+            )
+            for count, bonus in [
+                (1, "100.0000"),
+                (3, "50.0000"),
+                (6, "20.0000"),
+                (12, "10.0000"),
+                (20, "5.0000"),
+            ]
+        ]
+
+        self.items += [
+            Item(
+                name=f"Score Gauge +{bonus}%",
+                count=count,
+                useful=True,
+                category=["(Helpers) Score Gauge"],
+            )
+            for count, bonus in [
+                (15, "25"),
+                (8, "10"),
+                (5, "5"),
+                (3, "1"),
+            ]
+        ]
+
+        self.items += [
+            Item(name="Cancel Trap", count=10, useful=True, category=["Helpers"]),
+            Item(name="Downlevel", count=10, useful=True, category=["Helpers"]),
         ]
 
         gauge_levels = [
@@ -278,7 +322,7 @@ class SoundVoltexWorld:
 
     @property
     def item_count(self):
-        return sum(item.get("count") or 1 for item in world.items)
+        return sum(item.get("count") or 1 for item in self.items)
 
 
 if __name__ == "__main__":

@@ -1,50 +1,17 @@
 [
 	{
-		"name": "CHAIN",
+		"name": "CHAIN 100",
 		"category": [
 			"CHAIN"
 		],
 		"progression": true,
-		"count": 20,
+		"count": 1,
 		"value": {
-			"chain": 1
+			"chain": 100
 		}
 	},
 	{
-		"name": "5 CHAIN",
-		"category": [
-			"CHAIN"
-		],
-		"progression": true,
-		"count": 10,
-		"value": {
-			"chain": 5
-		}
-	},
-	{
-		"name": "10 CHAIN",
-		"category": [
-			"CHAIN"
-		],
-		"progression": true,
-		"count": 5,
-		"value": {
-			"chain": 10
-		}
-	},
-	{
-		"name": "20 CHAIN",
-		"category": [
-			"CHAIN"
-		],
-		"progression": true,
-		"count": 3,
-		"value": {
-			"chain": 20
-		}
-	},
-	{
-		"name": "50 CHAIN",
+		"name": "CHAIN 050",
 		"category": [
 			"CHAIN"
 		],
@@ -55,14 +22,47 @@
 		}
 	},
 	{
-		"name": "100 CHAIN",
+		"name": "CHAIN 020",
 		"category": [
 			"CHAIN"
 		],
 		"progression": true,
-		"count": 1,
+		"count": 3,
 		"value": {
-			"chain": 100
+			"chain": 20
+		}
+	},
+	{
+		"name": "CHAIN 010",
+		"category": [
+			"CHAIN"
+		],
+		"progression": true,
+		"count": 5,
+		"value": {
+			"chain": 10
+		}
+	},
+	{
+		"name": "CHAIN 005",
+		"category": [
+			"CHAIN"
+		],
+		"progression": true,
+		"count": 10,
+		"value": {
+			"chain": 5
+		}
+	},
+	{
+		"name": "CHAIN 001",
+		"category": [
+			"CHAIN"
+		],
+		"progression": true,
+		"count": 20,
+		"value": {
+			"chain": 1
 		}
 	},
 	{
@@ -17650,91 +17650,147 @@
 		]
 	},
 	{
-		"name": "Swap Lazer Colors",
-		"count": 3,
+		"name": "Left Lazer: Red",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Hard Timing Window",
-		"count": 3,
+		"name": "Left Lazer: Yellow",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Rate +1.1",
-		"count": 3,
+		"name": "Left Lazer: Green",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Random",
-		"count": 3,
+		"name": "Left Lazer: Blue",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Pass a 20",
-		"count": 3,
+		"name": "Right Lazer: Red",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Slowjam (Speed 3.0)",
-		"count": 3,
+		"name": "Right Lazer: Yellow",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Speedjam (Speed 9.0)",
-		"count": 3,
+		"name": "Right Lazer: Green",
+		"count": 2,
 		"trap": true,
 		"category": [
-			"Traps"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Score +5.0000",
-		"count": 20,
-		"useful": true,
+		"name": "Right Lazer: Blue",
+		"count": 2,
+		"trap": true,
 		"category": [
-			"Helpers"
+			"(Traps) Lazer Color"
 		]
 	},
 	{
-		"name": "Score +10.0000",
-		"count": 10,
-		"useful": true,
+		"name": "Timing Window: Hard",
+		"count": 5,
+		"trap": true,
 		"category": [
-			"Helpers"
+			"(Traps) Timing Window"
 		]
 	},
 	{
-		"name": "Score +20.0000",
+		"name": "Timing Window: Normal",
 		"count": 5,
 		"useful": true,
 		"category": [
-			"Helpers"
+			"(Traps) Timing Window"
 		]
 	},
 	{
-		"name": "Score +50.0000",
+		"name": "Speed +0.2",
+		"count": 8,
+		"trap": true,
+		"category": [
+			"(Traps) Speed"
+		]
+	},
+	{
+		"name": "Speed -0.2",
+		"count": 8,
+		"trap": true,
+		"category": [
+			"(Traps) Speed"
+		]
+	},
+	{
+		"name": "Random On",
+		"count": 3,
+		"trap": true,
+		"category": [
+			"(Traps) Random"
+		]
+	},
+	{
+		"name": "Random Off",
 		"count": 3,
 		"useful": true,
 		"category": [
-			"Helpers"
+			"(Traps) Random"
+		]
+	},
+	{
+		"name": "Hidden +5%",
+		"count": 8,
+		"trap": true,
+		"category": [
+			"(Traps) Hidden"
+		]
+	},
+	{
+		"name": "Hidden -5%",
+		"count": 8,
+		"useful": true,
+		"category": [
+			"(Traps) Hidden"
+		]
+	},
+	{
+		"name": "Sudden +5%",
+		"count": 8,
+		"trap": true,
+		"category": [
+			"(Traps) Sudden"
+		]
+	},
+	{
+		"name": "Sudden -5%",
+		"count": 8,
+		"useful": true,
+		"category": [
+			"(Traps) Sudden"
 		]
 	},
 	{
@@ -17742,12 +17798,76 @@
 		"count": 1,
 		"useful": true,
 		"category": [
-			"Helpers"
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score +50.0000",
+		"count": 3,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score +20.0000",
+		"count": 6,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score +10.0000",
+		"count": 12,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score +5.0000",
+		"count": 20,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score Gauge +25%",
+		"count": 15,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score Gauge +10%",
+		"count": 8,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score Gauge +5%",
+		"count": 5,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
+		"name": "Score Gauge +1%",
+		"count": 3,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
 		]
 	},
 	{
 		"name": "Cancel Trap",
-		"count": 12,
+		"count": 10,
 		"useful": true,
 		"category": [
 			"Helpers"
@@ -17755,39 +17875,7 @@
 	},
 	{
 		"name": "Downlevel",
-		"count": 12,
-		"useful": true,
-		"category": [
-			"Helpers"
-		]
-	},
-	{
-		"name": "Gauge +1%",
-		"count": 15,
-		"useful": true,
-		"category": [
-			"Helpers"
-		]
-	},
-	{
-		"name": "Gauge +5%",
-		"count": 8,
-		"useful": true,
-		"category": [
-			"Helpers"
-		]
-	},
-	{
-		"name": "Gauge +10%",
-		"count": 5,
-		"useful": true,
-		"category": [
-			"Helpers"
-		]
-	},
-	{
-		"name": "Gauge +25%",
-		"count": 3,
+		"count": 10,
 		"useful": true,
 		"category": [
 			"Helpers"
