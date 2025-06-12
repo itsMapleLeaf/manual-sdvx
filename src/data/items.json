@@ -17714,22 +17714,6 @@
 		]
 	},
 	{
-		"name": "Timing Window: Hard",
-		"count": 5,
-		"trap": true,
-		"category": [
-			"(Traps) Timing Window"
-		]
-	},
-	{
-		"name": "Timing Window: Normal",
-		"count": 5,
-		"useful": true,
-		"category": [
-			"(Traps) Timing Window"
-		]
-	},
-	{
 		"name": "Speed +0.2",
 		"count": 8,
 		"trap": true,
@@ -17743,54 +17727,6 @@
 		"trap": true,
 		"category": [
 			"(Traps) Speed"
-		]
-	},
-	{
-		"name": "Random On",
-		"count": 3,
-		"trap": true,
-		"category": [
-			"(Traps) Random"
-		]
-	},
-	{
-		"name": "Random Off",
-		"count": 3,
-		"useful": true,
-		"category": [
-			"(Traps) Random"
-		]
-	},
-	{
-		"name": "Hidden +5%",
-		"count": 8,
-		"trap": true,
-		"category": [
-			"(Traps) Hidden"
-		]
-	},
-	{
-		"name": "Hidden -5%",
-		"count": 8,
-		"useful": true,
-		"category": [
-			"(Traps) Hidden"
-		]
-	},
-	{
-		"name": "Sudden +5%",
-		"count": 8,
-		"trap": true,
-		"category": [
-			"(Traps) Sudden"
-		]
-	},
-	{
-		"name": "Sudden -5%",
-		"count": 8,
-		"useful": true,
-		"category": [
-			"(Traps) Sudden"
 		]
 	},
 	{
@@ -17835,7 +17771,7 @@
 	},
 	{
 		"name": "Score Gauge +25%",
-		"count": 15,
+		"count": 3,
 		"useful": true,
 		"category": [
 			"(Helpers) Score Gauge"
@@ -17843,14 +17779,6 @@
 	},
 	{
 		"name": "Score Gauge +10%",
-		"count": 8,
-		"useful": true,
-		"category": [
-			"(Helpers) Score Gauge"
-		]
-	},
-	{
-		"name": "Score Gauge +5%",
 		"count": 5,
 		"useful": true,
 		"category": [
@@ -17858,8 +17786,16 @@
 		]
 	},
 	{
+		"name": "Score Gauge +5%",
+		"count": 8,
+		"useful": true,
+		"category": [
+			"(Helpers) Score Gauge"
+		]
+	},
+	{
 		"name": "Score Gauge +1%",
-		"count": 3,
+		"count": 15,
 		"useful": true,
 		"category": [
 			"(Helpers) Score Gauge"
@@ -17877,6 +17813,13 @@
 		"name": "Downlevel",
 		"count": 10,
 		"useful": true,
+		"category": [
+			"Helpers"
+		]
+	},
+	{
+		"name": "Normal Timing Window",
+		"progression": true,
 		"category": [
 			"Helpers"
 		]

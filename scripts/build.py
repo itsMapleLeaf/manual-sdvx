@@ -1,10 +1,9 @@
-from dataclasses import dataclass
 import json
 from logging import warning
 import os
 import zipfile
 from pathlib import Path
-from typing import Dict, List, Literal, NotRequired, Union, TypedDict
+from typing import Dict, List, NotRequired, Union, TypedDict
 
 from .lib.songs import ALL_SONGS
 from .lib.navigators import navigators
@@ -59,21 +58,25 @@ def navigator_key_category_for(navigator: str) -> str:
 
 
 class SoundVoltexWorld:
-    locations: list[Location]
-    items: list[Item]
-    categories: dict[str, Category]
+    locations: list[Location] = []
+    items: list[Item] = []
+    categories: dict[str, Category] = {}
+
+    @property
+    def item_count(self):
+        return sum(item.get("count") or 1 for item in self.items)
 
     def __init__(self) -> None:
-        self.locations = [
-            {
-                "name": "PERFECT ULTIMATE CHAIN",
-                "requires": "|@Boss Clear|",
-                "victory": True,
-                "category": ["((Victory))"],
-            }
+        self.locations += [
+            Location(
+                name="PERFECT ULTIMATE CHAIN",
+                requires="|@Boss Clear|",
+                victory=True,
+                category=["(((Victory)))"],
+            )
         ]
 
-        self.items = [
+        self.items += [
             Item(
                 name=f"CHAIN {"%03d" % amount}",
                 category=["CHAIN"],
@@ -91,10 +94,7 @@ class SoundVoltexWorld:
             ]
         ]
 
-        self.categories = {
-            "Goals": Category(hidden=True),
-            "Consumables": Category(hidden=True),
-        }
+        self.categories["Goals"] = {"hidden": True}
 
         for navigator in navigators:
             self.categories[navigator_key_category_for(navigator)] = Category(
@@ -124,7 +124,7 @@ class SoundVoltexWorld:
             is_boss = any(level >= 20 for level in song.charts.values())
 
             if is_boss:
-                self.items.append(
+                self.items += [
                     Item(
                         name=song.identifier,
                         progression=True,
@@ -134,9 +134,14 @@ class SoundVoltexWorld:
                             song_number_category_for(song_number),
                             "Boss Access",
                         ],
-                    )
-                )
-                self.locations.append(
+                    ),
+                    Item(
+                        name=f"{song.identifier} (Completion)",
+                        progression=True,
+                        category=["Goals", song.identifier, "Boss Clear"],
+                    ),
+                ]
+                self.locations += [
                     Location(
                         name=song.identifier,
                         requires=f"{{ItemValue(chain:300)}} and |@{song_number_category_for(song_number)}|",
@@ -147,17 +152,10 @@ class SoundVoltexWorld:
                         ],
                         place_item=[f"{song.identifier} (Completion)"],
                     )
-                )
-                self.items.append(
-                    Item(
-                        name=f"{song.identifier} (Completion)",
-                        progression=True,
-                        category=["Goals", song.identifier, "Boss Clear"],
-                    )
-                )
+                ]
             elif song_navigators:
                 for goal in goals:
-                    self.locations.append(
+                    self.locations += [
                         Location(
                             name=f"{song.identifier} ({goal})",
                             requires=" or ".join(
@@ -167,17 +165,15 @@ class SoundVoltexWorld:
                             category=[
                                 "Goals",
                                 song.identifier,
-                                f"(Song) {song.identifier}",
-                                f"(Goal) {goal}",
                                 *[
-                                    f"(Navigator) {navigator}"
+                                    f"(Song) ({navigator}) {song.identifier}"
                                     for navigator in song_navigators
                                 ],
                             ],
                         )
-                    )
+                    ]
             else:
-                self.items.append(
+                self.items += [
                     Item(
                         name=song.identifier,
                         progression=True,
@@ -187,9 +183,9 @@ class SoundVoltexWorld:
                             song_number_category_for(song_number),
                         ],
                     )
-                )
+                ]
                 for goal in goals:
-                    self.locations.append(
+                    self.locations += [
                         Location(
                             name=f"{song.identifier} ({goal})",
                             requires=f"|@{song_number_category_for(song_number)}|",
@@ -200,7 +196,7 @@ class SoundVoltexWorld:
                                 f"(Goal) {goal}",
                             ],
                         )
-                    )
+                    ]
 
         # set the current lazer color, which ever came latest
         # they're all traps because any of them could give you awkward combinations,
@@ -218,22 +214,6 @@ class SoundVoltexWorld:
             for color in ["Red", "Yellow", "Green", "Blue"]
         ]
 
-        # set the current timing window, whichever came latest
-        self.items += [
-            Item(
-                name="Timing Window: Hard",
-                count=5,
-                trap=True,
-                category=["(Traps) Timing Window"],
-            ),
-            Item(
-                name="Timing Window: Normal",
-                count=5,
-                useful=True,
-                category=["(Traps) Timing Window"],
-            ),
-        ]
-
         # alter speed (1.0x === CMod/MMod 100)
         # set base speed at the start of the game
         # current speed is the sum of all
@@ -244,19 +224,20 @@ class SoundVoltexWorld:
         ]
 
         # set the random mod, whichever came latest
-        self.items += [
-            Item(name="Random On", count=3, trap=True, category=["(Traps) Random"]),
-            Item(name="Random Off", count=3, useful=True, category=["(Traps) Random"]),
-        ]
+        # self.items += [
+        #     Item(name="Random On", count=3, trap=True, category=["(Traps) Random"]),
+        #     Item(name="Random Off", count=3, useful=True, category=["(Traps) Random"]),
+        # ]
 
         # progressive hidden/sudden, current is sum of all
-        self.items += [
-            Item(name="Hidden +5%", count=8, trap=True, category=["(Traps) Hidden"]),
-            Item(name="Hidden -5%", count=8, useful=True, category=["(Traps) Hidden"]),
-            Item(name="Sudden +5%", count=8, trap=True, category=["(Traps) Sudden"]),
-            Item(name="Sudden -5%", count=8, useful=True, category=["(Traps) Sudden"]),
-        ]
+        # self.items += [
+        #     Item(name="Hidden +5%", count=8, trap=True, category=["(Traps) Hidden"]),
+        #     Item(name="Hidden -5%", count=8, useful=True, category=["(Traps) Hidden"]),
+        #     Item(name="Sudden +5%", count=8, trap=True, category=["(Traps) Sudden"]),
+        #     Item(name="Sudden -5%", count=8, useful=True, category=["(Traps) Sudden"]),
+        # ]
 
+        # adds an amount to a score to reach a goal
         self.items += [
             Item(
                 name=f"Score +{bonus}",
@@ -273,6 +254,7 @@ class SoundVoltexWorld:
             ]
         ]
 
+        # adds a percentage to a score to make it a pass
         self.items += [
             Item(
                 name=f"Score Gauge +{bonus}%",
@@ -281,10 +263,10 @@ class SoundVoltexWorld:
                 category=["(Helpers) Score Gauge"],
             )
             for count, bonus in [
-                (15, "25"),
-                (8, "10"),
-                (5, "5"),
-                (3, "1"),
+                (3, "25"),
+                (5, "10"),
+                (8, "5"),
+                (15, "1"),
             ]
         ]
 
@@ -293,8 +275,20 @@ class SoundVoltexWorld:
             Item(name="Downlevel", count=10, useful=True, category=["Helpers"]),
         ]
 
+        # start with hard timing window, and this "upgrades" to normal
+        self.items += [
+            Item(name="Normal Timing Window", progression=True, category=["Helpers"]),
+        ]
+        self.locations += [
+            Location(
+                name="Normal Timing Window",
+                category=["((Helpers)) Normal Timing Window"],
+                requires="|Normal Timing Window|",
+            ),
+        ]
+
         gauge_levels = [
-            # start at Blastive 2.5,
+            # start at Blastive 2.5
             "Blastive 2.0",
             "Blastive 1.5",
             "Blastive 1.0",
@@ -312,17 +306,13 @@ class SoundVoltexWorld:
         ]
 
         for index, rate in enumerate(gauge_levels):
-            self.locations.append(
+            self.locations += [
                 Location(
                     name=f"Progressive Gauge ({rate})",
                     requires=f"|Progressive Gauge:{index + 1}|",
                     category=["((Helpers)) Progressive Gauge"],
                 )
-            )
-
-    @property
-    def item_count(self):
-        return sum(item.get("count") or 1 for item in self.items)
+            ]
 
 
 if __name__ == "__main__":
