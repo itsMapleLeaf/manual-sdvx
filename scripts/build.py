@@ -102,7 +102,7 @@ class SoundVoltexWorld:
             )
             self.items += [
                 Item(
-                    name=f"{navigator} [NAVIGATOR ACCESS]",
+                    name=navigator,
                     progression=True,
                     category=["Navigator Keys", navigator_key_category_for(navigator)],
                 )
@@ -120,7 +120,7 @@ class SoundVoltexWorld:
                 if song.title in navigator_songs
             ]
 
-            goals = ["Track Clear", "AA Rank", "AAA Rank", "S Rank"]
+            goals = ["Track Clear", "AA Rank", "AAA Rank"]
             is_boss = any(level >= 20 for level in song.charts.values())
 
             if is_boss:
@@ -203,25 +203,25 @@ class SoundVoltexWorld:
         # like reversed colors, same colors,
         # or non-normal colors that are reversed from the previous non-normal colors
         # that you got used to (lol)
-        self.items += [
-            Item(
-                name=f"{side} Lazer: {color}",
-                count=2,
-                trap=True,
-                category=["(Traps) Lazer Color"],
-            )
-            for side in ["Left", "Right"]
-            for color in ["Red", "Yellow", "Green", "Blue"]
-        ]
+        # self.items += [
+        #     Item(
+        #         name=f"{side} Lazer: {color}",
+        #         count=2,
+        #         trap=True,
+        #         category=["(Traps) Lazer Color"],
+        #     )
+        #     for side in ["Left", "Right"]
+        #     for color in ["Red", "Yellow", "Green", "Blue"]
+        # ]
 
         # alter speed (1.0x === CMod/MMod 100)
         # set base speed at the start of the game
         # current speed is the sum of all
         # all are traps; slow or fast are both bad, but they can balance out!
-        self.items += [
-            Item(name="Speed +0.2", count=8, trap=True, category=["(Traps) Speed"]),
-            Item(name="Speed -0.2", count=8, trap=True, category=["(Traps) Speed"]),
-        ]
+        # self.items += [
+        #     Item(name="Speed +0.2", count=8, trap=True, category=["(Traps) Speed"]),
+        #     Item(name="Speed -0.2", count=8, trap=True, category=["(Traps) Speed"]),
+        # ]
 
         # set the random mod, whichever came latest
         # self.items += [
@@ -243,14 +243,16 @@ class SoundVoltexWorld:
                 name=f"Score +{bonus}",
                 count=count,
                 useful=True,
-                category=["(Helpers) Score Gauge"],
+                category=["Score"],
             )
             for count, bonus in [
-                (1, "100.0000"),
-                (3, "50.0000"),
-                (6, "20.0000"),
-                (12, "10.0000"),
-                (20, "5.0000"),
+                (50, "5.0000"),
+                (20, "10.0000"),
+                # (1, "100.0000"),
+                # (3, "50.0000"),
+                # (6, "20.0000"),
+                # (12, "10.0000"),
+                # (20, "5.0000"),
             ]
         ]
 
@@ -260,30 +262,34 @@ class SoundVoltexWorld:
                 name=f"Score Gauge +{bonus}%",
                 count=count,
                 useful=True,
-                category=["(Helpers) Score Gauge"],
+                category=["Score Gauge"],
             )
             for count, bonus in [
-                (3, "25"),
-                (5, "10"),
-                (8, "5"),
-                (15, "1"),
+                (20, "5"),
+                # (3, "25"),
+                # (5, "10"),
+                # (8, "5"),
+                # (15, "1"),
             ]
         ]
 
         self.items += [
-            Item(name="Cancel Trap", count=10, useful=True, category=["Helpers"]),
+            # Item(name="Cancel Trap", count=10, useful=True, category=["Helpers"]),
             Item(name="Downlevel", count=10, useful=True, category=["Helpers"]),
         ]
 
         # start with hard timing window, and this "upgrades" to normal
+        normal_timing_window_item = Item(
+            name="Normal Timing Window", progression=True, category=["Helpers"]
+        )
         self.items += [
-            Item(name="Normal Timing Window", progression=True, category=["Helpers"]),
+            normal_timing_window_item,
         ]
         self.locations += [
             Location(
-                name="Normal Timing Window",
-                category=["((Helpers)) Normal Timing Window"],
-                requires="|Normal Timing Window|",
+                name=normal_timing_window_item["name"],
+                category=["(Helpers) Normal Timing Window"],
+                requires=f"|{normal_timing_window_item["name"]}|",
             ),
         ]
 
@@ -327,7 +333,7 @@ if __name__ == "__main__":
     game_info = GameInfo(
         game="SDVX" + ("_dev" if is_dev else ""),
         creator="MapleLeaf",
-        filler_item_name="you tried (Score +0.1000)",
+        filler_item_name="you tried (Score +1.0000)",
         death_link=False,
         starting_items=[{"item_categories": ["Songs"], "random": 5}],
     )
